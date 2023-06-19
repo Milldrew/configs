@@ -1,0 +1,3 @@
+echo "git aliases sourced"
+alias s="git status"
+alias gita="$EDITOR""~/.config/aliases/git-aliases"

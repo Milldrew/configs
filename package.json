@@ -1,0 +1,12 @@
+{
+  "name": "CONFIGS FOR UNIX AND MACOS ENVIRONMENT",
+  "version": "1.0.0",
+  "description": "THIS PROJECT IS FOR KEEPING ALL OF MY MAC OS AND UNIX ENVIRONMENT CONFIGURATIONS ORGANIZED AND UP TO DATE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

@@ -18,4 +18,6 @@ acli (atlassian cli) see atlassian.txt
 
 
 Todos
-1. Curate my shell scripts and add the bath to the .zshrc
+1. Curate my shell scripts and add the bath to the .zshrc ✓
+2. configure private aliases, aliases, environment variables. PATH etc.
+3. Start a system for managin neovim.

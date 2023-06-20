@@ -1,0 +1,15 @@
+#!/usr/local/bin/bash
+echo "YOUR TOODO LIST:"
+echo "----------------"
+cat ~/todos.txt
+echo "----------------"
+echo "Advaita bio todo list:"
+echo "----------------"
+cat ~/ABtasks.txt
+echo "----------------"
+echo "Daily Phyiscal Workouts"
+echo "----------------"
+cat ~/Workout.txt
+echo "----------------"
+cat ~/MemoryPalace.txt
+

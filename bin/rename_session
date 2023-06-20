@@ -1,0 +1,3 @@
+#!/usr/local/bin/bash
+tmux rename-session "$1"
+echo 'session renamed: '"$1"

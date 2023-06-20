@@ -1,0 +1,18 @@
+#!/usr/local/bin/bash
+# Check if a directory name is provided
+if [ ! "$#" -eq 1 ]; then
+  echo "USAGE: $0 DIRECTORY"
+  exit 1
+fi
+
+# Check if the provided directory exists
+if [ ! -d "$1" ]; then
+  echo "ERROR: Directory $1 does not exist"
+  exit 1
+fi
+
+# Count the number of lines recursively in all the files in the directory and its subdirectories
+lines=$(find "$1" -type f -exec cat {} \; | wc -l)
+
+# Output the total number of lines
+echo "Total number of lines in $1: $lines"

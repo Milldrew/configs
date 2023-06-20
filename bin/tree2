@@ -1,0 +1,2 @@
+#!/usr/local/bin/bash
+tree -L 2 $1

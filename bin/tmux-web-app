@@ -1,0 +1,18 @@
+tmux new -s 00-proxy -n spring -d -c ~/pgwebapp10/
+tmux new -s 01-pgwebapp -n angular-ws -d -c ~/pgwebapp10/src/main/webapp/ 
+tmux new-window -n meta-reports -c ~/pgwebapp10/src/main/webapp/src/app/report/meta/
+tmux send-keys -t 01-pgwebapp:2.1 Enter
+tmux send-keys -t 01-pgwebapp:2.1 'tmux split-window' Enter
+tmux send-keys -t 01-pgwebapp:2.1 'tmux split-window' Enter
+tmux send-keys -t 01-pgwebapp:2.1 'tmux select-layout main-horizontal' Enter 
+sleep 2 
+tmux send-keys -t 01-pgwebapp:2.3 'npm start' Enter
+tmux send-keys -t 00-proxy:1.1 Enter
+tmux send-keys -t 00-proxy:1.1 start_java Enter
+tmux new -s playwright -d -c ~/pgwebapp10/playwright/
+tmux send-keys -t playwright:1.1 'tmux split-window' Enter
+tmux send-keys -t playwright:1.1 'tmux select-layout even-horizontal' Enter
+sleep 2
+tmux send-keys -t playwright:1.2 'vim tests' Enter
+tmux attach-session -t playwright
+#tmux attach-session -t 01-pgwebapp

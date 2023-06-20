@@ -1,0 +1,16 @@
+
+LUA_ROOT='~/lua/'
+ANGULAR_PROJECT_LEVEL=$LUA_ROOT"/src/app/"
+ANGULAR_TASKS='~/angular-tasks.txt'
+CURRENT_DIR=${PWD##*/} 
+
+tmux new -s lua -d -n lua-root -c $LUA_ROOT
+tmux split-window
+tmux split-window
+tmux select-layout main-horizontal
+tmux new-window -n tasks -c 
+tmux select-window -t 2
+tmux select-pane -t 1
+tmux send-keys -t $CURRENT_DIR:2.1 'vim -c Sapp' Enter
+tmux send-keys -t $CURRENT_DIR:2.3 'ng serve --port '$PORT Enter
+tmux send-keys -t $CURRENT_DIR:2.2 'cd src/app' Enter

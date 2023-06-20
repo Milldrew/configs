@@ -1,0 +1,33 @@
+PORT=$1
+echo $PORT
+: '
+User Story
+  • I am at the top of a new angular workspace
+  • This script create a tmux session that
+    o  The tmux session has a window at the workspace root named ws-root
+    o  The tmux session has a window in the app dir named app-level
+      - The app level window has 3 panes the first pane
+      - view has One main pane across the top with vim
+      - and two panes on the lower half the bottom right screen is running vim 
+      - the top middle screen has vim opened in the app dir
+    o  The tmux session has a third window to track tasks
+  • The script starts up the the development environment web-server
+  • Then script attaches to the vim terminal 
+'
+
+ANGULAR_PROJECT_ROOT=$(pwd)
+ANGULAR_PROJECT_LEVEL=$ANGULAR_PROJECT_ROOT"/src/app/"
+ANGULAR_TASKS='~/angular-tasks.txt'
+CURRENT_DIR=${PWD##*/} 
+
+tmux new -s $CURRENT_DIR -d -n project-root -c $ANGULAR_PROJECT_ROOT
+tmux new-window -n $CURRENT_DIR-level -c $ANGULAR_PROJECT_LEVEL
+tmux split-window
+tmux split-window
+tmux select-layout main-horizontal
+tmux new-window -n tasks -c 
+tmux select-window -t 2
+tmux select-pane -t 1
+tmux send-keys -t $CURRENT_DIR:2.1 'vim -c Sapp' Enter
+tmux send-keys -t $CURRENT_DIR:2.3 'ng serve --port '$PORT Enter
+tmux send-keys -t $CURRENT_DIR:2.2 'cd src/app' Enter

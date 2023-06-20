@@ -1,0 +1,1 @@
+tmux send-keys -t playwright:1.1 C-c

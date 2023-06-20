@@ -1,0 +1,4 @@
+tmux new -s ekb-root  -d -n project-root -c ~/download-parse-update-ekb/
+tmux new -s old-dpus  -d -n project-root -c ~/download-parse-update-ekb/old-dpus-develop-branch
+cd ~/download-parse-update-ekb/nest-download-parse-ekb/kegg
+tna

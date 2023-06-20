@@ -1,0 +1,5 @@
+file_name=$1
+commits=$2
+
+# Show the changes for the file in the specified commit
+git diff "HEAD~$commits" -- "$file_name"

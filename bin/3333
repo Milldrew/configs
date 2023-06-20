@@ -1,0 +1,4 @@
+#!/usr/local/bin/bash
+echo http://localhost:3333/"$1"
+curl http://localhost:3333/"$1"
+

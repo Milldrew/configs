@@ -1,0 +1,4 @@
+#!/bin/bash
+tmux setw synchronize-panes on
+clear
+tmux setw synchronize-panes off

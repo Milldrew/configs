@@ -1,0 +1,6 @@
+#!/bin/bash
+
+# Use find to get all JavaScript files in the current directory and subdirectories
+find . -type f -name "*" -exec gsed -i '/console\.log/d' {} +
+
+echo "Deleted all lines containing console.log from JavaScript files."

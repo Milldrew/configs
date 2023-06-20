@@ -1,0 +1,16 @@
+
+# Get the path of the main worktree
+main_worktree=$(git rev-parse --show-toplevel)
+
+# Loop through all of the working directories
+for dir in $(git worktree list | awk '{print $1}')
+do
+    # Skip the main worktree
+    if [ "$dir" != "$main_worktree" ]; then
+        # Force remove the worktree
+        git worktree remove --force $dir
+        echo "Removed worktree: $dir"
+    fi
+done
+
+e

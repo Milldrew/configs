@@ -1,0 +1,19 @@
+#!/usr/local/bin/bash
+HAS_PACKAGE_JSON=0
+while [ "$HAS_PACKAGE_JSON" = 0 ]
+do
+  mapfile -t ARRAY_OF_FILES < <(ls -d -- *)
+  for file in ${ARRAY_OF_FILES[@]} 
+  do
+    if [ "$file" = "package.json" ]; then 
+      HAS_PACKAGE_JSON=1
+      break
+    fi
+  done
+ if [ "$HAS_PACKAGE_JSON" = 1 ]; then
+   break
+ fi
+  cd ..
+done
+
+nvim package.json

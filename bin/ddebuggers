@@ -1,0 +1,2 @@
+find . -type f -name "*.ts" -exec sed -i 's/debugger;//g' {} +
+

@@ -1,0 +1,2 @@
+#!/bin/bash
+tmux resize-pane -x 63

@@ -1,3 +1,32 @@
 echo "git aliases sourced"
 alias s="git status"
 alias gita="$EDITOR""~/.config/aliases/git-aliases"
+alias gitnotes="less ~/notes/git-notes.txt"
+alias gitprofile="less ~/.bash_profile_git"
+alias egit="vim ~/.bash_profile_git"
+alias ga="git add"
+alias gam="git commit --amend"
+alias gac="git add . ; git commit"
+function gad() {
+  commit_message=$(date) 
+  git add .
+  echo $commit_message
+  git commit -m "📅  | $commit_message"
+}
+alias gb="git branch"
+alias gc="git commit"
+alias gclone="git clone --depth 1"
+alias gch="git checkout"
+alias glba="git log --all --graph --oneline "
+alias glb="git log --all --graph --oneline -n 10"
+alias gll="git log --all --graph --oneline -n 10"
+alias gln="git log --oneline -n"
+alias gla="git log --all --graph --oneline"
+alias gl="git log --graph --oneline"
+alias gpsh="git push"
+alias gst="git status -uno"
+alias gi="git init;
+          echo '*node_modules*' >> .gitignore ;
+          echo '*.env' >> .gitignore ;
+          echo '*.swp' >> .gitignore ;
+          echo 'this repository is for' >> readme.md"

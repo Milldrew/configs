@@ -17,3 +17,5 @@ gh (github cli)  (brew)
 acli (atlassian cli) see atlassian.txt
 
 
+Todos
+1. Curate my shell scripts and add the bath to the .zshrc

@@ -1,1 +1,4 @@
 private-configs/
+*node_modules*
+*.env
+*.swp

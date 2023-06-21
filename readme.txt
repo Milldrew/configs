@@ -1,8 +1,8 @@
 THIS PROJECT IS FOR KEEPING ALL OF MY MAC OS AND UNIX ENVIRONMENT CONFIGURATIONS ORGANIZED AND UP TO DATE
 
 MAC OS X APPLICATIONS
-Flycut Copy and paste cliboard
-Magnet organizing windows
+Flycut Copy and paste cliboard (open on login)
+Magnet organizing windows  (open on login)
 Time Machine User Back Up
 
 UNIX APPLICATIONS (package manager homebrew)
@@ -10,6 +10,7 @@ zsh (built in)
 neovim (brew)
 tmux   (brew)
 nvm (node version manager) see nvm.txt
+ai-chat (Milldrew Soft) https://github.com/Milldrew-Soft/ai-chat-cli (branch gpt) download via git clone
 node ( managed by nvm)
 git
 Oh My Zsh  see oh-my-zsh.txt

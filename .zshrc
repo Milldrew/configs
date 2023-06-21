@@ -100,7 +100,11 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 echo zshrc sourced
-for alias_file in ~/.config/aliases/*; do source $alias_file; done
-for variable_file in ~/.config/environment-variables/*; do source $variable_file; done
-for private_aliases in ~/private-configs/aliases/*; do source $private_aliases; done
 for private_variables in ~/private-configs/variables/*; do source $private_variables; done
+for variable_file in ~/.config/environment-variables/*; do source $variable_file; done
+for alias_file in ~/.config/aliases/*; do source $alias_file; done
+for private_aliases in ~/private-configs/aliases/*; do source $private_aliases; done
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion

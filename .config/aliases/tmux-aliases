@@ -1,0 +1,2 @@
+echo "tmux aliases sourced"
+alias ta="tmux attach"

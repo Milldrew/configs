@@ -17,6 +17,11 @@ Oh My Zsh  see oh-my-zsh.txt
 gh (github cli)  (brew)
 acli (atlassian cli) see atlassian.txt
 
+Noteworthy Neovim plugins.
+packager -> package manager
+github copilot 
+
+
 
 Todos
 1. Curate my shell scripts and add the bath to the .zshrc ✓

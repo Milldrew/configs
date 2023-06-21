@@ -1,0 +1,2 @@
+Neovim source: Homebrew Unix package manager
+Neovim package manager: Packer

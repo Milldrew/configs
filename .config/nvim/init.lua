@@ -4,3 +4,4 @@ require('maps')
 require('variables')
 
 
+vim.cmd('source ~/.config/nvim/vim-plug.vim')

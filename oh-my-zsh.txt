@@ -1,0 +1,4 @@
+I want my command line promt to.
+Tell me what the full path to my current directory.
+Track git informaiton.
+give me autocomplete suggestions for everything.

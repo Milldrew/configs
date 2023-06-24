@@ -22,7 +22,6 @@ private-configs/
 .neovim.txt.swp
 .npm
 .nvm
-.oh-my-zsh
 .readme.txt.swp
 .sdkman
 .tmux.conf
@@ -52,3 +51,4 @@ package.json
 private-configs
 readme.txt
 sdkman.txt
+.oh-my-zsh

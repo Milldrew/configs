@@ -1,17 +1,25 @@
+-- THIS FILE IS NOT SCALABLE MAKE MORE FILES FOR EXAMPLE copilot-maps.lua
 print "nvim maps sourced"
 vim.keymap.set('i', 'jj', '<esc>')
+-- quick fix list
 vim.keymap.set('n', '<leader>N', ':cn<cr>')
 vim.keymap.set('i', '<leader>N', '<c-o>cn<cr>')
 vim.keymap.set('n', '<leader>p', ':cp<cr>')
 vim.keymap.set('i', '<leader>p', '<c-o>cp<cr>')
+-- remove highlight
 vim.keymap.set('i', '<leader>;', '<c-o>:noh<cr>')
 vim.keymap.set('n', '<leader>;', ':noh<cr>')
+-- even out windows quickly
 vim.keymap.set('n', '<leader>=', '<c-w>= nnoremap <leader> | <c-w> |')
+-- quick save
 vim.keymap.set('i', '<leader><space>', '<c-o>0:w<cr>$')
 vim.keymap.set('n', '<leader><space>', 'jk0:w<cr>$')
+-- quick quit close tab
 vim.keymap.set('n', '<leader>c', ':wa  | tabc<cr>')
+-- navigate to next thing
 vim.keymap.set('n', '<leader>]', ':+tabm<cr>')
 vim.keymap.set('n', '<leader>[', ':-tabm<cr>')
+-- snippetis maps
 vim.keymap.set('i', 'ccc', 'constructor(){}<left><left><left>')
 vim.keymap.set('i', 'lll', 'console.log()<esc>i')
 vim.keymap.set('n', '<leader>ht', '/html<CR><CR>')
@@ -21,8 +29,10 @@ vim.keymap.set('c', 'amend', '!git add .; git commit --amend<CR>')
 vim.keymap.set('i', 'nnn', 'number')
 vim.keymap.set('i', 'sss', 'string')
 vim.keymap.set('i', 'bbb', 'boolean')
+-- quick save exit
 vim.keymap.set('i', 'ZZ', '<esc>:xa<cr>')
 vim.keymap.set('n', 'ZZ', ':xa<cr>')
+-- quick to normal mode
 vim.keymap.set('i', 'jj', '<esc>llh')
 vim.keymap.set('n', '<leader>sns', ':set nospell<CR>')
 vim.keymap.set('n', '<leader>ss', ':set spell<CR>')

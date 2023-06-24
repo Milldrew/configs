@@ -28,10 +28,12 @@ github copilot
 
 Todos
 1. Start a system for managing neovim.
-   • Create some mapping for turing gh copilot off and on
-     <leader>cpe (enable)
-     <leader>cpd (disable)
-     <leader>cps (suggest)
-     <leader>cpt (toggle)
 2. Add neovim lsp for lua
-   add auto completion for lua etc.
+    lua
+      LSP
+       go to definiton 
+       hover for information 
+       auto completion
+
+
+

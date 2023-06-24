@@ -4,6 +4,7 @@ MAC OS X APPLICATIONS
 Flycut Copy and paste cliboard (open on login)
 Magnet organizing windows  (open on login)
 Time Machine User Back Up
+iTerm2
 
 UNIX APPLICATIONS (package manager homebrew)
 zsh (built in)

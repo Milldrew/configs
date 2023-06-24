@@ -1,1 +1,2 @@
 lsp servers
+brew install lua-language-server

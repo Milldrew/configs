@@ -5,3 +5,16 @@ give me autocomplete suggestions for everything.
 
 theme - agnoster
 - to get it to look correct must check box 'use built in powerline glyphs' in terminal preferences for iterm2
+
+──────────────
+Suggestions
+──────────────
+Oh My Zsh
+Clone this repository into $ZSH_CUSTOM/plugins (by default ~/.oh-my-zsh/custom/plugins)
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+Add the plugin to the list of plugins for Oh My Zsh to load (inside ~/.zshrc):
+plugins=( 
+    # other plugins...
+    zsh-autosuggestions
+)
+

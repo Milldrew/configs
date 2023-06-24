@@ -25,15 +25,3 @@ packager -> package manager
 github copilot 
 
 
-
-Todos
-1. Start a system for managing neovim.
-2. Add neovim lsp for lua
-    lua
-      LSP
-       go to definiton 
-       hover for information 
-       auto completion
-
-
-

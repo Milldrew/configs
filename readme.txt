@@ -10,8 +10,10 @@ zsh (built in)
 neovim (brew)
 tmux   (brew)
 nvm (node version manager) see nvm.txt
+sdkman (java version manager) see sdkman.txt
 ai-chat (Milldrew Soft) https://github.com/Milldrew-Soft/ai-chat-cli (branch gpt) download via git clone
 node ( managed by nvm)
+java (managed by sdkman)
 git
 Oh My Zsh  see oh-my-zsh.txt
 gh (github cli)  (brew)
@@ -28,3 +30,6 @@ Todos
 2. configure private aliases, aliases, environment variables. PATH etc. ✓
 3. Start a system for managing neovim.
 	• added mappings ✓
+	• Add vim variable settings ✓
+  • Add vim plugins 
+

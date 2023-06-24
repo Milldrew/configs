@@ -3,3 +3,5 @@ private-configs/
 *.env
 *.swp
 .config/iterm2/
+.config/github-copilot
+.config/nvim/pack

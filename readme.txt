@@ -27,10 +27,11 @@ github copilot
 
 
 Todos
-1. Curate my shell scripts and add the bath to the .zshrc ✓
-2. configure private aliases, aliases, environment variables. PATH etc. ✓
-3. Start a system for managing neovim.
-	• added mappings ✓
-	• Add vim variable settings ✓
-  • Add vim plugins 
-
+1. Start a system for managing neovim.
+   • Create some mapping for turing gh copilot off and on
+     <leader>cpe (enable)
+     <leader>cpd (disable)
+     <leader>cps (suggest)
+     <leader>cpt (toggle)
+2. Add neovim lsp for lua
+   add auto completion for lua etc.

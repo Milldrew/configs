@@ -28,3 +28,8 @@ github copilot
 TODOS:
 1. Add the after directory and organize the plugin specific configs to the after/plugin.lua file
 2. Add ftplugin files and add file specific mapping to those files
+3. Make sure to add the nvim-cmp config so that it renders the markdown instead of showing the markdown syntax
+4. Make the mason plugin look like what it looks like in the 
+5. Install telescope and use that.
+6. Go through primagens Zero to LSP video several times to make sure I dont miss any gold nuggets.
+

@@ -55,3 +55,6 @@ sdkman.txt
 .m2/
 hello.js hello.lua
 hello.js
+ng-14
+../.angular-config.json
+.angular-config.json

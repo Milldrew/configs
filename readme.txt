@@ -25,3 +25,6 @@ packager -> package manager
 github copilot 
 
 
+TODOS:
+1. Add the after directory and organize the plugin specific configs to the after/plugin.lua file
+2. Add ftplugin files and add file specific mapping to those files

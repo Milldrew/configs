@@ -102,6 +102,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+prompt_context(){}
 echo zshrc sourced
 for private_variables in ~/private-configs/variables/*; do source $private_variables; done
 for variable_file in ~/.config/environment-variables/*; do source $variable_file; done

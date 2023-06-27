@@ -1,5 +1,6 @@
 echo "core aliases sourced"
 alias zsrc="source ~/.zshrc"
+alias zrc="$EDITOR"" ~/.zshrc"
 alias config="$EDITOR"" ~/.config/"
 alias variables="$EDITOR"" ~/.config/environment-variables"
 alias aliases="$EDITOR"" ~/.config/aliases"

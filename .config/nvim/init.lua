@@ -5,6 +5,7 @@ require('maps')
 require('copilot-maps')
 require('variables')
 require('lua-lsp')
+require('lsp-zero')
 
 
 

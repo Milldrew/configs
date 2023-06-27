@@ -52,3 +52,4 @@ private-configs
 readme.txt
 sdkman.txt
 .oh-my-zsh
+.m2/

@@ -121,4 +121,4 @@ export SDKMAN_DIR="$HOME/.sdkman"
 
 
 # Load Angular CLI autocompletion.
-source <(ng completion script)
+# source <(ng completion script)

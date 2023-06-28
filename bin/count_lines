@@ -1,4 +1,4 @@
-#!replace shebang with this comment
+#replace shebang with this comment
 # Check if a directory name is provided
 if [ ! "$#" -eq 1 ]; then
   echo "USAGE: $0 DIRECTORY"

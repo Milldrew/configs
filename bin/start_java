@@ -1,2 +1,2 @@
-#!replace shebang with this comment
+#replace shebang with this comment
 mvn spring-boot:run

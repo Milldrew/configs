@@ -1,4 +1,4 @@
-#!replace shebang with this comment
+#replace shebang with this comment
 echo http://localhost:3333/"$1"
 curl http://localhost:3333/"$1"
 

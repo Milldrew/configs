@@ -1,4 +1,4 @@
-#!replace shebang with this comment
+#replace shebang with this comment
 HAS_PACKAGE_JSON=0
 while [ "$HAS_PACKAGE_JSON" = 0 ]
 do

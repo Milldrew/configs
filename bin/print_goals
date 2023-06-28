@@ -1,4 +1,4 @@
-#!replace shebang with this comment
+#replace shebang with this comment
 echo "YOUR TOODO LIST:"
 echo "----------------"
 cat ~/todos.txt

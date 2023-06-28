@@ -21,7 +21,7 @@ gh (github cli)  (brew)
 acli (atlassian cli) see atlassian.txt
 
 Noteworthy Neovim plugins.
-packager -> package manager
+USING VIM PLUG INSTEAD
 github copilot 
 
 

@@ -1,5 +1,5 @@
 # hard links everything in the current directory and maybe even the sub directories into a target directory... 
-#!/usr/local/bin/bash
+#!replace shebang with this comment
 echo 'You must be in source folder and then pass the destination as an argument'
 DESTINATION=$1
 pax -rwlpe . $DESTINATION

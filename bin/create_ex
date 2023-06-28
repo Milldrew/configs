@@ -1,7 +1,4 @@
-#!/usr/local/bin/bash
-cat >> ~/bin/"$1" <<EOF
-#!/usr/local/bin/bash
-EOF
+echo "#""$1" >> ~/bin/"$1" 
 chmod +x ~/bin/"$1"
 nvim ~/bin/"$1"
 

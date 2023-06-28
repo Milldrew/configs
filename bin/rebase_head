@@ -1,2 +1,2 @@
-#!/usr/local/bin/bash
+#!replace shebang with this comment
 git rebase -i HEAD~"$1"

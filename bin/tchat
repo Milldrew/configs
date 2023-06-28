@@ -1,0 +1,10 @@
+CHAT_ROOT='~/ai-chat-cli/'
+tmux new -s ai-chat -n ai-chat -d -c ~/ai-chat-cli/
+sleep 1
+tmux split-window -t ai-chat:1.1 
+tmux select-layout even-horizontal
+sleep 1
+tmux send-keys -t ai-chat:1.1 Enter
+tmux send-keys -t ai-chat:1.1 'vim ~/.chat/prompt.txt' Enter
+tmux send-keys -t ai-chat:1.2 Enter
+tmux send-keys -t ai-chat:1.2 'node ~/ai-chat-cli/dist/chat-app.js' Enter

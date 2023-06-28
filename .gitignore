@@ -12,7 +12,6 @@ private-configs/
 .bash_history
 .bash_profile
 .chat
-.config
 .git
 .gitconfig
 .gitignore

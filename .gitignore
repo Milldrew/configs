@@ -12,7 +12,6 @@ private-configs/
 .bash_history
 .bash_profile
 .chat
-.config
 .git
 .gitconfig
 .gitignore
@@ -43,7 +42,6 @@ Music
 Pictures
 Public
 ai-chat-cli
-bin
 github-copilot.txt
 neovim.txt
 node-version-manager.txt

@@ -1,0 +1,2 @@
+echo "oh my zsh variables sourced"
+export DEFAULT_USER="Milldrew"

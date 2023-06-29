@@ -1,4 +1,5 @@
 call plug#begin()
+  Plug 'neoclide/coc.nvim', {'branch': 'release'}
   Plug 'vim-airline/vim-airline'
   Plug 'L3MON4D3/LuaSnip'
   Plug 'airblade/vim-gitgutter'
@@ -25,7 +26,7 @@ call plug#begin()
   Plug 'hrsh7th/nvim-cmp'     " Required
   Plug 'hrsh7th/cmp-nvim-lsp' " Required
   Plug 'L3MON4D3/LuaSnip'     " Required
-
+  Plug 'mhartington/formatter.nvim'
   Plug 'VonHeikemen/lsp-zero.nvim', {'branch': 'v2.x'}
 call plug#end()
 

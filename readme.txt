@@ -32,4 +32,3 @@ TODOS:
 4. Make the mason plugin look like what it looks like in the 
 5. Install telescope and use that.
 6. Go through primagens Zero to LSP video several times to make sure I dont miss any gold nuggets.
-

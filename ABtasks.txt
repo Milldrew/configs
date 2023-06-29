@@ -1,3 +1,6 @@
+TODOS:
+1.get autoformatting to work on save
+2.get git gutter linewise highlighting again.
 ======RETRO
 I just upgraded my internet to to 1GB upload/download per month 1000 mbs.
 when i am connected to the vpn i get 20mbps.

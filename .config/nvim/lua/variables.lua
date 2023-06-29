@@ -25,8 +25,11 @@ vim.opt.shortmess = vim.opt.shortmess + 'c'
 vim.g.netrw_bufsettings = 'noma nomod nu nobl nowrap ro'
 
 vim.cmd([[
+  let g:netrw_banner=0
 	syntax off
 	filetype on
+  let g:netrw_keepdir=0
+  let g:netrw_bufsettings = 'noma nomod nu nobl nowrap ro'
 ]])
 
 

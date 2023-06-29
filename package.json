@@ -1,5 +1,5 @@
 {
-  "name": "CONFIGS FOR UNIX AND MACOS ENVIRONMENT",
+  "name": "andrewmiller",
   "version": "1.0.0",
   "description": "THIS PROJECT IS FOR KEEPING ALL OF MY MAC OS AND UNIX ENVIRONMENT CONFIGURATIONS ORGANIZED AND UP TO DATE",
   "main": "index.js",
@@ -8,5 +8,8 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  }
 }

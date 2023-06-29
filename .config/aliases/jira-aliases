@@ -1,0 +1,23 @@
+alias srcja="~/.config/bash-config/jira-aliases"
+alias jira="acli jiracloud -s https://advaitabio.atlassian.net --user andrew.miller@advaitabio.com -t ATATT3xFfGF07BnN3SYDTE7a878dkQBHkThMz8MdG6KDSs30hwQIloCouFZdqdtgDa_Pi3Kmd8cRgsalI5E0XYxFjtSzWDmfVP3E7OfukkPAVd2QofH_5SBztAuo5wapnkfdRz_MsdViSmlEEddVbY4vzUK1kwqlvLUxNA0w7RkNsq7PAIH4xns=76F8C210 -a"
+alias li="acli jiracloud -s https://advaitabio.atlassian.net --user andrew.miller@advaitabio.com -t ATATT3xFfGF07BnN3SYDTE7a878dkQBHkThMz8MdG6KDSs30hwQIloCouFZdqdtgDa_Pi3Kmd8cRgsalI5E0XYxFjtSzWDmfVP3E7OfukkPAVd2QofH_5SBztAuo5wapnkfdRz_MsdViSmlEEddVbY4vzUK1kwqlvLUxNA0w7RkNsq7PAIH4xns=76F8C210 -a getIssueList"
+alias ja="nvim ~/.config/bash-config/jira-aliases"
+
+function ii() {
+  acli jiracloud -s https://advaitabio.atlassian.net --user andrew.miller@advaitabio.com -t ATATT3xFfGF07BnN3SYDTE7a878dkQBHkThMz8MdG6KDSs30hwQIloCouFZdqdtgDa_Pi3Kmd8cRgsalI5E0XYxFjtSzWDmfVP3E7OfukkPAVd2QofH_5SBztAuo5wapnkfdRz_MsdViSmlEEddVbY4vzUK1kwqlvLUxNA0w7RkNsq7PAIH4xns=76F8C210 -a getIssue --issue $1 | grep -E 'Project|Key|Issue|Assignee|Created|Summary|Status|Priority'
+}
+
+function ci() {
+  echo project: $1
+  echo issueType: $2
+  echo summary: $3
+    acli jiracloud -s https://advaitabio.atlassian.net --user andrew.miller@advaitabio.com -t ATATT3xFfGF07BnN3SYDTE7a878dkQBHkThMz8MdG6KDSs30hwQIloCouFZdqdtgDa_Pi3Kmd8cRgsalI5E0XYxFjtSzWDmfVP3E7OfukkPAVd2QofH_5SBztAuo5wapnkfdRz_MsdViSmlEEddVbY4vzUK1kwqlvLUxNA0w7RkNsq7PAIH4xns=76F8C210 -a createIssue --project $1 --issueType $2 --summary "$3" 
+}
+
+function jaa () {
+echo issue: $1
+echo file: $2
+    acli jiracloud -s https://advaitabio.atlassian.net --user andrew.miller@advaitabio.com -t ATATT3xFfGF07BnN3SYDTE7a878dkQBHkThMz8MdG6KDSs30hwQIloCouFZdqdtgDa_Pi3Kmd8cRgsalI5E0XYxFjtSzWDmfVP3E7OfukkPAVd2QofH_5SBztAuo5wapnkfdRz_MsdViSmlEEddVbY4vzUK1kwqlvLUxNA0w7RkNsq7PAIH4xns=76F8C210 -a addAttachment --issue "$1" --file "$2"
+}
+
+echo "ja sourced"

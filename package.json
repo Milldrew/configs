@@ -10,6 +10,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/lodash": "^4.14.195",
     "prettier": "^2.8.8"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
   }
 }

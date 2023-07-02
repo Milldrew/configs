@@ -29,4 +29,4 @@ alias gi="git init;
           echo '*node_modules*' >> .gitignore ;
           echo '*.env' >> .gitignore ;
           echo '*.swp' >> .gitignore ;
-          echo 'this repository is for' >> readme.md"
+          echo 'this repository is for' >> readme.txt"

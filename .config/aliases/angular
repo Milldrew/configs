@@ -1,1 +1,2 @@
+echo angular aliases loaded
 alias "ng"="npx ng"

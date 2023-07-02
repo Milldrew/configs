@@ -1,6 +1,7 @@
 local lsp = require('lsp-zero').preset({})
 
 lsp.on_attach(function(client, bufnr)
+  client.server_capabilities.semanticTokensProvider = nil
   lsp.default_keymaps({buffer = bufnr})
 end)
 

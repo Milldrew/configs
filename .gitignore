@@ -84,3 +84,4 @@ hello.java
 .DS_Store
 .docker
 .cache
+playwright-scripts/

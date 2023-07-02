@@ -74,3 +74,13 @@ hello.js hello.ts
 hello.ts
 .m2
 test
+old-m2
+.config/coc/extensions
+.oracle_jre_usage
+.docker
+.config/coc
+.aws
+hello.java
+.DS_Store
+.docker
+.cache

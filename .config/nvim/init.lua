@@ -4,8 +4,6 @@ vim.cmd('source ~/.config/nvim/vim-plug.vim')
 require('maps')
 require('copilot-maps')
 require('variables')
--- require('lua-lsp')
-require('lsp-zero-rc')
 
 
 

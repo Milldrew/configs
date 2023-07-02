@@ -1,4 +1,5 @@
 echo "git aliases sourced"
+alias untracked="git ls-files --others --exclude-standard"
 alias s="git status"
 alias gita="$EDITOR""~/.config/aliases/git-aliases"
 alias gitnotes="less ~/notes/git-notes.txt"

@@ -1,3 +1,4 @@
+vim.keymap.set('n', 'gq', "f't'")
 -- THIS FILE IS NOT SCALABLE MAKE MORE FILES FOR EXAMPLE copilot-maps.lua
 print "nvim maps sourced"
 vim.keymap.set('i', 'jj', '<esc>')

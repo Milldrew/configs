@@ -1,4 +1,10 @@
 {
+  "angular.log": "normal",
+  "angular.trace.server": "messages",
+  "angular.suggest.includeAutomaticOptionalChainCompletions": true,
+  "pairs.disableLanguages": ["text", "txt"],
+  "coc.preferences.formatOnSave": true,
+  "eslint.autoFixOnSave": true,
   "coc.preferences.formatOnSaveFiletypes": [
     "css",
     "markdown",
@@ -9,4 +15,24 @@
     "scss",
     "svg"
   ],
+  "codeLens.enable": true,
+  "javascript.suggest.autoImports": true,
+  "typescript.suggest.autoImports": true,
+  "javascript.referencesCodeLens.enable": false,
+  "typescript.referencesCodeLens.enable": false,
+  "tsserver.maxTsServerMemory": 6000,
+  "languageserver": {
+    "graphql": {
+      "command": "graphql-lsp",
+      "args": ["server", "-m", "stream"],
+      "filetypes": ["graphql"]
+    },
+    "terraform": {
+      "command": "terraform-ls",
+      "args": ["serve"],
+      "filetypes": ["terraform", "tf"],
+      "initializationOptions": {}
+    }
+  },
+  "angular.enable-strict-mode-prompt": false
 }

@@ -85,3 +85,4 @@ hello.java
 .docker
 .cache
 playwright-scripts/
+.config/coc/memos.json

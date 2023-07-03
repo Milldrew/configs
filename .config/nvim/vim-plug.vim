@@ -30,3 +30,5 @@ call plug#begin()
   Plug 'VonHeikemen/lsp-zero.nvim', {'branch': 'v2.x'}
 call plug#end()
 
+
+let b:coc_suggest_disable = 1

@@ -1,6 +1,7 @@
 echo "nvim aliases sourced"
 alias vim="nvim"
 alias lua="$EDITOR"" ~/.config/nvim/lua"
+alias ftplugin="$EDITOR"" ~/.config/nvim/ftplugin"
 alias vrc="$EDITOR"" ~/.config/nvim/"
 alias vplug="$EDITOR"" ~/.config/nvim/vim-plug.vim"
 alias plugged="$EDITOR"" /Users/andrewmiller/.local/share/nvim/plugged"

@@ -87,3 +87,7 @@ hello.java
 playwright-scripts/
 .config/coc/memos.json
 download-parse-update-ekb
+.config/configstore/update-notifier-npm.json
+.node_repl_history
+asc_seurat/
+.config/coc/memos.json

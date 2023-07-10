@@ -91,3 +91,4 @@ download-parse-update-ekb
 .node_repl_history
 asc_seurat/
 .config/coc/memos.json
+.config/gh

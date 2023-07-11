@@ -31,3 +31,7 @@ alias gi="git init;
           echo '*.env' >> .gitignore ;
           echo '*.swp' >> .gitignore ;
           echo 'this repository is for' >> readme.txt"
+
+function gtheirs() {
+  git merge $1 -Xtheirs
+}

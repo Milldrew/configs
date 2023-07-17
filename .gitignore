@@ -93,3 +93,4 @@ asc_seurat/
 .config/coc/memos.json
 .config/gh
 .psql_history
+electron

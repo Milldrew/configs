@@ -1,5 +1,5 @@
 #tdbu
-cd ~/download-parse-update-ekb
+cd ~/ekb-updater-andrew-stephen
 tmux new-session -d -s download-parse-ekb-root
 cd ~/ekb-updater-andrew-stephen
 tna

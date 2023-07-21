@@ -8,3 +8,4 @@ alias vim="nvim"
 alias lua="$EDITOR"" ~/.config/nvim/lua"
 alias vrc="$EDITOR"" ~/.config/nvim/init.lua"
 alias readme="$EDITOR"" ~/readme.txt"
+alias l='ls -larth'

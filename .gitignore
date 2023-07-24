@@ -5613,3 +5613,6 @@ nest-dpus-ekb/user-story.txt
 www/Universidade_de_Brasilia.png
 www/University_of_Florida.png
 www/asc_seurat.css
+*node_modules*
+*.env
+*.swp

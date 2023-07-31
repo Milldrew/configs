@@ -1,0 +1,1 @@
+how do i make the text colorful that comes from the standard out?

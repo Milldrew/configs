@@ -5617,3 +5617,7 @@ www/asc_seurat.css
 *.env
 *.swp
 tinder
+.config/simple-update-notifier/nodemon.json
+bar/bar.txt
+foo/helloworld.txt
+play-aws/

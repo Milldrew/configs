@@ -1,6 +1,6 @@
 #taws
 cd ~/play-aws
-tmux new-session -d -s download-parse-ekb-root
+tmux new-session -d -s play-aws-root
 cd ~/play-aws/play-aws-nest-cli/
 tna
 

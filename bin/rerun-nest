@@ -1,0 +1,6 @@
+tmux send-keys -t 3 C-c
+tmux send-keys -t 3 C-c
+tmux send-keys -t 3 C-c
+tmux send-keys -t 3 '!!' Enter
+tmux send-keys -t 3 Enter
+

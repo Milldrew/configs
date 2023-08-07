@@ -10,5 +10,12 @@ require('variables')
 
 
 vim.cmd([[
+for file in split(globpath('~/.config/nvim/vim-scripts', '*'), "\n")
+  execute "source " . file
+endfor
+source ./vim-scripts/foo.vim
+
   syntax off
 ]])
+
+

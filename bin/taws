@@ -4,5 +4,5 @@ tmux new-session -d -s play-aws-root
 cd ~/play-aws/play-aws-nest-cli/
 tna
 cd ~/play-aws/aws-certification-planning
-tmux new-seesion -d -s aws-certification-planning
+tmux new-session -d -s aws-certification-planning
 

@@ -1,0 +1,6115 @@
+: 1689983807:0;vim env/docker.env
+: 1689983807:0;npm run start:dev
+: 1689983807:0;l
+: 1689983807:0;vim todo.txt
+: 1689983807:0;npm run start:dev
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;git add kegg-data/pathway-hsa-entries.txt
+: 1689983807:0;git rm kegg-data/pathway-hsa-entries.txt
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;git add src/kegg/
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;cat ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;less ../kegg-data/pathway-hsa-entries-from-api.txtt
+: 1689983807:0;less ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;edit_ex
+: 1689983807:0;count_lines../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;count_lines ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;wc -l ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;npm run start:dev
+: 1689983807:0;wc -l ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;l
+: 1689983807:0;wc -l ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;vim env/docker.env
+: 1689983807:0;wc -l ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;npm run start:dev
+: 1689983807:0;wc -l ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;l
+: 1689983807:0;wc -l ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;vim hell.txt
+: 1689983807:0;l
+: 1689983807:0;ta
+: 1689983807:0;ks
+: 1689983807:0;tdbu
+: 1689983807:0;ta
+: 1689983807:0;cd src
+: 1689983807:0;npm run start:dev
+: 1689983807:0;vim .
+: 1689983807:0;vim todo.txt
+: 1689983807:0;vim hello.txt
+: 1689983807:0;l
+: 1689983807:0;ta
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;config
+: 1689983807:0;vim hello.txt
+: 1689983807:0;ta
+: 1689983807:0;vim hi.txt
+: 1689983807:0;l
+: 1689983807:0;less ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;l
+: 1689983807:0;npm run start:dev
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;git add .
+: 1689983807:0;less ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;curl https://rest.kegg.jp/get/hsa01100
+: 1689983807:0;curl https://rest.kegg.jp/get/hsa01100 | less
+: 1689983807:0;l
+: 1689983807:0;vim ..
+: 1689983807:0;vim todo.txt
+: 1689983807:0;vim maybe-golden-csvs
+: 1689983807:0;wc -l ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;less ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;l
+: 1689983807:0;less
+: 1689983807:0;less ../kegg-data/pathway-hsa-entries-from-api.txt
+: 1689983807:0;gad
+: 1689983807:0;cd ..
+: 1689983807:0;rm hi.txt
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;wc -l ../kegg-data/pathway-mmu-entries-from-api.txt
+: 1689983807:0;l
+: 1689983807:0;wc -l kegg-data/pathway-mmu-entries-from-api.txt
+: 1689983807:0;vim env/docker.env
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;s
+: 1689983807:0;cd download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;cd
+: 1689983807:0;l
+: 1689983807:0;tl
+: 1689983807:0;ta
+: 1689983807:0;s
+: 1689983807:0;cd download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;ks
+: 1689983807:0;mkdir electron
+: 1689983807:0;cd electron
+: 1689983807:0;l
+: 1689983807:0;gad
+: 1689983807:0;node -v
+: 1689983807:0;npm init
+: 1689983807:0;npm i -D electron
+: 1689983807:0;vim package.json
+: 1689983807:0;npm start
+: 1689983807:0;tmux
+: 1689983807:0;l
+: 1689983807:0;npm startr
+: 1689983807:0;npm start
+: 1689983807:0;vim index.html
+: 1689983807:0;npm start
+: 1689983807:0;electron --help
+: 1689983807:0;whcih electron
+: 1689983807:0;npx electron --help
+: 1689983807:0;electron -a
+: 1689983807:0;npx electron -a
+: 1689983807:0;npx electron --interactive
+: 1689983807:0;npx onsave . npm start
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;history | grep docker container
+: 1689983807:0;history | grep "docker container"
+: 1689983807:0;docker run -v $(pwd):/app/user_work -v /var/run/docker.sock:/var/run/docker.sock -d --name Asc_Seurat --rm -p 3838:3838 kirstlab/asc_seurat
+: 1689983807:0;l
+: 1689983807:0;cd
+: 1689983807:0;l
+: 1689983807:0;cd asc_seurat
+: 1689983807:0;docker run -v $(pwd):/app/user_work -v /var/run/docker.sock:/var/run/docker.sock -d --name Asc_Seurat --rm -p 3838:3838 kirstlab/asc_seurat
+: 1689983807:0;docker container list
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;tl
+: 1689983807:0;ta
+: 1689983807:0;tl
+: 1689983807:0;tk 0
+: 1689983807:0;tmux kill -t 0
+: 1689983807:0;tl
+: 1689983807:0;ta
+: 1689983807:0;ks
+: 1689983807:0;tl
+: 1689983807:0;tdbu
+: 1689983807:0;vim .
+: 1689983807:0;cd src
+: 1689983807:0;npm run start:dev
+: 1689983807:0;ta
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;aliases
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;cd
+: 1689983807:0;l
+: 1689983807:0;untracked
+: 1689983807:0;l
+: 1689983807:0;untracked
+: 1689983807:0;cd
+: 1689983807:0;l
+: 1689983807:0;gln 3
+: 1689983807:0;ls el*
+: 1689983807:0;s
+: 1689983807:0;pwd
+: 1689983807:0;mv download-parse-update-ekb/electron electron
+: 1689983807:0;ls electron
+: 1689983807:0;echo electron >> .gitignore
+: 1689983807:0;s
+: 1689983807:0;rm hell*
+: 1689983807:0;s
+: 1689983807:0;rm deep-link-diff.txt
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;zsrc
+: 1689983807:0;dcl
+: 1689983807:0;dcrmall
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;cd ..
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;vim .
+: 1689983807:0;vim todo.txt
+: 1689983807:0;abtasks
+: 1689983807:0;git pull
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;vim maybe-golden-csvs
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;cd kegg
+: 1689983807:0;l
+: 1689983807:0;vim todo.txt
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;cd maybe-golden-csvs
+: 1689983807:0;l
+: 1689983807:0;vim kegg_pathway_csv_output
+: 1689983807:0;l
+: 1689983807:0;npx nest g service --no-spec -- flat --no-spec \\
+pathway_disease.csv && \\
+npx nest g service --no-spec -- flat --no-spec \\
+pathway_drug.csv && \\
+npx nest g service --no-spec -- flat --no-spec \\
+pathway_gene.csv && \\
+npx nest g service --no-spec -- flat --no-spec \\
+pathway_info.csv && \\
+npx nest g service --no-spec -- flat --no-spec \\
+pathway_name.csv && \  \
+npx nest g service --no-spec -- flat --no-spec \\
+pathway_reference.csv && \\
+npx nest g service --no-spec -- flat --no-spec \\
+pathway_version_info.csv
+: 1689983807:0;s
+: 1689983807:0;git restore .
+: 1689983807:0;;s
+: 1689983807:0;s
+: 1689983807:0;rm --no-spec
+: 1689983807:0;rm -rf --no-spec
+: 1689983807:0;s
+: 1689983807:0;rmdir --no-spec
+: 1689983807:0;rm -rf --no-spec
+: 1689983807:0;l
+: 1689983807:0;cd --no-spec
+: 1689983807:0;l
+: 1689983807:0;pwd
+: 1689983807:0;l
+: 1689983807:0;rm -rf flat
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;rm -rf --no-spec
+: 1689983807:0;rmdir --no-spec
+: 1689983807:0;rmdir -f --no-spec
+: 1689983807:0;rmdir -rf --no-spec
+: 1689983807:0;rm -rf ./--no-spec
+: 1689983807:0;s
+: 1689983807:0;npx nest g service --no-spec --flat --no-spec \\
+pathway_disease.csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_drug.csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_gene.csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_info.csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_name.csv && \  \
+npx nest g service --no-spec --flat --no-spec \\
+pathway_reference.csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_version_info.csv
+: 1689983807:0;fc
+: 1689983807:0;npx nest g service --no-spec --flat --no-spec \\
+pathway_disease-csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_drug-csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_gene-csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_info-csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_name-csv && \  \
+npx nest g service --no-spec --flat --no-spec \\
+pathway_reference-csv && \\
+npx nest g service --no-spec --flat --no-spec \\
+pathway_version_info-csv
+: 1689983807:0;fc
+: 1689983807:0;npx nest g service  --flat --no-spec \\
+pathway_disease-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway_drug-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway_gene-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway_info-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway_name-csv && \  \
+npx nest g service  --flat --no-spec \\
+pathway_reference-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway_version_info-csv
+: 1689983807:0;fc
+: 1689983807:0;npx nest g service  --flat --no-spec\
+pathway-disease-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-drug-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-gene-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-info-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-name-csv && \  \
+npx nest g service  --flat --no-spec \\
+pathway-reference-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-version-info-csv
+: 1689983807:0;fc
+: 1689983807:0;npx nest g service  --flat --no-spec \\
+pathway-disease-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-drug-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-gene-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-info-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-name-csv && \  \
+npx nest g service  --flat --no-spec \\
+pathway-reference-csv && \\
+npx nest g service  --flat --no-spec \\
+pathway-version-info-csv
+: 1689983807:0;fc
+: 1689983807:0;npx nest g service  --flat --no-spec pathway-disease-csv && npx nest g service  --flat --no-spec pathway-drug-csv && npx nest g service  --flat --no-spec pathway-gene-csv && npx nest g service  --flat --no-spec pathway-info-csv && npx nest g service  --flat --no-spec pathway-name-csv && npx nest g service  --flat --no-spec pathway-reference-csv && npx nest g service  --flat --no-spec pathway-version-info-csv
+: 1689983807:0;fc
+: 1689983807:0;npx nest g service  pathway-disease-csv --flat --no-spec  && npx nest g service  pathway-drug-csv --flat --no-spec  && npx nest g service  pathway-gene-csv --flat --no-spec  && npx nest g service  pathway-info-csv --flat --no-spec  && npx nest g service  pathway-name-csv --flat --no-spec  && npx nest g service  pathway-reference-csv --flat --no-spec  && npx nest g service  pathway-version-info-csv --flat --no-spec 
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;git add .
+: 1689983807:0;git commit -m 'generated pathway services'
+: 1689983807:0;gpsh
+: 1689983807:0;s
+: 1689983807:0;gln 3
+: 1689983807:0;git pull
+: 1689983807:0;git pull --no-rebase
+: 1689983807:0;l
+: 1689983807:0;tree postgres-docker
+: 1689983807:0;cd postgres-docker
+: 1689983807:0;l
+: 1689983807:0;cat create_postgresql_docker.sh
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;gpsh
+: 1689983807:0;git pull
+: 1689983807:0;ks
+: 1689983807:0;tl
+: 1689983807:0;docker run -v $(pwd):/app/user_work -v /var/run/docker.sock:/var/run/docker.sock -d --name Asc_Seurat --rm -p 3838:3838 kirstlab/asc_seurat
+: 1689983807:0;cd asc_seurat
+: 1689983807:0;docker run -v $(pwd):/app/user_work -v /var/run/docker.sock:/var/run/docker.sock -d --name Asc_Seurat --rm -p 3838:3838 kirstlab/asc_seurat
+: 1689983807:0;cd
+: 1689983807:0;cd electron
+: 1689983807:0;l
+: 1689983807:0;electron .
+: 1689983807:0;npm start
+: 1689983807:0;tmux
+: 1689983807:0;l
+: 1689983807:0;vim main.js
+: 1689983807:0;npm start
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;arsdb
+: 1689983807:0;tl
+: 1689983807:0;ks
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;tdbu
+: 1689983807:0;cd src
+: 1689983807:0;vim .
+: 1689983807:0;npm run start:dev
+: 1689983807:0;ta
+: 1689983807:0;l
+: 1689983807:0;tl
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;cat kegg-csvs/disease_drug.csv
+: 1689983807:0;l
+: 1689983807:0;npx onsave ./src cat kegg-csvs/disease_drug.csv
+: 1689983807:0;vim .
+: 1689983807:0;git pull
+: 1689983807:0;git pull --merge
+: 1689983807:0;git pull --ff-only
+: 1689983807:0;git pull --no-rebase
+: 1689983807:0;gpsh
+: 1689983807:0;vim .
+: 1689983807:0;npx onsave ./src cat kegg-csvs/hsa_disease.csv
+: 1689983807:0;vim .
+: 1689983807:0;npx onsave ./src cat kegg-csvs/disease_reference.csv
+: 1689983807:0;vim kegg-csvs/disease_reference.csv
+: 1689983807:0;l
+: 1689983807:0;vim maybe-golden-csvs
+: 1689983807:0;l
+: 1689983807:0;cd kegg
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;cd src
+: 1689983807:0;l
+: 1689983807:0;cd kegg
+: 1689983807:0;l
+: 1689983807:0;npx nest g service create-disease-version-info-csv --no-spec --flat
+: 1689983807:0;l
+: 1689983807:0;vim .
+: 1689983807:0;ivm .
+: 1689983807:0;vim .
+: 1689983807:0;arsdb
+: 1689983807:0;l
+: 1689983807:0;npx onsave ./src cat kegg-csvs/disease_version_info.csv
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;gpsh
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;cd
+: 1689983807:0;l
+: 1689983807:0;cd download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;vim .
+: 1689983807:0;docker run --name postgres -e POSTGRES_PASSWORD=pass123 -d postgres\
+
+: 1689983807:0;psql -h localhost -p 5432 -U postgres -W
+: 1689983807:0;dcrmall
+: 1689983807:0;docker run --name postgres -e POSTGRES_PASSWORD=pass123  postgres\
+
+: 1689983807:0;psql -h localhost -p 5432 -U postgres -W
+: 1689983807:0;docker run --name postgres -e POSTGRES_PASSWORD=pass123  postgres\
+
+: 1689983807:0;dcrmall
+: 1689983807:0;docker run --name postgres -e POSTGRES_PASSWORD=pass123  postgres\
+
+: 1689983807:0;psql -h localhost -p 5432 -U postgres -W
+: 1689983807:0;docker run --name postgres -e -p 5432:5432 POSTGRES_PASSWORD=postgres  postgres\
+
+: 1689983807:0;docker run --name postgres -e --publish 5432:5432 POSTGRES_PASSWORD=postgres  postgres\
+
+: 1689983807:0;docker run --name --publish 5432:5432 postgres -e  POSTGRES_PASSWORD=postgres  postgres
+: 1689983807:0;fc
+: 1689983807:0;docker run --name postgres -e  POSTGRES_PASSWORD=postgres -p 5432:5432  postgres
+: 1689983807:0;dcrmall
+: 1689983807:0;docker run --name postgres -e  POSTGRES_PASSWORD=postgres -p 5432:5432  postgres
+: 1689983807:0;psql -h localhost -p 5432 -U postgres -W
+: 1689983807:0;l
+: 1689983807:0;cd ~/download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;l
+: 1689983807:0;ls kegg-csvs
+: 1689983807:0;psql -d postgres -c "COPY table_name FROM 'ko_disease.csv' DELIMITER ',' CSV HEADER;"\
+
+: 1689983807:0;l
+: 1689983807:0;pwd
+: 1689983807:0;cd ~/download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;l
+: 1689983807:0;cd kegg-csvs
+: 1689983807:0;l
+: 1689983807:0;vim disease_info.csv
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;psql -p 5432 -d postgres -c "COPY disease_info (db_specific_id, info) FROM '`pwd`/disease_data.csv' DELIMITER ',' CSV HEADER;"
+: 1689983807:0;psql -p 5432 -d postgres -c "select * from disease_info;"
+: 1689983807:0;psql -h localhost -p 5432 -d postgres -c "select * from disease_info;"
+: 1689983807:0;psql -h localhost -p 5432 -U postgres -W
+: 1689983807:0;psql -h localhost -p 5432 -d postgres -c "select * from disease_info;" 
+: 1689983807:0;psql -h localhost -p 5432 -d postgres -W -c "select * from disease_info;" 
+: 1689983807:0;fc
+: 1689983807:0;psql -h localhost -p 5432 -d postgres -W -c "select * from disease_info;" 
+: 1689983807:0;sudo psql -h localhost -p 5432 -d postgres -W -c "select * from disease_info;" 
+: 1689983807:0;psql -h localhost -p 5432 -U postgres -W
+: 1689983807:0;psql -U username -d postgres -h localhost -p 5432 -c 'SELECT * FROM disease_info;''
+: 1689983807:0;psql -U postgres -d postgres -h localhost -p 5432 -c 'SELECT * FROM disease_info;'
+: 1689983807:0;psql -U postgres -d postgres -h localhost -p 5432 -c 'SELECT * FROM disease_info;fc'
+: 1689983807:0;psql -U postgres -d postgres -h localhost -p 5432 -c "COPY disease_info (db_specific_id, info) FROM '`pwd`/disease_data.csv' DELIMITER ',' CSV HEADER;"
+: 1689983807:0;l
+: 1689983807:0;cd kegg-csvs
+: 1689983807:0;l
+: 1689983807:0;psql -U postgres -d postgres -h localhost -p 5432 -c "COPY disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;"
+: 1689983807:0;vim /Users/andrewmiller/download-parse-update-ekb/nest-download-parse-ekb/kegg-csvs/disease_info.csv
+: 1689983807:0;psql -U postgres -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;"
+: 1689983807:0;history | grep psql
+: 1689983807:0;psql -h localhost -p 5432 -U postgres -W
+: 1689983807:0;psql -U postgres -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;"
+: 1689983807:0;l
+: 1689983807:0;psql -U postgres -W postgres -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;"
+: 1689983807:0;psql -U postgres -W postgres -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;" -v ON_ERROR_STOP=1
+: 1689983807:0;l
+: 1689983807:0;cd kegg-csvs
+: 1689983807:0;vim disease_info.csv
+: 1689983807:0;psql -U postgres  -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;" -v 
+: 1689983807:0;psql -U postgres  -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;" 
+: 1689983807:0;vim disease_info.csv
+: 1689983807:0;psql -U postgres  -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;" 
+: 1689983807:0;vim disease_info.csv
+: 1689983807:0;psql -U postgres  -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;" 
+: 1689983807:0;vim disease_info.csv
+: 1689983807:0;psql -U postgres  -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;" 
+: 1689983807:0;vim disease_info.csv
+: 1689983807:0;psql -U postgres  -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;" 
+: 1689983807:0;vim disease_info.csv
+: 1689983807:0;psql -U postgres  -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' QUOTE '`' CSV HEADER;" \
+\
+psql -U postgres  -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;" 
+: 1689983807:0;l
+: 1689983807:0;ks
+: 1689983807:0;psql -U postgres  -d postgres -h localhost -p 5432 -c "\copy disease_info (db_specific_id, info) FROM '`pwd`/disease_info.csv' DELIMITER ',' CSV HEADER;" 
+: 1689983807:0;tdbu
+: 1689983807:0;vim .
+: 1689983807:0;npm run start:dev
+: 1689983807:0;cd src
+: 1689983807:0;ta
+: 1689983807:0;l
+: 1689983807:0;cd ../kegg-csvs
+: 1689983807:0;l
+: 1689983807:0;cat disease_info.csv
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;vim disease_info.csv
+: 1689983807:0;l
+: 1689983807:0;tl
+: 1689983807:0;ks
+: 1689983807:0;tl
+: 1689983807:0;l
+: 1689983807:0;tl
+: 1689983807:0;cd
+: 1689983807:0;tdbu
+: 1689983807:0;npm run start:dev
+: 1689983807:0;vim .
+: 1689983807:0;cd src
+: 1689983807:0;ta
+: 1689983807:0;l
+: 1689983807:0;cd kegg
+: 1689983807:0;replace "
+: 1689983807:0;replace "'created" "'created "
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;vim maybe-golden-csvs
+: 1689983807:0;l
+: 1689983807:0;pwd
+: 1689983807:0;cd kegg-data
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;l
+: 1689983807:0;pwd
+: 1689983807:0;npx nest g service pathway-entries  --flat --no-spec
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;s
+: 1689983807:0;cd env
+: 1689983807:0;l
+: 1689983807:0;vim docker.env
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;cd kegg-data
+: 1689983807:0;l
+: 1689983807:0;wc -l kegg-data/pathway-rno-entries-from-api.txt
+: 1689983807:0;fc
+: 1689983807:0;wc -l /pathway-rno-entries-from-api.txt
+: 1689983807:0;fc
+: 1689983807:0;wc -l pathway-rno-entries-from-api.txt
+: 1689983807:0;wc -l pathway-mmu-entries-from-api.txt
+: 1689983807:0;wc -l pathway-rno-entries-from-api.txt
+: 1689983807:0;wc -l pathway-hsa-entries-from-api.txt
+: 1689983807:0;wc -l pathway-rno-entries-from-api.txt
+: 1689983807:0;npm i chalk
+: 1689983807:0;l
+: 1689983807:0;vim logger
+: 1689983807:0;npm uninstall chalk
+: 1689983807:0;l
+: 1689983807:0;vim kegg
+: 1689983807:0;s
+: 1689983807:0;cd ..
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;tl
+: 1689983807:0;tdbu
+: 1689983807:0;cd src
+: 1689983807:0;vim .
+: 1689983807:0;npm run start:dev
+: 1689983807:0;tl
+: 1689983807:0;ta
+: 1689983807:0;vim todo.txt
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;vim maybe-golden-csvs/kegg_pathway_csv_output
+: 1689983807:0;l
+: 1689983807:0;cd kegg-data
+: 1689983807:0;l
+: 1689983807:0;vim pathway-hsa-entries-from-api.txt
+: 1689983807:0;l
+: 1689983807:0;node
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;vim kegg-csvs
+: 1689983807:0;l
+: 1689983807:0;npx onsave src cat kegg-csvs/pathway_drug.csv
+: 1689983807:0;l
+: 1689983807:0;cd kegg-csvs
+: 1689983807:0;l
+: 1689983807:0;vim .
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;vim pathway_drug.csv
+: 1689983807:0;l
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;npx onsave src cat kegg-csvs/pathway_drug.csv
+: 1689983807:0;npx onsave src cat kegg-csvs/pathway_gene.csv
+: 1689983807:0;git pull --no-rebase
+: 1689983807:0;gpsh
+: 1689983807:0;npm run start:dev
+: 1689983807:0;l
+: 1689983807:0;vim maybe-golden-data-exchange-files
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;vim pathway_gene.csv
+: 1689983807:0;less pathway_gene.csv
+: 1689983807:0;npm run start:dev
+: 1689983807:0;l
+: 1689983807:0;vim pathway_drug.csv
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;s
+: 1689983807:0;gpsh
+: 1689983807:0;tl
+: 1689983807:0;ta
+: 1689983807:0;ks
+: 1689983807:0;tdbu
+: 1689983807:0;cd src
+: 1689983807:0;npm run start:dev
+: 1689983807:0;vim .
+: 1689983807:0;ta
+: 1689983807:0;gad
+: 1689983807:0;l
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;l
+: 1689983807:0;tdbu
+: 1689983807:0;ta
+: 1689983807:0;vim .
+: 1689983807:0;npm run start:dev
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;tl
+: 1689983807:0;ta
+: 1689983807:0;ks
+: 1689983807:0;cd src
+: 1689983807:0;tl
+: 1689983807:0;l
+: 1689983807:0;tl
+: 1689983807:0;tdbu
+: 1689983807:0;ta
+: 1689983807:0;cd src
+: 1689983807:0;vim .
+: 1689983807:0;npm run start:dev
+: 1689983807:0;ks
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;top -o cpu
+: 1689983807:0;tmux
+: 1689983807:0;top -o cpu
+: 1689983807:0;tchat;
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;ta
+: 1689983807:0;top -l 1 | head -n 10 | grep PhysMem
+: 1689983807:0;tchat
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;tdbu
+: 1689983807:0;ta
+: 1689983807:0;top -l 1 | head -n 10 | grep PhysMem
+: 1689983807:0;vim .
+: 1689983807:0;npm run start:dev
+: 1689983807:0;cd src
+: 1689983807:0;top -l 1 | head -n 10 | grep PhysMem
+: 1689983807:0;top -o rsize
+: 1689983807:0;top -l 1 | head -n 10 | grep PhysMem
+: 1689983807:0;ta
+: 1689983807:0;npm run start:dev
+: 1689983807:0;top -l 1 | head -n 10 | grep PhysMem
+: 1689983807:0;tl
+: 1689983807:0;tdbu
+: 1689983807:0;vim .
+: 1689983807:0;cd src
+: 1689983807:0;npm run start:dev
+: 1689983807:0;tl
+: 1689983807:0;ta
+: 1689983807:0;ks
+: 1689983807:0;tl
+: 1689983807:0;tdbu
+: 1689983807:0;ta
+: 1689983807:0;cd src
+: 1689983807:0;vim .
+: 1689983807:0;l
+: 1689983807:0;tmux
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;ta
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;l
+: 1689983807:0;npm run start:dev
+: 1689983807:0;l
+: 1689983807:0;ks
+: 1689983807:0;tchat
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;ta
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;lh
+: 1689983807:0;l
+: 1689983807:0;mkdir nest-dpus-ekb
+: 1689983807:0;l
+: 1689983807:0;mv download-parse-update-ekb/.git  nest-dpus-ekb
+: 1689983807:0;mv download-parse-update-ekb/.gitignore  nest-dpus-ekb
+: 1689983807:0;cd nest-dpus-ekb
+: 1689983807:0;l
+: 1689983807:0;git pull
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;git pull
+: 1689983807:0;gln 3
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;gln 3
+: 1689983807:0;gch 1d8b5ea
+: 1689983807:0;gch master
+: 1689983807:0;s
+: 1689983807:0;git restore .
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;tl
+: 1689983807:0;tdbu
+: 1689983807:0;vim .
+: 1689983807:0;cd src
+: 1689983807:0;npm run start:dev
+: 1689983807:0;ta
+: 1689983807:0;ks
+: 1689983807:0;tdbu
+: 1689983807:0;vim .
+: 1689983807:0;npm run start:dev
+: 1689983807:0;cd src
+: 1689983807:0;ks
+: 1689983807:0;vim vrc
+: 1689983807:0;zrc
+: 1689983807:0;npm run start:dev
+: 1689983807:0;npm run start:debug
+: 1689983807:0;npm run start:debug
+: 1689983807:0;npm run start:debug
+: 1689983807:0;npm run start:debug
+: 1689983807:0;npm run start:debug
+: 1689983807:0;j
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;vim ~/.chat/prompt.txt
+: 1689983807:0;vim .
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;vim .
+: 1689983807:0;l
+: 1689983807:0;vim kegg-csvs
+: 1689983807:0;ls
+: 1689983807:0;npm run start:dev
+: 1689983807:0;npm run start:debug
+: 1689983807:0;npm run start:debug
+: 1689983807:0;npm run start:dev
+: 1689983807:0;npm run start:dev
+: 1689983807:0;npm run start:dev
+: 1689983807:0;cd
+: 1689983807:0;l
+: 1689983807:0;mv nest-dpus-ekb/.git* download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;cd download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;l
+: 1689983807:0;cd src
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;vim tsconfig.json
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;vim package.json
+: 1689983807:0;s
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;rm pathway_reference.csv
+: 1689983807:0;
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;rm pathway_reference.csv
+: 1689983807:0;
+: 1689983807:0;ls .git
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;vim nest-download-parse-ekb/src/kegg/pathway-disease-csv.service.ts
+: 1689983807:0;gpsh
+: 1689983807:0;s
+: 1689983807:0;gpsh
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;vim .
+: 1689983807:0;cd src
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;cd .
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;zsrc
+: 1689983807:0;l
+: 1689983807:0;npx onsave src cat kegg-csvs/pathway_info.csv
+: 1689983807:0;ls
+: 1689983807:0;npx onsave src cat kegg-csvs/pathway_name.csv
+: 1689983807:0;npx onsave src cat kegg-csvs/pathway_disease.csv
+: 1689983807:0;npx onsave src cat kegg-csvs/pathway_reference.csv
+: 1689983807:0;npx onsave src cat kegg-csvs/pathway_reference.csv
+: 1689983807:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689983807:0;l
+: 1689983807:0;vim ..
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;vim maybe-golden-
+: 1689983807:0;abtasks
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;aliases
+: 1689983807:0;zsrc
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;vim package.json
+: 1689983807:0;l
+: 1689983807:0;vim env
+: 1689983807:0;tdbu
+: 1689983807:0;ta
+: 1689983807:0;tchat
+: 1689983807:0;ta
+: 1689983807:0;ks
+: 1689983807:0;tl
+: 1689983807:0;pwd
+: 1689983807:0;pwd
+: 1689983807:0;cd download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;ls
+: 1689983807:0;zsrc
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;git pull --no-rebase
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;l
+: 1689983807:0;tl
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;tdbu
+: 1689983807:0;ta
+: 1689983807:0;vim .
+: 1689983807:0;cd src
+: 1689983807:0;npm run start:dev
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;cd test
+: 1689983807:0;cd
+: 1689983807:0;cd test
+: 1689983807:0;git clone https://git-codecommit.us-west-2.amazonaws.com/v1/repos/download-parse-update-ekb
+: 1689983807:0;fc
+: 1689983807:0;gclone https://git-codecommit.us-west-2.amazonaws.com/v1/repos/download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;cd download-parse-update-ekb
+: 1689983807:0;l
+: 1689983807:0;rm -rf .git
+: 1689983807:0;git mv maybe-golden-data-exchange-files golden-data-exchange-files
+: 1689983807:0;fc
+: 1689983807:0;mv maybe-golden-data-exchange-files golden-data-exchange-files
+: 1689983807:0;l
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;l
+: 1689983807:0;echo kegg-data >> .gitignore
+: 1689983807:0;echo kegg-csvs >> .gitignore
+: 1689983807:0;echo kegg-data-archive >> .gitignore
+: 1689983807:0;echo *tar* >> .gitignore
+: 1689983807:0;l
+: 1689983807:0;cd
+: 1689983807:0;git clone https://git-codecommit.us-west-2.amazonaws.com/v1/repos/ekb-updater-andrew-stephen
+: 1689983807:0;cd ekb-updater-andrew-stephen
+: 1689983807:0;l
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;mv test/download-parse-update-ekb test/ekb-updater-andrew-stephen
+: 1689983807:0;mv ekb-updater-andrew-stephen/.git test/ekb-updater-andrew-stephen
+: 1689983807:0;rm -rf ekb-updater-andrew-stephen
+: 1689983807:0;mv test/ekb-updater-andrew-stephen .
+: 1689983807:0;cd ekb-updater-andrew-stephen
+: 1689983807:0;l
+: 1689983807:0;s
+: 1689983807:0;git add .
+: 1689983807:0;s
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;ls
+: 1689983807:0;git rm kegg-datadisease.tar
+: 1689983807:0;fc
+: 1689983807:0;git rm --cached kegg-datadisease.tar
+: 1689983807:0;git rm --cached kegg-datadisease/
+: 1689983807:0;fc
+: 1689983807:0;git rm -r --cached kegg-datadisease/
+: 1689983807:0;rm -rf kegg-datadisease
+: 1689983807:0;l
+: 1689983807:0;cat important.csv
+: 1689983807:0;l
+: 1689983807:0;rm -rf kegg-datadisease.tar
+: 1689983807:0;git rm -r --cached kegg-pathway-images/
+: 1689983807:0;echo kegg-pathway-images >> .gitignore
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;cd ..
+: 1689983807:0;l
+: 1689983807:0;vim golden-data-exchange-files
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;git rm -rf --cached kegg/dist/
+: 1689983807:0;echo dist >> .gitignore
+: 1689983807:0;s
+: 1689983807:0;echo ./**dist** >> .gitignore
+: 1689983807:0;echo 
+: 1689983807:0;echo **dist** >> .gitignore
+: 1689983807:0;echo "**dist**" >> .gitignore
+: 1689983807:0;s
+: 1689983807:0;git commit -m 'clearing debris'
+: 1689983807:0;git add .gitignore
+: 1689983807:0;git commit -m 'added gitignore'
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;pwd
+: 1689983807:0;cd kegg
+: 1689983807:0;l
+: 1689983807:0;git add .
+: 1689983807:0;s
+: 1689983807:0;cd ..
+: 1689983807:0;git push
+: 1689983807:0;cd
+: 1689983807:0;edit_ex tdbu
+: 1689983807:0;tdbu
+: 1689983807:0;ta
+: 1689983807:0;ks
+: 1689983807:0;edit_ex tdbu
+: 1689983807:0;gad
+: 1689983807:0;s
+: 1689983807:0;untracked
+: 1689983807:0;untracked >> .gitignore
+: 1689983807:0;s
+: 1689983807:0;gad
+: 1689983807:0;less .gitignore
+: 1689983807:0;s
+: 1689983807:0;gpsh
+: 1689983807:0;vim zshrc
+: 1689983807:0;gad
+: 1689983807:0;s
+: 1689983807:0;tdbu
+: 1689983807:0;vim .
+: 1689983807:0;npm run start:dev
+: 1689983807:0;cd src
+: 1689983807:0;ta
+: 1689983807:0;l
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;edit_ex tdbu
+: 1689983807:0;ks
+: 1689983807:0;gad
+: 1689983807:0;gpsh
+: 1689983807:0;tdbu
+: 1689983807:0;vim .
+: 1689983807:0;cd src
+: 1689983807:0;npm run start:dev
+: 1689983807:0;ta
+: 1689983807:0;l
+: 1689983807:0;pwd
+: 1689983807:0;npm run start:dev
+: 1689983807:0;npm i 
+: 1689983807:0;npm run start:dev
+: 1689983807:0;vim todo.txt
+: 1689983807:0;l
+: 1689983807:0;vim golden-data-exchange-files
+: 1689983807:0;s
+: 1689983807:0;l
+: 1689983807:0;tree kegg-pathway-images
+: 1689983807:0;s
+: 1689983807:0;git commit -m 'added pathway constants '
+: 1689983807:0;git push
+: 1689983807:0;l
+: 1689983807:0;vim kegg-data
+: 1689983807:0;vim .
+: 1689983807:0;l
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;l
+: 1689983807:0;cd kegg-pathway-images
+: 1689983807:0;l
+: 1689983807:0;vim hsa
+: 1689983807:0;l
+: 1689983807:0;cd nest-download-parse-ekb
+: 1689983807:0;cd kegg-data
+: 1689983807:0;l
+: 1689983807:0;vim hsa
+: 1689983807:0;l
+: 1689983807:0;cd kegg
+: 1689983807:0;l
+: 1689983807:0;npx nest g service handle-pathway-image-png  --dry-run --no-spec --flat && \\
+npx nest g service handle-pathway-image-json --dry-run  --no-spec --flat && \\
+npx nest g service handle-pathway-image-xml  --dry-run --no-spec --flat 
+: 1689983807:0;fc
+: 1689983807:0;npx nest g service handle-pathway-image-pngs  --dry-run --flat && \\
+npx nest g service handle-pathway-image-jsons --dry-run --flat && \\
+npx nest g service handle-pathway-image-xmls  --dry-run --flat 
+: 1689983807:0;l
+: 1689983807:0;vim .
+: 1689983807:0;npx nest g service handle-pathway-image-png   --no-spec --flat && \\
+npx nest g service handle-pathway-image-json   --no-spec --flat && \\
+npx nest g service handle-pathway-image-xml   --no-spec --flat 
+: 1689983807:0;s
+: 1689983807:0;git add .
+: 1689983807:0;git commit -m 'added services for handling pathway images'
+: 1689983807:0;gpsh
+: 1689983807:0;s
+: 1689955061:0;gad
+: 1689955062:0;gpsh
+: 1689955066:0;l
+: 1689955073:0;abtasks
+: 1689957061:0;tchat
+: 1689957063:0;vim ~/.chat/prompt.txt
+: 1689957064:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689957065:0;ta
+: 1689960304:0;l
+: 1689960723:0;pwd
+: 1689960728:0;cd kegg
+: 1689960729:0;l
+: 1689960748:0;vim .
+: 1689960828:0;s
+: 1689960832:0;gad
+: 1689960834:0;gpsh
+: 1689961182:0;l
+: 1689961183:0;cd ..
+: 1689961184:0;l
+: 1689961193:0;cd file-handler
+: 1689961195:0;l
+: 1689961609:0;pwd
+: 1689961613:0;cd ..
+: 1689961614:0;l
+: 1689961616:0;cd ..
+: 1689961617:0;l
+: 1689961642:0;npx onsave src tree kegg-pathway-images
+: 1689962178:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689962275:0;l
+: 1689962276:0;s
+: 1689962296:0;npm i -S glob && npm i -D @types/glob
+: 1689962305:0;l
+: 1689963892:0;vim kegg-pathway-images
+: 1689964174:0;s
+: 1689964176:0;gad
+: 1689964177:0;gpsh
+: 1689966591:0;cd nest-download-parse-ekb
+: 1689966592:0;vim .
+: 1689968346:0;l
+: 1689968348:0;vim env
+: 1689968363:0;npm run start:dev
+: 1689968722:0;l
+: 1689968733:0;tree1 kegg-data
+: 1689968755:0;npx onsave src tree kegg-data
+: 1689969227:0;npm run start:dev
+: 1689969444:0;npx onsave src tree kegg-data
+: 1689969451:0;npm run start:dev
+: 1689970691:0;l
+: 1689970695:0;vim .
+: 1689970903:0;l
+: 1689970908:0;cd kegg-pathway-images
+: 1689970909:0;l
+: 1689970915:0;cd ..
+: 1689970919:0;cd kegg-data
+: 1689970919:0;l
+: 1689970921:0;vim .
+: 1689970939:0;npm run start:dev
+: 1689971382:0;vim env
+: 1689973184:0;cd /Users/andrewmiller/ekb-updater-andrew-stephen/nest-download-parse-ekb/kegg-data/xml-hsa'
+: 1689973186:0;cd /Users/andrewmiller/ekb-updater-andrew-stephen/nest-download-parse-ekb/kegg-data/xml-hsa
+: 1689973213:0;l
+: 1689973221:0;cd kegg-pathway-images
+: 1689973222:0;l
+: 1689973484:0;ls /Users/andrewmiller/ekb-updater-andrew-stephen/nest-download-parse-ekb/kegg-data/xml-metabolic-rno.tar.gz~
+: 1689973487:0;ls /Users/andrewmiller/ekb-updater-andrew-stephen/nest-download-parse-ekb/kegg-data/xml-metabolic-rno.tar.gz
+: 1689973503:0;pwd
+: 1689973506:0;cd ..
+: 1689973513:0;ls kegg-data
+: 1689973518:0;pwd
+: 1689973601:0;cd kegg-data
+: 1689973602:0;l
+: 1689973605:0;ls hsa.tar.gz
+: 1689973623:0;ls xml-metabolic-hsa.tar.gz
+: 1689973632:0;ls /Users/andrewmiller/ekb-updater-andrew-stephen/nest-download-parse-ekb/kegg-data/xml-metabolic-rno.tar.gz
+: 1689973700:0;l
+: 1689974417:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1689974598:0;l
+: 1689975491:0;npm run start:dev
+: 1689975820:0;ls /Users/andrewmiller/ekb-updater-andrew-stephen/nest-download-parse-ekb/kegg-data/xml-metabolic-rno.tar.gz
+: 1689975826:0;open /Users/andrewmiller/ekb-updater-andrew-stephen/nest-download-parse-ekb/kegg-data/xml-metabolic-rno.tar.gz
+: 1689976373:0;l
+: 1689976377:0;cd kegg-data
+: 1689976379:0;l
+: 1689976391:0;open xml*
+: 1689976428:0;rm -rf hsa.tar.gz
+: 1689976441:0;mv xml-hsa.tar.gz hsa.tar.gz
+: 1689976448:0;open hsa.tar.gz
+: 1689976484:0;l
+: 1689976510:0;mkdir -p xml-metabolic
+: 1689976540:0;mkdir -p xml
+: 1689976542:0;l
+: 1689977731:0;npm run start:dev
+: 1689980009:0;l
+: 1689980010:0;vim .
+: 1689980138:0;l
+: 1689980146:0;cd ..
+: 1689980146:0;l
+: 1689980152:0;cd kegg-pathway-images
+: 1689980154:0;l
+: 1689980162:0;cd ..
+: 1689980191:0;npx onsave src tree kegg-pathway-images
+: 1689980287:0;npx onsave src tree kegg-pathway-images/hsa
+: 1689980458:0;l
+: 1689980701:0;s
+: 1689980703:0;gad
+: 1689980704:0;gpsh
+: 1689980708:0;l
+: 1689980710:0;vim .
+: 1689980801:0;npm run start:dev
+: 1689980913:0;l
+: 1689980945:0;vim .
+: 1689981428:0;npm run start:dev
+: 1689981987:0;l
+: 1689981994:0;tree kegg-data
+: 1689982113:0;l
+: 1689982385:0;jl
+: 1689982386:0;l
+: 1689982459:0;rm pathway-rno-entries-from-api.txt
+: 1689982465:0;s
+: 1689982469:0;gad
+: 1689982470:0;gpsh
+: 1689982478:0;s
+: 1689982533:0;gpsh
+: 1689982605:0;gad
+: 1689982606:0;gpsh
+: 1689982633:0;npm run start:dev
+: 1689982749:0;gad
+: 1689982750:0;gpsh
+: 1689982881:0;540
+: 1689983623:0;553
+: 1689983730:0;vim .
+: 1689983825:0;cd ekb-updater-andrew-stephen
+: 1689983825:0;gad
+: 1689983827:0;gpsh
+: 1689983832:0;gad
+: 1689983832:0;gpsh
+: 1690041504:0;l
+: 1690041516:0;export PS1='hi'
+: 1690041526:0;l
+: 1690041527:0;tl
+: 1690041532:0;tdbu
+: 1690041533:0;cd src
+: 1690041533:0;vim .
+: 1690041533:0;npm run start:dev
+: 1690041555:0;ta
+: 1690041599:0;npm run start:dev
+: 1690042137:0;l
+: 1690042140:0;cd ..
+: 1690042140:0;l
+: 1690042149:0;tree kegg-data
+: 1690042472:0;l
+: 1690042478:0;tree kegg-data
+: 1690042498:0;vim kegg-data
+: 1690042874:0;l
+: 1690042877:0;cd kegg-data
+: 1690042878:0;l
+: 1690042890:0;10:20:40
+: 1690042952:0;l
+: 1690042959:0;vim pathway-hsa-entries-from-api.txt
+: 1690043143:0;npm run start:dev
+: 1690043340:0;s
+: 1690043342:0;gad
+: 1690043343:0;gpsh
+: 1690043358:0;npm run start:dev
+: 1690043514:0;l
+: 1690043526:0;wc -l pathway-hsa-entries-from-api.txt
+: 1690043538:0;wc -l pathway-mmu-entries-from-api.txt
+: 1690043548:0;wc -l pathway-rn-entries-from-api.txt
+: 1690043552:0;npm run start:dev
+: 1690043647:0;10:34
+: 1690043713:0;wc -l pathway-hsa-entries-from-api.txt
+: 1690043722:0;wc -l pathway-mmu-entries-from-api.txt
+: 1690043778:0;10:36
+: 1690043791:0;wc -l pathway-rno-entries-from-api.txt
+: 1690043793:0;gad
+: 1690043794:0;gpsh
+: 1690043800:0;s
+: 1690052432:0;l
+: 1690052496:0;vim todo.txt
+: 1690052539:0;l
+: 1690052542:0;vim golden-data-exchange-files
+: 1690052614:0;arsdb
+: 1690054311:0;l
+: 1690054317:0;s
+: 1690054319:0;gad
+: 1690054320:0;gpsh
+: 1690054329:0;l
+: 1690054337:0;vim .
+: 1690054398:0;l
+: 1690054401:0;vim env
+: 1690054573:0;l
+: 1690054583:0;vim kegg-data
+: 1690054634:0;l
+: 1690055297:0;cd ..
+: 1690055300:0;cd src/kegg
+: 1690055301:0;l
+: 1690055390:0;npx nest g service convert-img-metadata-to-json --no-spec --flat
+: 1690055393:0;l
+: 1690055395:0;vim .
+: 1690056264:0;l
+: 1690056267:0;vim golden-data-exchange-files
+: 1690056438:0;tchat
+: 1690056441:0;vim ~/.chat/prompt.txt
+: 1690056441:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690056442:0;ta
+: 1690056910:0;npm i -S pngjs && npm i -D @types/pngjs
+: 1690057102:0;l
+: 1690057163:0;npx nest g service get-height-and-width-of-every-png --no-spec --flat
+: 1690059603:0;l
+: 1690059619:0;vim nest-download-parse-ekb
+: 1690059681:0;cd nest-download-parse-ekb/kegg-data/hsa
+: 1690059686:0;l
+: 1690059735:0;open hsa01100nc.png
+: 1690059742:0;open hsa01100.png
+: 1690059808:0;open hsa00010.conf
+: 1690059815:0;open hsa00010.png
+: 1690059858:0;l
+: 1690059874:0;s
+: 1690059878:0;cd ../..
+: 1690059904:0;gac -m 'added service for retrieving png's width and height using pngjs'
+: 1690059906:0;gac -m "added service for retrieving png's width and height using pngjs"
+: 1690059907:0;gpsh
+: 1690059912:0;l
+: 1690059938:0;vim kegg
+: 1690059975:0;git mv kegg/ file-streaming-example
+: 1690059977:0;s
+: 1690059984:0;gad
+: 1690059985:0;gpsh
+: 1690059988:0;s
+: 1690059990:0;l
+: 1690060003:0;cd src
+: 1690060004:0;l
+: 1690060012:0;vim .
+: 1690060150:0;s
+: 1690060151:0;gad
+: 1690060152:0;gpsh
+: 1690060154:0;ks
+: 1690060349:0;l
+: 1690060350:0;tl
+: 1690066554:0;tdbu
+: 1690066555:0;vim .
+: 1690066555:0;npm run start:dev
+: 1690066555:0;cd src
+: 1690066556:0;ta
+: 1690066559:0;tchat
+: 1690066561:0;vim ~/.chat/prompt.txt
+: 1690066562:0;ta
+: 1690066562:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690068910:0;l
+: 1690068916:0;vim golden-data-exchange-files
+: 1690076131:0;node
+: 1690077814:0;l
+: 1690077832:0;cd ..
+: 1690077836:0;tree kegg-pathway-images
+: 1690078026:0;l
+: 1690078032:0;tree kegg-pathway-images
+: 1690078045:0;cd kegg-pathway-images
+: 1690078045:0;l
+: 1690078063:0;tree hsa
+: 1690078108:0;jjkl
+: 1690078109:0;l
+: 1690078112:0;ls rno
+: 1690078119:0;ls hsa
+: 1690078127:0;l
+: 1690078129:0;l hsa
+: 1690078168:0;l
+: 1690078238:0;ls rno
+: 1690078300:0;l
+: 1690078304:0;ls rno
+: 1690078310:0;cd ..
+: 1690078313:0;ls mmu
+: 1690078314:0;l
+: 1690078319:0;cd kegg-pathway-images
+: 1690078320:0;l
+: 1690078322:0;l mmu
+: 1690078326:0;ls mmu
+: 1690078332:0;ls rno
+: 1690078334:0;ls hsa
+: 1690078395:0;ls
+: 1690078561:0;l
+: 1690078564:0;ls hsa
+: 1690078589:0;ls rno
+: 1690078595:0;ls mmu
+: 1690078601:0;ls hsa
+: 1690078604:0;ls rno
+: 1690078612:0;ls hsa
+: 1690078622:0;ls mmu
+: 1690078695:0;vim env
+: 1690078716:0;vim .
+: 1690078743:0;npm run start:dev
+: 1690078858:0;8:19
+: 1690079564:0;NODE_OPTIONS="stack-trace-limit=100" npm run start:dev
+: 1690079809:0;npm run start:dev
+: 1690080048:0;l
+: 1690080059:0;ls hsa
+: 1690080154:0;l
+: 1690080177:0;842
+: 1690080272:0;l
+: 1690080274:0;pwd
+: 1690080277:0;cd ..
+: 1690080284:0;tree kegg-data
+: 1690080327:0;big
+: 1690080372:0;gad
+: 1690080373:0;gpsh
+: 1690080382:0;tree .
+: 1690080386:0;tree kegg-data
+: 1690080413:0;tree kegg-pathway-images
+: 1690080420:0;cd kegg-pathway-images
+: 1690080423:0;ls hsa
+: 1690080430:0;sl hsa
+: 1690080432:0;ls hsa
+: 1690080510:0;s
+: 1690080514:0;l
+: 1690080520:0;small
+: 1690080522:0;l
+: 1690080524:0;cd ..
+: 1690080525:0;l
+: 1690080528:0;tree src
+: 1690081140:0;gad
+: 1690081141:0;gpsh
+: 1690081143:0;ks
+: 1690082182:0;s
+: 1690082187:0;l
+: 1690082194:0;cd ekb-updater-andrew-stephen
+: 1690082195:0;gad
+: 1690082196:0;gpsh
+: 1690082201:0;cd
+: 1690203587:0;l
+: 1690203640:0;tdbu
+: 1690203641:0;npm run start:dev
+: 1690203641:0;cd src
+: 1690203641:0;vim .
+: 1690203644:0;ta
+: 1690206850:0;tl
+: 1690206852:0;l
+: 1690206853:0;vim .
+: 1690207216:0;l
+: 1690207216:0;vim.
+: 1690207218:0;vim .
+: 1690207696:0;gad
+: 1690207699:0;gpsh
+: 1690207811:0;vim .
+: 1690208145:0;l
+: 1690208148:0;vim ..
+: 1690209052:0;npm run start:dev
+: 1690209481:0;l
+: 1690209483:0;cd nest-download-parse-ekb
+: 1690209485:0;l
+: 1690209490:0;pwd
+: 1690209516:0;rm \.xml
+: 1690209523:0;rm *\.xml
+: 1690209524:0;l
+: 1690209540:0;ls kegg-pathway-images
+: 1690209545:0;tree kegg-pathway-images
+: 1690209960:0;l
+: 1690209973:0;vim kegg-data
+: 1690210253:0;npm run start:dev
+: 1690211027:0;vim .
+: 1690211634:0;git push
+: 1690214655:0;node -e 'console.log("hello")'
+: 1690214678:0;node -p '"hello"''
+: 1690214680:0;node -p '"hello"'
+: 1690214705:0;node -p 'require("child_process")'
+: 1690214720:0;node -p 'require("child_process").spawnSync("ls")'
+: 1690214744:0;node -e 'require("child_process").spawnSync("ls")'
+: 1690214761:0;node -e 'require("child_process").spawnSync("ls", {stdio: "inherit"})'
+: 1690223977:0;l
+: 1690224089:0;vim env
+: 1690224105:0;l
+: 1690224114:0;vim .
+: 1690224246:0;l
+: 1690224257:0;npm i zod
+: 1690224427:0;tchat
+: 1690224429:0;vim ~/.chat/prompt.txt
+: 1690224429:0;ta
+: 1690224430:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690225636:0;gad
+: 1690225639:0;gpsh
+: 1690225644:0;vim env/
+: 1690225666:0;gad
+: 1690225666:0;gpsh
+: 1690225676:0;l
+: 1690225676:0;vim .
+: 1690225772:0;npm run start:dev
+: 1690225924:0;vim env
+: 1690225939:0;npm run start:dev
+: 1690226455:0;gad
+: 1690226458:0;gpsh
+: 1690226467:0;gad
+: 1690226473:0;git add ..
+: 1690226473:0;gad
+: 1690226474:0;gpsh
+: 1690229585:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690233893:0;tl
+: 1690233893:0;ta
+: 1690233898:0;s
+: 1690233899:0;gad
+: 1690233900:0;gpsh
+: 1690233905:0;ks
+: 1690233908:0;l
+: 1690233914:0;vim .git
+: 1690233928:0;l
+: 1690233929:0;s
+: 1690233933:0;tl
+: 1690233935:0;tchat
+: 1690233937:0;vim ~/.chat/prompt.txt
+: 1690233938:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690233939:0;ta
+: 1690234036:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690234157:0;l
+: 1690234163:0;cd
+: 1690234166:0;l
+: 1690234169:0;rm -rf .git
+: 1690234170:0;gi
+: 1690234175:0;gh repo create
+: 1690234232:0;l
+: 1690234234:0;s
+: 1690234254:0;gad
+: 1690234264:0;gpsh
+: 1690234278:0;git push --set-upstream origin main
+: 1690234282:0;l
+: 1690234286:0;vim .gitignore
+: 1690234469:0;l
+: 1690234476:0;tl
+: 1690234487:0;ta
+: 1690234575:0;cd
+: 1690234580:0;vim .zshrc
+: 1690234619:0;soucr .zshrc
+: 1690234623:0;source .zshrc
+: 1690234645:0;less .zsh_history
+: 1690234656:0;vim .zsh_history
+: 1690234702:0;l
+: 1690234704:0;tdbu
+: 1690234705:0;cd src
+: 1690234705:0;npm run start:dev
+: 1690234705:0;vim .
+: 1690234707:0;ta
+: 1690234730:0;l
+: 1690234736:0;rm -rf .git
+: 1690234747:0;s
+: 1690234791:0;cd
+: 1690234797:0;mev ekb-updater-andrew-stephen test/ekb
+: 1690234804:0;mv ekb-updater-andrew-stephen/ test/ekb
+: 1690234809:0;git clone https://git-codecommit.us-west-2.amazonaws.com/v1/repos/ekb-updater-andrew-stephen
+: 1690234852:0;tk
+: 1690234855:0;ks
+: 1690234859:0;l
+: 1690234869:0;rm -rf .git
+: 1690234881:0;l
+: 1690234894:0;git clone https://github.com/milldrew/configs
+: 1690234908:0;mv configs/.git .
+: 1690234911:0;s
+: 1690234919:0;rm -rf configs
+: 1690234921:0;gad
+: 1690234923:0;gpsh
+: 1690234927:0;l
+: 1690234930:0;tl
+: 1690234936:0;edit_ex
+: 1690235308:0;cd asc_seurat
+: 1690235309:0;s
+: 1690235313:0;git pull
+: 1690235325:0;cd
+: 1690235328:0;edit_ex
+: 1690235371:0;l
+: 1690235374:0;cd asc_seurat
+: 1690235376:0;l
+: 1690235396:0;gch -b advaita-main
+: 1690235398:0;s
+: 1690235400:0;gpsh
+: 1690235406:0;tmux
+: 1690235409:0;tl
+: 1690235410:0;s
+: 1690235418:0;gpsh
+: 1690235433:0;l
+: 1690235492:0;mkdir node-js
+: 1690235495:0;cd node-js
+: 1690235496:0;l
+: 1690235501:0;pwd
+: 1690235507:0;npm init -y
+: 1690235581:0;l
+: 1690236491:0;cd node-js
+: 1690236495:0;npm init -y 
+: 1690236500:0;npm i @angular/cli
+: 1690236552:0;npm uninstall @angular/cli
+: 1690236559:0;npm i -D @angular/cli
+: 1690236562:0;l
+: 1690236566:0;cat package.json
+: 1690237614:0;npx ng new 
+: 1690237678:0;l
+: 1690237680:0;cd angular-work-space
+: 1690237683:0;vim angular.json
+: 1690237690:0;s
+: 1690237691:0;gad
+: 1690237701:0;l
+: 1690237708:0;cat .gitignore
+: 1690237712:0;s
+: 1690237713:0;l
+: 1690237716:0;cd ..
+: 1690237717:0;gad
+: 1690237732:0;s
+: 1690237735:0;gln 3
+: 1690237743:0;l
+: 1690237753:0;git rm -r node_modules/
+: 1690237755:0;s
+: 1690237796:0;vim .gitignore
+: 1690237811:0;s
+: 1690237820:0;gita add .gitignore
+: 1690237828:0;gad
+: 1690237834:0;l
+: 1690237839:0;gln3
+: 1690237841:0;gln 3
+: 1690237844:0;gln 8
+: 1690237864:0;aliases
+: 1690237876:0;edit_ex
+: 1690237891:0;l
+: 1690237892:0;tl
+: 1690237893:0;tchat
+: 1690237895:0;vim ~/.chat/prompt.txt
+: 1690237895:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690237895:0;ta
+: 1690237941:0;vim ~/.chat/prompt.txt
+: 1690237967:0;l
+: 1690237972:0;aliases
+: 1690238101:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690238229:0;l
+: 1690238237:0;gln 3
+: 1690238241:0;rebase_head 3
+: 1690238278:0;s
+: 1690238284:0;git rebase --continue
+: 1690238297:0;git rebase --edit-todo
+: 1690238310:0;gln 3
+: 1690238312:0;s
+: 1690238329:0;vim .
+: 1690238334:0;git rebase --edit-todo
+: 1690238343:0;git commit -m 'hmm'
+: 1690238344:0;s
+: 1690238349:0;git add .
+: 1690238374:0;s
+: 1690238379:0;l
+: 1690238389:0;gch advaita-main
+: 1690238392:0;s
+: 1690238398:0;git restore .
+: 1690238400:0;s
+: 1690238406:0;git rstore --cached .
+: 1690238408:0;s
+: 1690238412:0;git restore --staged .
+: 1690238414:0;s
+: 1690238423:0;git rebase --continue
+: 1690238437:0;git rebase --edit-todo
+: 1690238455:0;s
+: 1690238477:0;git commit --amend
+: 1690238483:0;s
+: 1690238493:0;git rebase --continue
+: 1690238498:0;s
+: 1690238523:0;git rebase --continue
+: 1690238555:0;gch ae28344
+: 1690238558:0;s
+: 1690238567:0;git rebase --continue
+: 1690238575:0;git commit --amend
+: 1690238579:0;s
+: 1690238584:0;git rebase --continue
+: 1690238589:0;s
+: 1690238590:0;ls
+: 1690238600:0;vim .gitignore
+: 1690238610:0;gad
+: 1690238612:0;s
+: 1690238615:0;git rebase --continue
+: 1690238620:0;gln 3
+: 1690238634:0;git reset --hard 24d8f99
+: 1690238638:0;gln3
+: 1690238639:0;s
+: 1690238642:0;gln 3
+: 1690238660:0;gch advaita-main
+: 1690238665:0;gln 3
+: 1690238670:0;gln 8
+: 1690238673:0;s
+: 1690238682:0;git rebase --continue
+: 1690238692:0;cd
+: 1690238702:0;rm -rf asc_seurat
+: 1690238741:0;git clone https://github.com/AdvaitaBioDevelopers/asc_seurat.git
+: 1690238746:0;l
+: 1690238749:0;cd asc_seurat
+: 1690238750:0;l
+: 1690238755:0;gch advaita-main
+: 1690238760:0;cd node-js
+: 1690238761:0;l
+: 1690238767:0;mdkir node-js
+: 1690238770:0;l
+: 1690238772:0;pwd
+: 1690238774:0;mkdir node-js
+: 1690238776:0;cd node-js
+: 1690238789:0;npm init -y
+: 1690238803:0;echo **node_modules** >> .gitignore
+: 1690238811:0;fc
+: 1690238822:0;echo "**node_modules**" >> .gitignore
+: 1690238827:0;cat .gitignore
+: 1690238830:0;l
+: 1690238837:0;npm i -D @angular/cli
+: 1690238845:0;s
+: 1690238854:0;l
+: 1690238858:0;git add .
+: 1690238859:0;s
+: 1690238861:0;gad
+: 1690238862:0;gpsh
+: 1690238866:0;l
+: 1690238882:0;npx ng new angular-workspace
+: 1690239149:0;l
+: 1690239152:0;cd angular-workspace
+: 1690239153:0;l
+: 1690239167:0;cd node-js
+: 1690239168:0;l
+: 1690239170:0;pwd
+: 1690239180:0;cd
+: 1690239182:0;cd asc_seurat
+: 1690239183:0;l
+: 1690239185:0;cd node-js
+: 1690239185:0;l
+: 1690239189:0;cd angular-workspace
+: 1690239191:0;l
+: 1690239192:0;taw
+: 1690239193:0;npm start
+: 1690239193:0;vim README.txt
+: 1690239193:0;vim -c Sapp
+: 1690239209:0;l
+: 1690239216:0;vim angular.json
+: 1690239230:0;s
+: 1690239238:0;gad
+: 1690239248:0;gpsh
+: 1690239482:0;gad
+: 1690239483:0;gpsh
+: 1690239485:0;s
+: 1690239492:0;l
+: 1690239497:0;cd ..
+: 1690239600:0;l
+: 1690239604:0;cd ..
+: 1690239605:0;l
+: 1690239610:0;npm i -D electron
+: 1690239651:0;l
+: 1690239656:0;vim main.js
+: 1690239706:0;pwd
+: 1690239767:0;npm run build
+: 1690239776:0;l
+: 1690239781:0;tree dist
+: 1690239799:0;cd ..
+: 1690239799:0;l
+: 1690239802:0;cd angular-workspace
+: 1690239809:0;cd ..
+: 1690239810:0;l
+: 1690239828:0;npx electron .
+: 1690239879:0;l
+: 1690239883:0;vim package.json
+: 1690239889:0;npx electron .
+: 1690239969:0;l
+: 1690240016:0;vim ..
+: 1690240044:0;npm run build
+: 1690240057:0;npx electron .
+: 1690240116:0;cd
+: 1690240118:0;cd electron
+: 1690240118:0;l
+: 1690240121:0;vim index.html
+: 1690240196:0;npx electron .
+: 1690240223:0;npx electron . --trace-warnings
+: 1690240239:0;l
+: 1690240251:0;vim src
+: 1690240260:0;npx electron . --trace-warnings
+: 1690240279:0;l
+: 1690240285:0;tree dist
+: 1690240318:0;npx electron . --trace-warnings
+: 1690240345:0;l
+: 1690240352:0;pwd
+: 1690240354:0;cd ..
+: 1690240387:0;gac -m 'electron and angular workspace are hooked up'
+: 1690240389:0;s
+: 1690240392:0;gpsh
+: 1690240605:0;l
+: 1690240616:0;cd app
+: 1690240617:0;l
+: 1690240618:0;vim .
+: 1690240711:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690240732:0;cd
+: 1690240735:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690240981:0;l
+: 1690241005:0;npm i -S ipc
+: 1690241019:0;vim package.json
+: 1690241025:0;git add .
+: 1690241040:0;vim -c Latest
+: 1690241367:0;l
+: 1690241370:0;npm i -S ipc
+: 1690241808:0;l
+: 1690241810:0;cd angular-workspace
+: 1690241812:0;l
+: 1690241825:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690241878:0;find . | grep webpack
+: 1690241889:0;find . | grep webpack.config
+: 1690241893:0;find . | grep webpack.config.js
+: 1690241947:0;npm i -S node-polyfill-webpack-plugin
+: 1690241951:0;l
+: 1690241954:0;vim src
+: 1690241998:0;l
+: 1690241998:0;s
+: 1690242003:0;gad
+: 1690242004:0;gpsh
+: 1690242010:0;l
+: 1690242024:0;vim webpack.config.js
+: 1690242055:0;npm start
+: 1690242524:0;big
+: 1690242525:0;l
+: 1690242538:0;vim tsconfig.json
+: 1690242628:0;npm start
+: 1690242691:0;npm i -S fs-browserify
+: 1690242714:0;npm i -S path-browserify
+: 1690242920:0;npm start
+: 1690242952:0;npm i -S fs-browserify || npm i -S browserify-fs
+: 1690242977:0;npm start
+: 1690243020:0;npm i -S stream-browserify
+: 1690243039:0;npm start
+: 1690243055:0;l
+: 1690243065:0;git add tsconfig.json
+: 1690243066:0;s
+: 1690243259:0;vim webpack.config.js
+: 1690243273:0;rm -rf webpack.config.js
+: 1690243275:0;s
+: 1690243285:0;git commit -m 'added node.js polyfills to tsconfig.json'
+: 1690243289:0;gpsh
+: 1690243312:0;small
+: 1690243348:0;l
+: 1690243354:0;npm run build
+: 1690243397:0;s
+: 1690243414:0;npx electron .
+: 1690243447:0;l
+: 1690243448:0;cd ..
+: 1690243451:0;npx electron .
+: 1690243511:0;npm run build
+: 1690243534:0;npx electron .
+: 1690243548:0;npx electron . --trace-warnings
+: 1690243568:0;l
+: 1690243570:0;s
+: 1690243608:0;npm start
+: 1690243708:0;big
+: 1690243709:0;l
+: 1690243721:0;vim tsconfig.json
+: 1690243744:0;npm start
+: 1690244190:0;s
+: 1690244192:0;gad
+: 1690244193:0;gpsh
+: 1690298348:0;tl
+: 1690298349:0;tchat
+: 1690298352:0;vim ~/.chat/prompt.txt
+: 1690298352:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690298353:0;ta
+: 1690304312:0;tdbu
+: 1690304313:0;vim .
+: 1690304313:0;cd src
+: 1690304313:0;npm run start:dev
+: 1690304314:0;tl
+: 1690304320:0;ta
+: 1690304329:0;l
+: 1690304375:0;npx nest g module aws-rds
+: 1690304379:0;l
+: 1690304381:0;npm i
+: 1690304387:0;npx nest g module aws-rds
+: 1690304394:0;l
+: 1690304398:0;cd aws-rds
+: 1690304400:0;l
+: 1690304432:0;npx nest g service create-snapshot -d
+: 1690304442:0;npx nest g service create-snapshot --no-spec
+: 1690304445:0;l
+: 1690304448:0;vim aws-rds.module.ts
+: 1690304476:0;l
+: 1690304484:0;git restore .
+: 1690304485:0;l
+: 1690304497:0;npx nest g service create-snapshot --no-spec --flat
+: 1690304508:0;vim .
+: 1690304531:0;rm -rf create-snapshot/
+: 1690304532:0;l
+: 1690304535:0;gad
+: 1690304541:0;s
+: 1690304546:0;cd ..
+: 1690304551:0;gad
+: 1690304555:0;gpsh
+: 1690304576:0;gch -b aws-rds
+: 1690304579:0;l
+: 1690304726:0;npm run start:dev
+: 1690304857:0;npm install @aws-sdk/client-rds-data
+: 1690304949:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690305159:0;fc
+: 1690305163:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690305187:0;npm uninstall @aws-sdk/client-rds-data
+: 1690305195:0;npm install -S @aws-sdk
+: 1690305209:0;npm install -S aws-sdk
+: 1690305417:0;npm uninstall aws-sdk
+: 1690305483:0;npm i -S @aws-sdk/rds
+: 1690305496:0;npm i -S @aws-sdk/client-rds
+: 1690305685:0;l
+: 1690305687:0;cd aws
+: 1690305692:0;cd aws-rds
+: 1690305692:0;l
+: 1690305729:0;ngpx nest g service rds-client
+: 1690305733:0;fc
+: 1690305745:0;npx nest g service rds-client --flat --no-spec
+: 1690305748:0;l
+: 1690305752:0;vim .
+: 1690307056:0;l
+: 1690307096:0;npx nest g service stop-rds-instance --flat --no-spec -d
+: 1690307103:0;npx nest g service stop-rds-instance --flat --no-spec 
+: 1690307954:0;l
+: 1690307976:0;npx nest g service list-rds-instances --flat --no-spec 
+: 1690308070:0;l
+: 1690308072:0;vim .
+: 1690308146:0;npm run start:dev
+: 1690308683:0;ls
+: 1690308685:0;cd
+: 1690308687:0;tree .aws
+: 1690309283:0;l
+: 1690309286:0;vim
+: 1690309289:0;vim .
+: 1690312329:0;less
+: 1690312333:0;less .
+: 1690312334:0;l
+: 1690312336:0;less env
+: 1690312345:0;less package.json
+: 1690312372:0;jobs
+: 1690312377:0;fg %1
+: 1690313254:0;node
+: 1690314498:0;vim .
+: 1690314711:0;l
+: 1690314712:0;s
+: 1690314715:0;gad
+: 1690314717:0;gpsh
+: 1690314730:0;gch develop
+: 1690314732:0;s
+: 1690314736:0;gch main
+: 1690314747:0;npm run start:dev
+: 1690314763:0;l
+: 1690314765:0;vim env
+: 1690314917:0;l
+: 1690314922:0;cd nest-download-parse-ekb
+: 1690314922:0;l
+: 1690314929:0;cd kegg-csvs
+: 1690314930:0;l
+: 1690315099:0;less pathway_gene.csv
+: 1690315724:0;l
+: 1690315726:0;vim .
+: 1690315947:0;less pathway_gene.csv
+: 1690320461:0;s
+: 1690320464:0;git restore ..
+: 1690320466:0;s
+: 1690320471:0;git pull
+: 1690320675:0;l
+: 1690320709:0;vim .
+: 1690320812:0;l
+: 1690320813:0;s
+: 1690320881:0;gch -b Bugâ€ƒ‚pathway-gene-csv-bug
+: 1690320888:0;gb
+: 1690321093:0;npm run start:debug
+: 1690322803:0;less pathway_gene.csv
+: 1690322970:0;l
+: 1690323185:0;s
+: 1690323188:0;cd ..
+: 1690323188:0;gad
+: 1690323191:0;gpsh
+: 1690323220:0;vim .
+: 1690323228:0;vim nest-download-parse-ekb
+: 1690323249:0;l
+: 1690323252:0;cd ..
+: 1690323252:0;l
+: 1690323263:0;tree kegg-csvs
+: 1690323266:0;npm run start:debug
+: 1690323270:0;tree kegg-csvs
+: 1690323279:0;npm run start:debug
+: 1690323280:0;tree kegg-csvs
+: 1690323300:0;l
+: 1690323515:0;less pathway_gene.csv
+: 1690323521:0;l
+: 1690323533:0;less kegg-csvs/pathway_gene.csv
+: 1690323545:0;l
+: 1690323548:0;pwd
+: 1690323558:0;cd nest-download-parse-ekb
+: 1690323559:0;l
+: 1690323588:0;vim kegg-data
+: 1690323792:0;npm run start:debug
+: 1690323911:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690323982:0;l
+: 1690323984:0;vim package.json
+: 1690324061:0;npm run start:debug
+: 1690324581:0;vim kegg-csvs/pathway_gene.csv
+: 1690325594:0;l
+: 1690325903:0;npm run start:debug
+: 1690327345:0;vim kegg-csvs/pathway_gene.csv
+: 1690327347:0;vim kegg-data
+: 1690327500:0;s
+: 1690327507:0;gad
+: 1690327508:0;s
+: 1690327510:0;gpsh
+: 1690327568:0;l
+: 1690327569:0;s
+: 1690327571:0;gad
+: 1690327573:0;amend
+: 1690327598:0;gpsh
+: 1690328293:0;gch main
+: 1690328317:0;gch -b Bugâ€ƒ‚pathway-reference
+: 1690328322:0;l
+: 1690328322:0;vim .
+: 1690328680:0;l
+: 1690328686:0;vim kegg-data
+: 1690328893:0;l
+: 1690328897:0;vim kegg-csvs
+: 1690329200:0;node
+: 1690329559:0;l
+: 1690329561:0;gpsh
+: 1690329686:0;gln 3
+: 1690329745:0;s
+: 1690329760:0;git commit -m 'fixed pmid parsing issue'
+: 1690329761:0;gpsh
+: 1690329918:0;tl
+: 1690329920:0;ta
+: 1690329924:0;s
+: 1690329927:0;cd ..
+: 1690329928:0;l
+: 1690329928:0;s
+: 1690329930:0;gch main
+: 1690329931:0;l
+: 1690329933:0;ks
+: 1690383776:0;twa
+: 1690383777:0;tmux split-window
+: 1690383777:0;tmux select-layout main-horizontal
+: 1690383778:0;npm start
+: 1690383778:0;start_java
+: 1690383778:0;tmux split-window
+: 1690383779:0;tmux select-layout even-horizontal
+: 1690383780:0;vim tests
+: 1690383791:0;npm run SUMMARY
+: 1690385818:0;l
+: 1690385823:0;ks
+: 1690385824:0;tdbu
+: 1690385825:0;vim .
+: 1690385825:0;cd src
+: 1690385825:0;npm run start:dev
+: 1690385828:0;tchat
+: 1690385830:0;vim ~/.chat/prompt.txt
+: 1690385831:0;ta
+: 1690385831:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690386572:0;gb
+: 1690386575:0;gch aws-rds
+: 1690386577:0;s
+: 1690386801:0;l
+: 1690386809:0;cd aws-rds
+: 1690386810:0;l
+: 1690386858:0;npx nest g service user-interactions-and-events
+: 1690386865:0;rm -rf *spec*
+: 1690386867:0;l
+: 1690386881:0;rm -rf user-interactions-and-events
+: 1690386894:0;npx nest g service user-interactions-and-events --flat --no-spec
+: 1690386899:0;vim aws-rds.module.ts
+: 1690387840:0;npm run start:de
+: 1690387846:0;npm run start:dev
+: 1690392733:0;l
+: 1690392734:0;vim .
+: 1690393325:0;l
+: 1690393328:0;node
+: 1690393335:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690394479:0;cd 
+: 1690394481:0;cd pgwebapp10
+: 1690394481:0;l
+: 1690394483:0;cd playwright
+: 1690394486:0;npm run SUMMARY
+: 1690394499:0;npm run QA
+: 1690394807:0;node
+: 1690395344:0;npm run start:dev
+: 1690398250:0;l
+: 1690398328:0;npx nest g service restoreDatabaseFromSnapsho --flat --no-spec
+: 1690398335:0;l
+: 1690401096:0;npm run start:dev
+: 1690401685:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690402421:0;npm run start:dev
+: 1690403530:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690403706:0;l
+: 1690403706:0;vim .
+: 1690403714:0;l
+: 1690403731:0;npm i -S ora
+: 1690403741:0;l
+: 1690403752:0;cd ..
+: 1690403752:0;l
+: 1690403754:0;cd logger
+: 1690403755:0;l
+: 1690403770:0;npx nest g service loading-spinner--flat --no-spec
+: 1690403792:0;npx nest g service loading-spinner --flat --no-spec
+: 1690403809:0;l
+: 1690403819:0;rm -rf loading-spinner--flat
+: 1690403821:0;l
+: 1690403990:0;npm i -D @types/ora
+: 1690404544:0;vim .
+: 1690404658:0;l
+: 1690404880:0;npm run start:dev
+: 1690405072:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690405279:0;npm run start:dev
+: 1690407998:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690408217:0;npm run start:dev
+: 1690414105:0;s
+: 1690414108:0;cd ..
+: 1690414109:0;gad
+: 1690414110:0;gpsh
+: 1690415329:0;tl
+: 1690415332:0;ta
+: 1690415338:0;gad
+: 1690415340:0;cd ..
+: 1690415342:0;gad
+: 1690415344:0;gpsh
+: 1690415347:0;ks
+: 1690470821:0;cd
+: 1690470823:0;l
+: 1690470829:0;tdbu
+: 1690470830:0;vim .
+: 1690470830:0;npm run start:dev
+: 1690470830:0;cd src
+: 1690470831:0;ta
+: 1690470876:0;tchat
+: 1690470878:0;vim ~/.chat/prompt.txt
+: 1690470878:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690470879:0;ta
+: 1690470897:0;gch main
+: 1690471291:0;vim .
+: 1690471615:0;npm run start:dev
+: 1690471625:0;npm run start:debug
+: 1690472441:0;l
+: 1690472713:0;s
+: 1690472716:0;git diff .
+: 1690472746:0;gln 2
+: 1690472761:0;git diff .
+: 1690472831:0;l
+: 1690472836:0;cd kegg-data
+: 1690472841:0;vim kegg-data
+: 1690472851:0;vim kegg-csvs
+: 1690473166:0;gita add .
+: 1690473172:0;s
+: 1690473174:0;gad
+: 1690473176:0;s
+: 1690473178:0;git pull
+: 1690473195:0;git pull --no-rebase
+: 1690473244:0;l
+: 1690473252:0;cd nest-download-parse-ekb/kegg-csvs
+: 1690473254:0;l
+: 1690473282:0;less pathway_drug.csv
+: 1690473290:0;vim pathway_drug.csv
+: 1690473344:0;gad
+: 1690473365:0;vim pathway_drug.csv
+: 1690473480:0;l
+: 1690473482:0;vim pathway_drug.csv
+: 1690475191:0;gad
+: 1690475198:0;gln 3
+: 1690475226:0;git diff 526feca 3ba4a2d
+: 1690475246:0;git diff 526feca 3ba4a2d >> ~/duplicate-diff.txt
+: 1690475260:0;vim pathway_
+: 1690475265:0;vim pathway_drug.csv
+: 1690475324:0;gad
+: 1690475331:0;vim pathway_drug.csv
+: 1690475356:0;l
+: 1690475405:0;gad
+: 1690475426:0;l
+: 1690475427:0;cd ..
+: 1690475428:0;l
+: 1690475428:0;s
+: 1690475430:0;gpsh
+: 1690475545:0;l
+: 1690475552:0;gln 8
+: 1690475566:0;git diff 526feca e794140
+: 1690475630:0;l
+: 1690475634:0;gln 8
+: 1690475651:0;git diff 2744706 c16b522
+: 1690475665:0;gln 8
+: 1690475692:0;git diff 8c0ca61 e794140
+: 1690480269:0;gb
+: 1690480273:0;gch aws-rds
+: 1690480275:0;git merge main
+: 1690480282:0;s
+: 1690480287:0;vim main.ts
+: 1690480306:0;s
+: 1690480307:0;gad
+: 1690480309:0;gpsh
+: 1690480339:0;s
+: 1690481201:0;l
+: 1690481204:0;gch develop
+: 1690481205:0;l
+: 1690481206:0;s
+: 1690481207:0;vim .
+: 1690481219:0;l
+: 1690481226:0;cd kegg-csvs
+: 1690481227:0;l
+: 1690481232:0;vim pathway_disease.csv
+: 1690481290:0;npm run start:debug
+: 1690481298:0;vim .
+: 1690481328:0;gch main
+: 1690481349:0;vim pathway_disease.csv
+: 1690481359:0;gs
+: 1690481360:0;gad
+: 1690481361:0;gpsh
+: 1690481371:0;s
+: 1690481372:0;gad
+: 1690481373:0;gpsh
+: 1690481475:0;gad
+: 1690481476:0;gpsh
+: 1690481480:0;:w
+: 1690481692:0;l
+: 1690481716:0;vim pathway_disease.csv
+: 1690482109:0;gad
+: 1690482111:0;gpsh
+: 1690482117:0;gad
+: 1690482120:0;gpsh
+: 1690482485:0;gad
+: 1690482486:0;gpsh
+: 1690482516:0;gad
+: 1690482517:0;gpsh
+: 1690482863:0;gch aws-rds
+: 1690482867:0;s
+: 1690482872:0;git restore .
+: 1690482873:0;s
+: 1690482877:0;gch aws-rds
+: 1690482882:0;git merge main
+: 1690483245:0;l
+: 1690483252:0;vim aws-drds
+: 1690484217:0;l
+: 1690484231:0;cd aws-rds
+: 1690484233:0;l
+: 1690484267:0;npx nest g service wait-for-status --flat --no-spec
+: 1690484800:0;npm run start:debug
+: 1690487070:0;npm run start:deev
+: 1690487082:0;npm run start:dev
+: 1690488646:0;vim .
+: 1690489542:0;node
+: 1690490351:0;l
+: 1690490352:0;s
+: 1690490355:0;pwd
+: 1690490358:0;l
+: 1690490360:0;git add .
+: 1690490366:0;touch hi
+: 1690490368:0;l
+: 1690490370:0;s
+: 1690490373:0;rm hi
+: 1690490397:0;l
+: 1690490398:0;vim .
+: 1690490486:0;npm run start:dev
+: 1690490828:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690492141:0;vim .
+: 1690492144:0;abtasks
+: 1690496560:0;cd
+: 1690496562:0;cd private-configs
+: 1690496563:0;gad
+: 1690496563:0;gpsh
+: 1690550023:0;tdbu
+: 1690550024:0;vim .
+: 1690550024:0;cd src
+: 1690550024:0;npm run start:dev
+: 1690550026:0;tl
+: 1690550032:0;ta
+: 1690550037:0;gch main
+: 1690550042:0;gad
+: 1690550044:0;gpsh
+: 1690550047:0;gch main
+: 1690550052:0;git pull
+: 1690550060:0;gch aw
+: 1690550063:0;gch aws-rds
+: 1690550526:0;l
+: 1690550533:0;vim .
+: 1690553188:0;ks
+: 1690555665:0;l
+: 1690555670:0;tdbu
+: 1690555671:0;npm run start:dev
+: 1690555671:0;vim .
+: 1690555671:0;cd src
+: 1690555672:0;ta
+: 1690555912:0;l
+: 1690555923:0;cd aws-rds
+: 1690555924:0;l
+: 1690555933:0;rm -rf restore-database-from-snapsho.service.ts
+: 1690555943:0;rm -rf stop-rds-instance.service.ts
+: 1690555955:0;l
+: 1690556017:0;npm run start:dev
+: 1690556307:0;s
+: 1690556309:0;gad
+: 1690556315:0;cd ..
+: 1690556315:0;gad
+: 1690556317:0;gpsh
+: 1690556319:0;cd aws-rds
+: 1690556320:0;l
+: 1690556322:0;s
+: 1690556813:0;abtasks
+: 1690557016:0;tchat
+: 1690557019:0;vim ~/.chat/prompt.txt
+: 1690557019:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690557019:0;ta
+: 1690557473:0;ks
+: 1690563665:0;abtasks
+: 1690675489:0;l
+: 1690675500:0;mkdir tinder && echo tinder >> .gitignnore
+: 1690675502:0;s
+: 1690675504:0;gad
+: 1690675517:0;rm -rf duplicate-diff.txt
+: 1690675519:0;gad
+: 1690675522:0;gpsh
+: 1690675526:0;l
+: 1690675531:0;cd tinder
+: 1690675533:0;l
+: 1690675535:0;gi
+: 1690675537:0;gad
+: 1690675539:0;l
+: 1690675541:0;s
+: 1690675552:0;npm init -y
+: 1690675562:0;npm i playwright
+: 1690675570:0;l
+: 1690675576:0;mkdir app
+: 1690675579:0;rm app
+: 1690675585:0;tmux
+: 1690675590:0;npm i -D nodemone
+: 1690675593:0;npm i -D nodemon
+: 1690675594:0;l
+: 1690675602:0;vim app.js
+: 1690675612:0;npx nodemon app.js
+: 1690675617:0;l
+: 1690675627:0;rmdir app
+: 1690675629:0;npx nodemon app.js
+: 1690675874:0;npx playwright codegen https://tinder.com
+: 1690675949:0;tcaht
+: 1690675951:0;tchat
+: 1690675953:0;vim ~/.chat/prompt.txt
+: 1690675953:0;ta
+: 1690675953:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690676963:0;npx nodemon app.js
+: 1690676530:869;npx playwright codegen https://tinder.com
+: 1690815719:0;l
+: 1690815826:0;tdbu
+: 1690815827:0;vim .
+: 1690815827:0;cd src
+: 1690815827:0;npm run start:dev
+: 1690815833:0;ta
+: 1690815868:0;l
+: 1690815884:0;npx nest g --help
+: 1690815896:0;s
+: 1690815905:0;gch main
+: 1690815908:0;s
+: 1690815908:0;gad
+: 1690815914:0;gch aws-rds
+: 1690815914:0;gad
+: 1690815915:0;gpsh
+: 1690815917:0;gch main
+: 1690815919:0;l
+: 1690815993:0;gch -b featureâ€ƒ‚db-deployment-handler-app 
+: 1690815996:0;l
+: 1690816003:0;npx nest g application
+: 1690816036:0;cd deployment-handler
+: 1690816036:0;l
+: 1690816039:0;gpsh
+: 1690816124:0;s
+: 1690816125:0;gpsh
+: 1690816129:0;l
+: 1690816130:0;pwd
+: 1690816132:0;gad
+: 1690816133:0;gpsh
+: 1690816922:0;l
+: 1690816923:0;tl
+: 1690816926:0;pwd
+: 1690816939:0;edit_ex tdb
+: 1690816975:0;s
+: 1690816977:0;gad
+: 1690816989:0;git rm --chaced tinder
+: 1690816997:0;l
+: 1690816997:0;s
+: 1690817006:0;echo tinder >> .gitign
+: 1690817010:0;echo tinder >> .gitignore
+: 1690817014:0;s
+: 1690817018:0;rm .gitign
+: 1690817030:0;git add .gitignore 
+: 1690817036:0;git rm tinder
+: 1690817042:0;git rm -r tinder
+: 1690817045:0;l
+: 1690817049:0;s
+: 1690817058:0;git rm -rf tinder
+: 1690817060:0;s
+: 1690817084:0;mv tinder test/
+: 1690817085:0;s
+: 1690817090:0;gad
+: 1690817093:0;gpsh
+: 1690817101:0;l
+: 1690817102:0;s
+: 1690817105:0;l
+: 1690817111:0;tl
+: 1690817112:0;ks
+: 1690817114:0;tdbu
+: 1690817115:0;npm run start:dev
+: 1690817115:0;cd src
+: 1690817115:0;vim .
+: 1690817115:0;cd src
+: 1690817115:0;npm run start:dev
+: 1690817117:0;tl
+: 1690817118:0;ta
+: 1690817621:0;l
+: 1690817663:0;npx nest g --help
+: 1690817805:0;npx nest g co update-application-code
+: 1690817860:0;npx nest g co deploy-updated-applicaitons
+: 1690817874:0;rm -rf *spec*
+: 1690817875:0;l
+: 1690818041:0;npx nest g co handle-rds-deployment
+: 1690818047:0;rm -rf *spec*
+: 1690818050:0;l
+: 1690818105:0;gad
+: 1690818118:0;l
+: 1690818126:0;tree .
+: 1690818149:0;rm -rf ./**spec**
+: 1690818162:0;rm -rf deploy-updated-applicaitons/deploy-updated-applicaitons.controller.spec.ts
+: 1690818170:0;rm -rf handle-rds-deployment/handle-rds-deployment.controller.spec.ts
+: 1690818176:0;rm -rf update-application-code/update-application-code.controller.spec.ts
+: 1690818179:0;tree .
+: 1690819918:0;tchat
+: 1690819920:0;vim ~/.chat/prompt.txt
+: 1690819921:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690819927:0;l
+: 1690819931:0;tchat
+: 1690819934:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690819941:0;tk tchats
+: 1690819943:0;tl
+: 1690819948:0;tk ai-chat
+: 1690819953:0;tchat
+: 1690819956:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690819966:0;tmux kill-session -t ai-chat
+: 1690819968:0;tl
+: 1690819970:0;tcaht
+: 1690819973:0;tchat
+: 1690819975:0;vim ~/.chat/prompt.txt
+: 1690819976:0;ta
+: 1690819976:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690820303:0;npm run start:dev
+: 1690821524:0;l
+: 1690821529:0;pwd
+: 1690821531:0;cd ..
+: 1690821532:0;l
+: 1690821538:0;npx nest g lib --help
+: 1690821579:0;npx nest g lib cli-lib
+: 1690821604:0;l
+: 1690821615:0;cd libs
+: 1690821616:0;l
+: 1690821619:0;cd cli-lib
+: 1690821621:0;l
+: 1690821648:0;cd ..
+: 1690821648:0;l
+: 1690821650:0;cd libs/cli-lib
+: 1690821652:0;l
+: 1690821654:0;cd src
+: 1690821655:0;l
+: 1690821662:0;pwd
+: 1690821668:0;cd /Users/andrewmiller/ekb-updater-andrew-stephen/nest-download-parse-ekb/libs/cli-lib/src
+: 1690821669:0;l
+: 1690821675:0;gad
+: 1690821681:0;l
+: 1690821681:0;s
+: 1690821713:0;mv ../../../src/logger .
+: 1690821718:0;s
+: 1690821733:0;l
+: 1690821734:0;s
+: 1690821746:0;git restore src/
+: 1690821748:0;l
+: 1690821751:0;git restore l
+: 1690821757:0;cd src
+: 1690821762:0;l
+: 1690821767:0;rm -r logger
+: 1690821768:0;fc
+: 1690821786:0;git mv ../../../src/logger .
+: 1690821787:0;s
+: 1690821800:0;l
+: 1690821806:0;s
+: 1690821812:0;git commit -m ' moving logger inot lib'
+: 1690821813:0;gpsh
+: 1690821818:0;s
+: 1690821828:0;l
+: 1690821833:0;cd logger
+: 1690821834:0;l
+: 1690821842:0;cd ..
+: 1690821843:0;l
+: 1690821857:0;vim .
+: 1690821936:0;l
+: 1690821939:0;l.ts
+: 1690821940:0;l
+: 1690821941:0;cd ..
+: 1690821944:0;l
+: 1690821950:0;vim tsconfig.json
+: 1690822024:0;l
+: 1690822040:0;s
+: 1690822044:0;agd
+: 1690822046:0;gad
+: 1690822053:0;npm run start:dev
+: 1690822161:0;cd
+: 1690822166:0;cd pgwebapp10/src/main/
+: 1690822166:0;l
+: 1690822172:0;cd webapp/projects
+: 1690822172:0;l
+: 1690822174:0;cd d3plot
+: 1690822174:0;l
+: 1690822179:0;cd src
+: 1690822179:0;l
+: 1690822181:0;vim public-api.ts
+: 1690822210:0;l
+: 1690822291:0;cd ..
+: 1690822292:0;l
+: 1690822300:0;vim nest-cli.json
+: 1690822326:0;vim index.ts
+: 1690822430:0;l
+: 1690822431:0;s
+: 1690822434:0;gln 3
+: 1690822446:0;gch d18c288
+: 1690822459:0;npm run start:dev
+: 1690822481:0;gln 4
+: 1690822497:0;gch aws-rds
+: 1690822501:0;gb
+: 1690822507:0;gch aws-rds
+: 1690822513:0;s
+: 1690822518:0;git restore .
+: 1690822519:0;s
+: 1690822528:0;gch aws-rds
+: 1690822530:0;s
+: 1690822534:0;rm src/logger
+: 1690822536:0;s
+: 1690822539:0;gln 5
+: 1690822560:0;gln 8
+: 1690822567:0;gch 008841c
+: 1690822581:0;l
+: 1690822595:0;rm logger-facade.ts
+: 1690822612:0;l
+: 1690822613:0;pwd
+: 1690822622:0;cd ..
+: 1690822623:0;l
+: 1690822624:0;cd .
+: 1690822630:0;l
+: 1690822632:0;pwd
+: 1690822642:0;cd ..
+: 1690822642:0;l
+: 1690822645:0;ls deployment-handler
+: 1690822648:0;tree deployment-handler
+: 1690822654:0;pwd
+: 1690822669:0;gch aws-rds
+: 1690822671:0;gln 8
+: 1690822684:0;gch e885455
+: 1690822687:0;l
+: 1690822692:0;tree deployment-handler
+: 1690822705:0;gch aws-rds
+: 1690822707:0;l
+: 1690822725:0;npm run start:dev
+: 1690822733:0;l
+: 1690822740:0;vim nest-cli.json
+: 1690822747:0;cd libs
+: 1690822775:0;npm run start:dev
+: 1690822779:0;l
+: 1690822787:0;cd nest-download-parse-ekb
+: 1690822787:0;l
+: 1690822793:0;cd src/kegg
+: 1690822795:0;l
+: 1690822803:0;cd ..
+: 1690822804:0;l
+: 1690822826:0;pwd
+: 1690822834:0;l
+: 1690822841:0;gln 3
+: 1690823344:0;l
+: 1690823346:0;pwd
+: 1690823347:0;s
+: 1690823364:0;gb
+: 1690823371:0;gch   featureâ€ƒ‚db-deployment-handler-app
+: 1690823375:0;l
+: 1690823378:0;npm run start:dev
+: 1690823384:0;l
+: 1690823390:0;vim .
+: 1690823402:0;gln 4
+: 1690823423:0;gch 7e2f06c
+: 1690823426:0;s
+: 1690823444:0;gch -b deployment-handler-fork
+: 1690823448:0;l
+: 1690823457:0;npm run start:dev
+: 1690823465:0;l
+: 1690823489:0;vim libs
+: 1690823497:0;l
+: 1690823725:0;ln src/logger/core-logger.service.ts deployment-handler/src/
+: 1690823727:0;s
+: 1690823740:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690823784:0;s
+: 1690823785:0;gad
+: 1690823786:0;gsph
+: 1690823788:0;gpsh
+: 1690823811:0;npm run start:dev
+: 1690823847:0;l
+: 1690823878:0;ln src/logger/logger.constants.ts deployment-handler/src/
+: 1690824190:0;gpsh
+: 1690824445:0;tree1
+: 1690826316:0;npm run start:dev
+: 1690830385:0;l
+: 1690830388:0;cd src
+: 1690830390:0;l
+: 1690830445:0;cd update-application-code
+: 1690830446:0;l
+: 1690830476:0;npx nest g service update-config-repo --flat --no-spec
+: 1690830778:0;l
+: 1690830782:0;cd ..
+: 1690830783:0;l
+: 1690830804:0;npx nest g service git --flat --no-spec
+: 1690831015:0;vim ~/.chat/prompt.txt
+: 1690831023:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690831539:0;l
+: 1690831543:0;cd ..
+: 1690831544:0;l
+: 1690831550:0;pwd
+: 1690831575:0;echo config-repo >> .gitignore
+: 1690831576:0;s
+: 1690831587:0;gad
+: 1690831588:0;gpsh
+: 1690831593:0;s
+: 1690831644:0;l
+: 1690831782:0;ln src/file-handler/core-file-handler.service.ts deployment-handler/src/
+: 1690831786:0;l
+: 1690833462:0;ndoe
+: 1690833464:0;node
+: 1690834723:0;l
+: 1690834733:0;cd src
+: 1690834734:0;l
+: 1690834747:0;npx nest g service readline
+: 1690834758:0;npx nest g service readline --flat --no-spec
+: 1690834762:0;rm -rf readline
+: 1690834765:0;vim app.module.ts
+: 1690834905:0;l
+: 1690834907:0;vim src
+: 1690834940:0;l
+: 1690834945:0;s
+: 1690834979:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690835028:0;l
+: 1690835038:0;cd deployment-handler
+: 1690835039:0;l
+: 1690835062:0;cp src/core-file-handler.service.ts src/core-file-handler.service.ts
+: 1690835066:0;gad
+: 1690835074:0;s
+: 1690835077:0;git restore .
+: 1690835078:0;s
+: 1690835081:0;gpsh
+: 1690835085:0;s
+: 1690835099:0;npm run start:dev
+: 1690835118:0;l
+: 1690835154:0;vim file-handler
+: 1690835199:0;npm run start:dev
+: 1690835387:0;l
+: 1690835387:0;pwd
+: 1690835392:0;cd src
+: 1690835395:0;npm run start:dev
+: 1690835406:0;l
+: 1690835412:0;ls libs
+: 1690835420:0;vim tsconfig.json
+: 1690835437:0;vim nest-cli.json
+: 1690835731:0;l
+: 1690835738:0;rm -rf libs
+: 1690835772:0;vim .
+: 1690835841:0;npm run start:dev
+: 1690835861:0;pwd
+: 1690835870:0;cd ..
+: 1690835873:0;s
+: 1690835886:0;l
+: 1690835887:0;s
+: 1690835888:0;gad
+: 1690835892:0;gpsh
+: 1690835895:0;l
+: 1690835896:0;vim package.json
+: 1690835912:0;npx nest start --help
+: 1690835983:0;npm run start:dev
+: 1690841356:0;gad
+: 1690841361:0;s
+: 1690841363:0;gln 8
+: 1690841374:0;gch 21f1574
+: 1690841379:0;npm run start:dev
+: 1690841407:0;gch deployment-handler-fork
+: 1690841411:0;gln 19
+: 1690841421:0;gch 9c29a66
+: 1690841427:0;npm run start:dev
+: 1690841463:0;gch deployment-handler-fork
+: 1690841467:0;gln 20
+: 1690841490:0;gch 10ec378
+: 1690841499:0;npm run start:dev
+: 1690841523:0;gch deployment-handler-fork
+: 1690841527:0;gln 20
+: 1690841538:0;gch 7e2f06c
+: 1690841831:0;s
+: 1690841848:0;gch -b forker-house
+: 1690841851:0;l
+: 1690841869:0;vim .
+: 1690841903:0;gad
+: 1690841904:0;gpsh
+: 1690841950:0;gb
+: 1690841963:0;git worktree add   deployment-handler-fork\
+
+: 1690841967:0;s
+: 1690841991:0;untracked
+: 1690841997:0;untracked >> .gitignore
+: 1690841999:0;s
+: 1690842002:0;l
+: 1690842018:0;npm run start:dev
+: 1690842062:0;gln 8
+: 1690842278:0;npm run start:dev
+: 1690842383:0;l
+: 1690842388:0;pwd
+: 1690842410:0;git worktree remove /Users/andrewmiller/ekb-updater-andrew-stephen/nest-download-parse-ekb/deployment-handler/deployment-handler-fork 
+: 1690842415:0;git worktree ls
+: 1690842417:0;fc
+: 1690842419:0;git worktree list\
+
+: 1690842429:0;l
+: 1690842445:0;git worktree add   deployment-handler-fork\
+
+: 1690842450:0;npm run start:dev
+: 1690842463:0;git worktree remove /Users/andrewmiller/ekb-updater-andrew-stephen/deployment-handler-fork 
+: 1690842467:0;git worktree list
+: 1690842518:0;l
+: 1690842542:0;tree1 deployment-handler
+: 1690842553:0;npm run start:dev
+: 1690842590:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690842700:0;l
+: 1690842703:0;vim .
+: 1690842735:0;l
+: 1690842740:0;vim tsconfig.json
+: 1690842814:0;npm run start:dev
+: 1690842834:0;npx nest start --help
+: 1690842857:0;ls
+: 1690842859:0;cd ..
+: 1690842861:0;l
+: 1690842869:0;npx nest start
+: 1690842883:0;cd nest-download-parse-ekb
+: 1690842886:0;npx nest start
+: 1690842898:0;l
+: 1690842916:0;vim package.json
+: 1690842919:0;l
+: 1690842933:0;npx nest start --help
+: 1690842953:0;vim nest-cli.json
+: 1690842994:0;vim tsconfig.json
+: 1690843567:0;s
+: 1690843570:0;gad
+: 1690843571:0;gpsh
+: 1690843575:0;l
+: 1690843578:0;s
+: 1690843579:0;l
+: 1690843582:0;pwd
+: 1690843588:0;gch main
+: 1690843590:0;l
+: 1690843599:0;gla
+: 1690843730:0;gch -b master
+: 1690843734:0;l
+: 1690843748:0;gch -b create proper-mono-repo
+: 1690843770:0;gch -b  proper-mono-repo
+: 1690843775:0;l
+: 1690843817:0;npx nest generate app deployment-handler
+: 1690843829:0;cd nest-download-parse-ekb
+: 1690843833:0;l
+: 1690843840:0;s
+: 1690843855:0;l
+: 1690843861:0;git worktee remove deployment-handler
+: 1690843867:0;fc
+: 1690843871:0;git worktree remove deployment-handler
+: 1690843879:0;git worktree list
+: 1690843883:0;rm -rf deployment-handler
+: 1690843889:0;l
+: 1690843893:0;vim nest-cli.json
+: 1690843900:0;l
+: 1690843972:0;npx nest g app deployment-handler
+: 1690843977:0;s
+: 1690843986:0;l
+: 1690843990:0;tree2 apps
+: 1690844016:0;tree apps/nest-download-parse-ekb
+: 1690844019:0;s
+: 1690844030:0;gad
+: 1690844036:0;gpsh
+: 1690844176:0;l
+: 1690844177:0;s
+: 1690844192:0;l
+: 1690844273:0;pwd
+: 1690844306:0;l
+: 1690844323:0;ks
+: 1690844329:0;edit_ex tdbu
+: 1690844380:0;l
+: 1690844415:0;tdbu
+: 1690844416:0;vim .
+: 1690844416:0;cd src
+: 1690844416:0;npm run start:dev
+: 1690844416:0;cd src
+: 1690844416:0;vim .
+: 1690844416:0;npm run start:dev
+: 1690844418:0;ta
+: 1690845049:0;gb
+: 1690845053:0;gch master
+: 1690845055:0;l
+: 1690845059:0;cd ..
+: 1690845059:0;l
+: 1690845063:0;pwd
+: 1690845064:0;cd ..
+: 1690845065:0;l
+: 1690845069:0;s
+: 1690845074:0;ls apps
+: 1690845077:0;tree apps
+: 1690845081:0;rm -rf apps
+: 1690845115:0;pwd
+: 1690845123:0;l
+: 1690845158:0;edit_ex tdbu
+: 1690845266:0;ks
+: 1690845269:0;cd
+: 1690845271:0;s
+: 1690845275:0;gad
+: 1690845278:0;gpsh
+: 1690845282:0;l
+: 1690845307:0;tl
+: 1690845317:0;tdbu
+: 1690845318:0;vim .
+: 1690845318:0;cd src
+: 1690845318:0;npm run start:dev
+: 1690845319:0;ta
+: 1690845330:0;tchat
+: 1690845332:0;vim ~/.chat/prompt.txt
+: 1690845333:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690845334:0;ta
+: 1690845345:0;l
+: 1690845360:0;npx nest new deployment-handler
+: 1690845367:0;npx nest new
+: 1690845387:0;npm i
+: 1690845392:0;npx nest new
+: 1690845920:0;l
+: 1690845921:0;gad
+: 1690845924:0;git add deployment-handler/
+: 1690845933:0;l
+: 1690845937:0;cd deployment-handler
+: 1690845937:0;l
+: 1690845945:0;rm -rf .git
+: 1690845946:0;s
+: 1690845950:0;cd ..
+: 1690845952:0;s
+: 1690845955:0;cd deployment-handler
+: 1690845955:0;l
+: 1690845957:0;gad
+: 1690845962:0;gpsh
+: 1690845971:0;git push --set-upstream origin master\
+
+: 1690845979:0;l
+: 1690845987:0;npm run start:dev
+: 1690846025:0;ks
+: 1690846028:0;edit_ex tdbu
+: 1690846059:0;tl
+: 1690846059:0;ks
+: 1690846060:0;tdbu
+: 1690846061:0;cd src
+: 1690846061:0;npm run start:dev
+: 1690846061:0;vim .
+: 1690846061:0;cd src
+: 1690846062:0;npm run start:dev
+: 1690846064:0;ta
+: 1690846195:0;l
+: 1690846202:0;gb
+: 1690846245:0;git worktree add   featureâ€ƒ‚db-deployment-handler-app
+: 1690846247:0;l
+: 1690846250:0;s
+: 1690846269:0;echo featureâ€ƒ‚db-deployment-handler-app >> .gitignore
+: 1690846270:0;s
+: 1690846274:0;cd featureâ€ƒ‚db-deployment-handler-app
+: 1690846275:0;l
+: 1690846278:0;cd ..
+: 1690846280:0;l
+: 1690846362:0;mv featureâ€ƒ‚db-deployment-handler-app/nest-download-parse-ekb/deployment-handler/src deployment-handler/src
+: 1690846365:0;s
+: 1690846369:0;cd deployment-handler/src
+: 1690846371:0;tree .
+: 1690846404:0;l
+: 1690846406:0;cd featureâ€ƒ‚db-deployment-handler-app
+: 1690846408:0;git restore .
+: 1690846409:0;s
+: 1690846411:0;gb
+: 1690846424:0;gch deployment-handler-fork
+: 1690846427:0;l
+: 1690846436:0;tree nest-download-parse-ekb/deployment-handler/src
+: 1690846449:0;cd ..
+: 1690846452:0;mv featureâ€ƒ‚db-deployment-handler-app/nest-download-parse-ekb/deployment-handler/src deployment-handler/src
+: 1690846457:0;l
+: 1690846459:0;cd ..
+: 1690846464:0;mv featureâ€ƒ‚db-deployment-handler-app/nest-download-parse-ekb/deployment-handler/src deployment-handler/src
+: 1690846474:0;l
+: 1690846720:0;tree deployment-handler/src
+: 1690846747:0;rm -rf deployment-handler/src
+: 1690846750:0;tl
+: 1690846752:0;l
+: 1690846754:0;pwd
+: 1690846758:0;mv featureâ€ƒ‚db-deployment-handler-app/nest-download-parse-ekb/deployment-handler/src deployment-handler/src
+: 1690846759:0;s
+: 1690846764:0;gad
+: 1690846768:0;gpsh
+: 1690846782:0;l
+: 1690846783:0;s
+: 1690846788:0;l
+: 1690846799:0;ks
+: 1690846061:0;vim .
+: 1690846801:0;tdbu
+: 1690846802:0;npm run start:dev
+: 1690846802:0;cd src
+: 1690846802:0;vim .
+: 1690846802:0;cd src
+: 1690846802:0;npm run start:dev
+: 1690846804:0;ta
+: 1690847214:0;npm run start:dev
+: 1690847563:0;l
+: 1690847746:0;gpsh
+: 1690847749:0;s
+: 1690847751:0;cd ..
+: 1690847761:0;echo config-repo >> .gitignore
+: 1690847763:0;s
+: 1690847772:0;echo config-repo >> .gitignore
+: 1690847772:0;s
+: 1690847780:0;gad
+: 1690847781:0;gpsh
+: 1690848051:0;l
+: 1690848052:0;pwd
+: 1690848059:0;cd featureâ€ƒ‚db-deployment-handler-app
+: 1690848063:0;gch aws-rd
+: 1690848066:0;gch aws-rds
+: 1690848068:0;l
+: 1690848097:0;cd nest-download-parse-ekb/src
+: 1690848099:0;vim .
+: 1690848329:0;npm run start:dev
+: 1690848786:0;l
+: 1690848788:0;pwd
+: 1690848792:0;cd ..
+: 1690848792:0;l
+: 1690848822:0;tl
+: 1690848826:0;ta
+: 1690848833:0;npm run start:dev
+: 1690848857:0;ks
+: 1690848858:0;tdbu
+: 1690848859:0;vim .
+: 1690848859:0;npm run start:dev
+: 1690848859:0;cd src
+: 1690848859:0;vim .
+: 1690848859:0;cd src
+: 1690848859:0;npm run start:dev
+: 1690848863:0;ta
+: 1690848889:0;l
+: 1690848890:0;s
+: 1690848893:0;gad
+: 1690848901:0;gpsh
+: 1690848904:0;l
+: 1690848908:0;cd deployment-handler
+: 1690848909:0;l
+: 1690848911:0;cd config-repo
+: 1690848912:0;s
+: 1690848916:0;l
+: 1690848918:0;s
+: 1690848921:0;l
+: 1690849853:0;tchat
+: 1690849855:0;vim ~/.chat/prompt.txt
+: 1690849856:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690849861:0;edit_ex
+: 1690849874:0;ta
+: 1690849897:0;l
+: 1690849901:0;cd config-repo
+: 1690849924:0;git diff "HEAD~3"
+: 1690849932:0;git diff "HEAD~3" -- .
+: 1690849949:0;git diff "HEAD~3" -- 
+: 1690849991:0;l
+: 1690850125:0;cd ..
+: 1690850126:0;l
+: 1690850128:0;rm -rf config-repo
+: 1690850166:0;l
+: 1690850324:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690850388:0;npm i -S fs-extra && npm i -D @types/fs-extras
+: 1690850615:0;npm i -D @types/fs-extra
+: 1690851967:0;l
+: 1690851971:0;vim .
+: 1690852061:0;npm run start:dev
+: 1690852371:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690853409:0;npm run start:dev
+: 1690855147:0;cd
+: 1690855150:0;cd test
+: 1690855151:0;l
+: 1690855157:0;s
+: 1690855169:0;mkdir readable-streams
+: 1690855172:0;cd readable-streams
+: 1690855174:0;l
+: 1690855180:0;pwd
+: 1690855184:0;cd /Users/andrewmiller/test/readable-streams
+: 1690855192:0;vim readable-stream.js
+: 1690855199:0;l
+: 1690855207:0;npx nodemon readable-stream.js
+: 1690855319:0;cd /Users/andrewmiller/test/readable-streams
+: 1690855322:0;npx
+: 1690855330:0;cd /Users/andrewmiller/test/readable-streams
+: 1690855334:0;npx nodemon readable-stream.js
+: 1690855348:0;cd /Users/andrewmiller/test/readable-streams
+: 1690855350:0;npx nodemon readable-stream.js
+: 1690855941:0;npm run start:dev
+: 1690856009:0;s
+: 1690856010:0;gad
+: 1690856011:0;gpsh
+: 1690856379:0;s
+: 1690899533:0;tl
+: 1690899537:0;tdbu
+: 1690899539:0;cd src
+: 1690899539:0;vim .
+: 1690899539:0;npm run start:dev
+: 1690899543:0;ta
+: 1690899601:0;npm run start:dev
+: 1690900001:0;l
+: 1690900004:0;ce update-application-code
+: 1690900006:0;l
+: 1690900009:0;cd update-application-code
+: 1690900010:0;l
+: 1690900195:0;vim todo.txt
+: 1690901168:0;tchat
+: 1690901170:0;vim ~/.chat/prompt.txt
+: 1690901171:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690901172:0;ta
+: 1690905697:0;l
+: 1690905749:0;npx nest g service update-ae --no-spec --flat
+: 1690905757:0;l
+: 1690905758:0;vim .
+: 1690906202:0;abtasks
+: 1690907379:0;s
+: 1690907381:0;gad
+: 1690907382:0;gpsh
+: 1690907386:0;l
+: 1690907403:0;git worktree list
+: 1690907417:0;cd featureâ€ƒ‚db-deployment-handler-app
+: 1690907422:0;cd ..
+: 1690907426:0;cd featureâ€ƒ‚db-deployment-handler-app
+: 1690907429:0;l
+: 1690907441:0;cd featureâ€ƒ‚db-deployment-handler-app
+: 1690907442:0;l
+: 1690907447:0;cd nest-download-parse-ekb/src/aws-rds
+: 1690907448:0;l
+: 1690907449:0;vim .
+: 1690907497:0;npm i -S @aws-sdk/client-efx
+: 1690907501:0;npm i -S @aws-sdk/client-efs
+: 1690908120:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690908534:0;mount
+: 1690908549:0;mount --help
+: 1690908553:0;which mount
+: 1690908586:0;l
+: 1690908610:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690912879:0;l
+: 1690912881:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690912897:0;l
+: 1690912911:0;cd 
+: 1690912918:0;cd .chat
+: 1690912919:0;l
+: 1690912923:0;cd history
+: 1690912924:0;l
+: 1690912926:0;rm -rf *
+: 1690912932:0;l
+: 1690912949:0;cd ..
+: 1690912949:0;l
+: 1690912964:0;cd ..
+: 1690912965:0;l
+: 1690912971:0;vim .chat
+: 1690912978:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690913012:0;l
+: 1690913012:0;s
+: 1690913036:0;git rm src/efs-client.ts
+: 1690913041:0;fc
+: 1690913047:0;git rm --cached src/efs-client.ts
+: 1690913052:0;s
+: 1690913059:0;gad
+: 1690913061:0;gpsh
+: 1690913070:0;l
+: 1690913071:0;pwd
+: 1690913081:0;cd ..
+: 1690913081:0;l
+: 1690913088:0;cd deployment-handler
+: 1690913089:0;l
+: 1690913474:0;tchat
+: 1690913477:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690913583:0;l
+: 1690913609:0;cd
+: 1690913617:0;l
+: 1690913620:0;cd test
+: 1690913628:0;vim mount.sh
+: 1690913646:0;chmod +x mount.sh
+: 1690913652:0;onsave mount.sh ./mount.sh
+: 1690913655:0;fc
+: 1690913657:0;npx onsave mount.sh ./mount.sh
+: 1690913672:0;nvm use lts/erbium
+: 1690913676:0;npx onsave mount.sh ./mount.sh
+: 1690913714:0;cd test
+: 1690913715:0;cd
+: 1690913716:0;cd test
+: 1690913717:0;l
+: 1690913798:0;mkdir efs
+: 1690913799:0;:w
+: 1690913814:0;l
+: 1690913816:0;tree efs
+: 1690913819:0;cd efs
+: 1690913819:0;l
+: 1690916979:0;cd ~/.ssh
+: 1690916980:0;l
+: 1690916983:0;sftp -i "WebmasterAWS.pem" ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com
+: 1690917041:0;l
+: 1690917053:0;sftp -i "WebmasterAWS.pem" ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com
+: 1690917071:0;vim WebmasterAWS.pem
+: 1690917095:0;ls -l WebmasterAWS.pem
+: 1690917117:0;chmod 000 WebmasterAWS.pem
+: 1690917122:0;chmod +w WebmasterAWS.pem
+: 1690917125:0;ls -l WebmasterAWS.pem
+: 1690917144:0;chmod 000 WebmasterAWS.pem
+: 1690917161:0;basj chmod +w WebmasterAWS.pem
+: 1690917166:0;bash chmod +w WebmasterAWS.pem
+: 1690917172:0;sh chmod +w WebmasterAWS.pem
+: 1690917188:0;ls -l WebmasterAWS.pem
+: 1690917195:0;chmod +r WebmasterAWS.pem
+: 1690917198:0;ls -l WebmasterAWS.pem
+: 1690917227:0;sftp -i "WebmasterAWS.pem" ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com
+: 1690917236:0;chmod 400 WebmasterAWS.pem
+: 1690917238:0;sftp -i "WebmasterAWS.pem" ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com
+: 1690918346:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690918945:0;ks
+: 1690899539:12;npm run start:dev
+: 1690918949:0;tdvu
+: 1690918952:0;tdbu
+: 1690918953:0;npm run start:dev
+: 1690918953:0;cd src
+: 1690918953:0;vim .
+: 1690918953:0;cd src
+: 1690918953:0;npm run start:dev
+: 1690918954:0;tchat
+: 1690918956:0;vim ~/.chat/prompt.txt
+: 1690918957:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690918957:0;ta
+: 1690919027:0;l
+: 1690919034:0;mkdir sh-mount
+: 1690919035:0;cd sh-mount
+: 1690919036:0;l
+: 1690919042:0;cd sh-mount
+: 1690919043:0;l
+: 1690919064:0;vimx ssh-to-qa-efs.sh
+: 1690919089:0;l
+: 1690919106:0;npx onsave ssh-to-qa-efs.sh ./ssh-to-qa-efs.sh
+: 1690919117:0;nvm use lts/erbium
+: 1690919119:0;npx onsave ssh-to-qa-efs.sh ./ssh-to-qa-efs.sh
+: 1690919540:0;l
+: 1690919543:0;cd sh-mount
+: 1690919549:0;./ssh-to-qa-efs.sh
+: 1690919555:0;npx onsave ssh-to-qa-efs.sh ./ssh-to-qa-efs.sh
+: 1690919562:0;nvm use lts/erbium
+: 1690919564:0;npx onsave ssh-to-qa-efs.sh ./ssh-to-qa-efs.sh
+: 1690919694:0;vim todo.txt
+: 1690919811:0;l
+: 1690919856:0;ssh -i ~/.ssh/WebmasterAWS.pem ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com \
+
+: 1690919875:0;ls
+: 1690919967:0;l
+: 1690919973:0;cd sh-mount
+: 1690919975:0;l
+: 1690919987:0;vimx scp-to-qa-efs.sh
+: 1690920021:0;cd
+: 1690920026:0;mkdir foo
+: 1690920028:0;s
+: 1690920040:0;echo 'hello world' >> foo/helloworld.txt
+: 1690920166:0;cd sh-mount
+: 1690920173:0;npx onsave scp-to-qa-efs.sh ./scp-to-qa-efs.sh
+: 1690920185:0;nvm use lts/erbium
+: 1690920186:0;npx onsave scp-to-qa-efs.sh ./scp-to-qa-efs.sh
+: 1690920266:0;npx onsave ssh-to-qa-efs.sh ./ssh-to-qa-efs.sh
+: 1690920377:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690920511:0;cd sh-mount
+: 1690920530:0;./ssh-to-qa-efs.sh
+: 1690920554:0;npx onsave ssh-to-qa-efs.sh ./ssh-to-qa-efs.sh
+: 1690920561:0;nvm use lts/erbium
+: 1690920563:0;npx onsave ssh-to-qa-efs.sh ./ssh-to-qa-efs.sh
+: 1690920574:0;./ssh-to-qa-efs.sh
+: 1690920648:0;npx onsave ssh-to-qa-efs.sh ./ssh-to-qa-efs.sh
+: 1690920867:0;npx onsave scp-to-qa-efs.sh ./scp-to-qa-efs.sh
+: 1690921211:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690921392:0;l
+: 1690921399:0;ls ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com
+: 1690921411:0;tree ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com
+: 1690922230:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690922242:0;l
+: 1690922270:0;./scp-to-qa-efs.sh
+: 1690922286:0;npx onsave scp-to-qa-efs.sh ./scp-to-qa-efs.sh
+: 1690922433:0;ssh -i ~/.ssh/WebmasterAWS.pem ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com \
+
+: 1690922965:0;node -e 'require("child_process").spawnSync("ls", {stdio: "inherit"})'
+: 1690923057:0;node -e 'require("child_process").spawnSync("shh",["-t", "-i", "~/.ssh/WebmasterAWS.pem", "ec2-user@ec2-52-10-25-59", "ls", "/foo"] , {stdio: "inherit"})'
+: 1690923247:0;node -e 'require("child_process").spawnSync("shh",["-t", "-i", "~/.ssh/WebmasterAWS.pem", "ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com" "<<EOF\n ls \n EOF"] , {stdio: "inherit"})'
+: 1690923252:0;fc
+: 1690923265:0;node -e 'require("child_process").spawnSync("shh",["-t", "-i", "~/.ssh/WebmasterAWS.pem", "ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com", "<<EOF\n ls \n EOF"] , {stdio: "inherit"})'
+: 1690923317:0;fc
+: 1690923375:0;l
+: 1690923387:0;vim spawn-sync.js
+: 1690923405:0;node -e 'require("child_process").spawnSync("shh",["-t", "-i", "~/.ssh/WebmasterAWS.pem", "ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com", "<<EOF\n ls \n EOF"] , {stdio: "inherit"})'
+: 1690923411:0;npx nodemon spawn-sync.js
+: 1690924143:0;gad
+: 1690924144:0;gpsh
+: 1690924149:0;ks
+: 1690991701:0;l
+: 1690991705:0;tdbu
+: 1690991706:0;cd src
+: 1690991706:0;vim .
+: 1690991706:0;cd src
+: 1690991706:0;npm run start:dev
+: 1690991707:0;ta
+: 1690991717:0;l
+: 1690991720:0;cd sh-mount
+: 1690991722:0;l
+: 1690991743:0;cd sh-mount
+: 1690991744:0;l
+: 1690991749:0;vim ssh-to-qa-efs.sh
+: 1690991761:0;l
+: 1690991762:0;cd sh-mount
+: 1690991764:0;l
+: 1690991766:0;vim scp-to-qa-efs.sh
+: 1690991797:0;cd
+: 1690991801:0;mkdir bar
+: 1690991804:0;cd bar
+: 1690991804:0;l
+: 1690991816:0;echo 'hello world' >> bar.txt
+: 1690991818:0;l
+: 1690991821:0;cat bar.txt
+: 1690991824:0;pwd
+: 1690991840:0;l
+: 1690991843:0;cd sh-mount
+: 1690991847:0;./scp-to-qa-efs.sh
+: 1690991879:0;l
+: 1690991886:0;./ssh-to-qa-efs.sh
+: 1690991896:0;ssh -i ~/.ssh/WebmasterAWS.pem ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com \
+
+: 1690991981:0;./scp-to-qa-efs.sh
+: 1690992001:0;./ssh-to-qa-efs.sh
+: 1690992204:0;uname
+: 1690992210:0;whoami
+: 1690994963:0;l
+: 1690994977:0;vim roll-back-steps.txt
+: 1690995111:0;npm run start:dev
+: 1690995130:0;s
+: 1690995138:0;gad
+: 1690995140:0;gpch 
+: 1690995147:0;gch -b roll-back-update
+: 1690995148:0;cd ..
+: 1690995150:0;gad
+: 1690995152:0;l
+: 1690995155:0;cd deployment-handler
+: 1690995156:0;l
+: 1690995185:0;pwd
+: 1690995191:0;l
+: 1690995203:0;vim deployment-handler.json
+: 1690995492:0;tcaht
+: 1690995494:0;tchat
+: 1690995496:0;vim ~/.chat/prompt.txt
+: 1690995497:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690995497:0;ta
+: 1690995957:0;s
+: 1690995959:0;gad
+: 1690995960:0;l
+: 1690996035:0;npm i -S zod
+: 1690996163:0;l
+: 1690996385:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1690997442:0;l
+: 1690997447:0;s
+: 1690997451:0;cd ..
+: 1690997452:0;gad
+: 1690997453:0;gpsh
+: 1690997492:0;gch master
+: 1690997494:0;l
+: 1690997494:0;s
+: 1690997497:0;gpsh
+: 1690997499:0;s
+: 1690997500:0;l
+: 1690997519:0;vim .
+: 1690997532:0;s
+: 1690997543:0;l
+: 1690997548:0;vim git.service.ts
+: 1690997835:0;l
+: 1690997946:0;npm i -S playwright
+: 1690997949:0;l
+: 1690998008:0;npx nest g controller roll-back --no-spec
+: 1690998014:0;l
+: 1690998016:0;vim .
+: 1690998163:0;l
+: 1690998163:0;vim .
+: 1690998194:0;l
+: 1690998198:0;cd src/roll-back
+: 1690998199:0;l
+: 1690998502:0;npx nest g service roll-back-rds
+: 1690998509:0;:e .
+: 1690998516:0;l
+: 1690998517:0;pwd
+: 1690998528:0;npx nest g service roll-back-rds --flat --no-spec
+: 1690998540:0;rm -rf roll-back
+: 1690998545:0;l
+: 1690998555:0;rm -rf roll-back-rds
+: 1690998556:0;l
+: 1690998986:0;npx playwright codegen https://login.aws.amazon.com/
+: 1690999022:0;npx playwright codegen
+: 1690999137:0;s
+: 1690999161:0;gad
+: 1690999162:0;s
+: 1690999165:0;l
+: 1690999166:0;gb
+: 1690999176:0;gch roll-back-update
+: 1690999183:0;git merge master
+: 1690999185:0;vim .
+: 1690999188:0;s
+: 1690999194:0;vim deployment-handler/src/main.ts
+: 1690999213:0;gad
+: 1690999215:0;gpsh
+: 1690999224:0;l
+: 1690999255:0;npm run start:dev
+: 1690999266:0;npm i -S zod
+: 1690999271:0;cd
+: 1690999276:0;cd ekb-updater-andrew-stephen/deployment-handler
+: 1690999278:0;npm i -S zod
+: 1690999314:0;npx playwright codegen
+: 1690999800:0;npm run start:dev
+: 1690999963:0;l
+: 1690999964:0;vim .
+: 1691000016:0;npm run start:dev
+: 1691002602:0;l
+: 1691002602:0;s
+: 1691002606:0;gad
+: 1691002606:0;gpsh
+: 1691002646:0;l
+: 1691002650:0;git pull
+: 1691002682:0;git merge scripted-tests
+: 1691002691:0;git merge origin/scripted-tests
+: 1691002713:0;gln 8
+: 1691002740:0;git diff "HEAD~2"  
+: 1691002811:0;gpsh
+: 1691003187:0;l
+: 1691003192:0;tree nest-download-parse-ekb
+: 1691003196:0;tree1 nest-download-parse-ekb
+: 1691003206:0;tree1 deployment-handler/
+: 1691003234:0;cd deployment-handler
+: 1691003235:0;l
+: 1691003241:0;vim src
+: 1691003253:0;npm run start:dev
+: 1691003372:0;l
+: 1691003388:0;s
+: 1691003395:0;l
+: 1691003402:0;cd ..
+: 1691003403:0;l
+: 1691003408:0;tree psql
+: 1691003455:0;chmod +x psql/shell-scripts/psql-ekb-*
+: 1691003457:0;tree psql
+: 1691003470:0;l
+: 1691003473:0;vim psql
+: 1691003874:0;l
+: 1691003882:0;gad
+: 1691003883:0;gpsh
+: 1691003889:0;l
+: 1691003913:0;arsdb
+: 1691004160:0;vim .
+: 1691004170:0;l
+: 1691004171:0;vim .
+: 1691004209:0;gad
+: 1691004210:0;gpsh
+: 1691004231:0;arsdb
+: 1691006109:0;./psql/shell-scripts/gad
+: 1691006110:0;gad
+: 1691006111:0;gpsh
+: 1691006113:0;ks
+: 1690991706:0;vim .
+: 1691013542:0;l
+: 1691013707:0;tl
+: 1691013716:0;tdbu
+: 1691013717:0;npm run start:dev
+: 1691013717:0;cd src
+: 1691013717:0;vim .
+: 1691013717:0;npm run start:dev
+: 1691013717:0;vim .
+: 1691013718:0;ta
+: 1691013735:0;s
+: 1691013737:0;gch master
+: 1691013910:0;l
+: 1691013918:0;vim todo.txt
+: 1691014273:0;npm run start:dev
+: 1691014567:0;git pull
+: 1691014578:0;s
+: 1691014582:0;gad
+: 1691014584:0;git pull
+: 1691014591:0;git pull --no-rebase
+: 1691014596:0;l
+: 1691014597:0;s
+: 1691014601:0;vim main.ts
+: 1691014619:0;gad
+: 1691014624:0;gpsh
+: 1691014627:0;git pull
+: 1691014634:0;npm run start:dev
+: 1691014643:0;l
+: 1691014647:0;npm run start:dev
+: 1691014908:0;tchat
+: 1691014910:0;vim ~/.chat/prompt.txt
+: 1691014910:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691014910:0;ta
+: 1691015271:0;npm run start:dev
+: 1691015734:0;s
+: 1691015739:0;gad
+: 1691015740:0;gpsh
+: 1691015804:0;npm run start:dev
+: 1691015852:0;s
+: 1691015859:0;gch -b fix-up-roll-back
+: 1691015862:0;s
+: 1691015863:0;gad
+: 1691017981:0;l
+: 1691017982:0;vim .
+: 1691018417:0;s
+: 1691018421:0;gad
+: 1691018426:0;s
+: 1691018451:0;gpsh
+: 1691018547:0;l
+: 1691018635:0;vim .
+: 1691018648:0;l
+: 1691018651:0;cd src
+: 1691018662:0;l
+: 1691018662:0;vim .
+: 1691018924:0;npm run start:dev
+: 1691020439:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691020671:0;l
+: 1691020673:0;npm run start:dev
+: 1691020675:0;l
+: 1691020676:0;vim .
+: 1691021140:0;s
+: 1691021145:0;gad
+: 1691021147:0;gpsh
+: 1691021164:0;npm run start:dev
+: 1691021605:0;gad
+: 1691021606:0;gpsh
+: 1691073930:0;l
+: 1691073933:0;tl
+: 1691073937:0;tdbu
+: 1691073938:0;vim .
+: 1691073938:0;cd src
+: 1691073938:0;npm run start:dev
+: 1691073938:0;vim .
+: 1691073949:0;tchat
+: 1691073952:0;vim ~/.chat/prompt.txt
+: 1691073952:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691073952:0;ta
+: 1691074018:0;l
+: 1691074027:0;gch master
+: 1691074032:0;npm run start:dev
+: 1691074058:0;l
+: 1691074060:0;cd nest-download-parse-ekb
+: 1691074060:0;l
+: 1691074062:0;cd src
+: 1691074063:0;l
+: 1691074073:0;gln 29
+: 1691074105:0;gch main
+: 1691074108:0;s
+: 1691074112:0;l
+: 1691074121:0;gch master
+: 1691074124:0;l
+: 1691074127:0;cd featureâ€ƒ‚db-deployment-handler-app
+: 1691074129:0;gch main
+: 1691074139:0;gch master
+: 1691074144:0;l
+: 1691074145:0;s
+: 1691074156:0;l
+: 1691074159:0;cd ../..
+: 1691074161:0;l
+: 1691074162:0;s
+: 1691074174:0;l
+: 1691074182:0;echo featureâ€ƒ‚db-deployment-handler-app >> .gitignore
+: 1691074183:0;s
+: 1691074189:0;cd deployment-handler
+: 1691074190:0;l
+: 1691074197:0;cd ..
+: 1691074199:0;gad
+: 1691074206:0;l
+: 1691074209:0;gch master
+: 1691074212:0;l
+: 1691074224:0;gch main
+: 1691074236:0;mv nest-download-parse-ekb/src/logger ../nest-download-parse-ekb/src
+: 1691074242:0;npm run start:dev
+: 1691074263:0;l
+: 1691074264:0;s
+: 1691074266:0;gad
+: 1691074267:0;gpsh
+: 1691074503:0;l
+: 1691074504:0;tl
+: 1691074517:0;l
+: 1691074519:0;s
+: 1691074523:0;ks
+: 1691074525:0;twa
+: 1691074526:0;tmux split-window
+: 1691074526:0;tmux select-layout main-horizontal
+: 1691074527:0;npm start
+: 1691074528:0;start_java
+: 1691074528:0;tmux split-window
+: 1691074528:0;tmux select-layout even-horizontal
+: 1691074529:0;vim tests
+: 1691074533:0;l
+: 1691074535:0;s
+: 1691074536:0;gad
+: 1691074537:0;gpsh
+: 1691074548:0;git pull
+: 1691074555:0;git pull --no-rebase
+: 1691074611:0;l
+: 1691074612:0;s
+: 1691074615:0;gpsh
+: 1691074620:0;s
+: 1691074621:0;l
+: 1691074637:0;pwd
+: 1691074641:0;tree www
+: 1691074670:0;tree test-specs
+: 1691074677:0;tree tests
+: 1691074691:0;vim tests
+: 1691074703:0;l
+: 1691074727:0;gch -b use-endpoint-for-ekb
+: 1691074731:0;l
+: 1691074733:0;vim .
+: 1691074900:0;l
+: 1691074903:0;vim .
+: 1691075197:0;npm run SUMMARY
+: 1691075634:0;l
+: 1691075635:0;s
+: 1691075655:0;npm run SUMMARY
+: 1691075772:0;s
+: 1691075778:0;cd ../../..
+: 1691075779:0;gad
+: 1691075780:0;gpsh
+: 1691075858:0;l
+: 1691075859:0;s
+: 1691075863:0;l
+: 1691076063:0;./sh-bin/build-deploy-qa.sh
+: 1691076066:0;l
+: 1691076070:0;vim sh-bin
+: 1691076128:0;s
+: 1691076134:0;cd src/main/webapp
+: 1691076135:0;s
+: 1691076137:0;gad
+: 1691076139:0;gpsh
+: 1691076145:0;./sh-bin/build-deploy-qa.sh
+: 1691076259:0;npm run QA
+: 1691077921:0;ks
+: 1691077923:0;tdbu
+: 1691077924:0;vim .
+: 1691077924:0;npm run start:dev
+: 1691077924:0;cd src
+: 1691077924:0;vim .
+: 1691077924:0;npm run start:dev
+: 1691077924:0;tchat
+: 1691077927:0;vim ~/.chat/prompt.txt
+: 1691077927:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691077928:0;ta
+: 1691077978:0;s
+: 1691078046:0;git log
+: 1691078158:0;dcl
+: 1691078196:0;abtasks
+: 1691078879:0;l
+: 1691078973:0;gch -b handle-ae-deployment
+: 1691078977:0;l
+: 1691078996:0;cd roll-back
+: 1691078998:0;l
+: 1691078999:0;vim .
+: 1691079016:0;l
+: 1691079036:0;npx nest g service roll-back-ae --flat --no-spec
+: 1691079282:0;v im.
+: 1691079284:0;vim .
+: 1691079451:0;l
+: 1691079479:0;vim deployment-handler.json
+: 1691079493:0;l
+: 1691079499:0;vim sh-mount
+: 1691080031:0;l
+: 1691080055:0;mv ../list-ae-caches.sh .
+: 1691080062:0;chmod +x list-ae-caches.sh
+: 1691080063:0;l
+: 1691080547:0;npm run start:dev
+: 1691080696:0;big
+: 1691080698:0;small
+: 1691080742:0;./list-ae-caches.sh 'hi
+: 1691080743:0;./list-ae-caches.sh 'hi'
+: 1691080959:0;l
+: 1691080962:0;cd ..
+: 1691080963:0;l
+: 1691080965:0;cd ..
+: 1691080966:0;l
+: 1691080970:0;pwd
+: 1691080973:0;l
+: 1691080977:0;ls src
+: 1691080982:0;vimx foo.sh
+: 1691081009:0;./foo.sh
+: 1691081054:0;node -e 'require("child_process").spawnSync("ls",["-l"] , {stdio: "inherit"})'
+: 1691081069:0;node -e 'require("child_process").spawnSync("foo" , {stdio: "inherit"})'
+: 1691081075:0;node -e 'require("child_process").spawnSync("./foo" , {stdio: "inherit"})'
+: 1691081082:0;./foo.sh
+: 1691081092:0;node -e 'require("child_process").spawnSync("./foo.sh" , {stdio: "inherit"})'
+: 1691081104:0;./foo.sh
+: 1691082371:0;l
+: 1691082374:0;./foo.sh
+: 1691082377:0;vim foo.sh
+: 1691082392:0;/bin/bash
+: 1691082397:0;node -e 'require("child_process").spawnSync("./foo.sh" , {stdio: "inherit"})'
+: 1691082411:0;./foo.sh
+: 1691082418:0;vim foo.sh
+: 1691082467:0;./foo.sh
+: 1691082472:0;node -e 'require("child_process").spawnSync("./foo.sh" , {stdio: "inherit"})'
+: 1691082579:0;npm run start:dev
+: 1691083176:0;ssh -t -i ~/.ssh/WebmasterAWS.pem ec2-user@ec2-52-10-25-59.us-west-2.compute.amazonaws.com 
+: 1691083742:0;npm run start:dev
+: 1691087106:0;l
+: 1691087107:0;tl
+: 1691087113:0;l
+: 1691087179:0;git commit -m 'finished rollback ae actions'
+: 1691087180:0;gpsh
+: 1691087197:0;l
+: 1691087200:0;pwd
+: 1691087201:0;l
+: 1691087205:0;cd src/roll-back
+: 1691087206:0;l
+: 1691087206:0;s
+: 1691087221:0;gad
+: 1691087229:0;gpsh
+: 1691087236:0;s
+: 1691087237:0;vim .
+: 1691087253:0;l
+: 1691087273:0;cd update-application-code
+: 1691087275:0;l
+: 1691087285:0;vim update-ae.service.ts
+: 1691087894:0;l
+: 1691087972:0;ks
+: 1691087974:0;twa
+: 1691087975:0;tmux split-window
+: 1691087976:0;tmux select-layout main-horizontal
+: 1691087977:0;npm start
+: 1691087977:0;start_java
+: 1691087977:0;tmux split-window
+: 1691087977:0;tmux select-layout even-horizontal
+: 1691087979:0;vim tests
+: 1691087984:0;l
+: 1691087988:0;gch develop
+: 1691087989:0;git pull
+: 1691088002:0;l
+: 1691088002:0;s
+: 1691088010:0;cd projects/awc-js
+: 1691088011:0;l
+: 1691088014:0;cd src
+: 1691088015:0;l
+: 1691088017:0;cd lib
+: 1691088018:0;l
+: 1691088021:0;vim aem
+: 1691088169:0;l
+: 1691088171:0;vim .
+: 1691088297:0;gad
+: 1691088302:0;s
+: 1691088309:0;git diff "HEAD~1"  
+: 1691088317:0;s
+: 1691088321:0;gpsh
+: 1691088358:0;./sh-bin/build-deploy-qa.sh
+: 1691088376:0;npm run SUMMARY
+: 1691088475:0;tl
+: 1691088476:0;ta
+: 1691088479:0;l
+: 1691088483:0;npm run QA
+: 1691089637:0;s
+: 1691157209:0;tl
+: 1691157213:0;abtasks
+: 1691158277:0;twa
+: 1691158278:0;tmux split-window
+: 1691158278:0;tmux select-layout main-horizontal
+: 1691158279:0;npm start
+: 1691158279:0;start_java
+: 1691158279:0;tmux split-window
+: 1691158280:0;tmux select-layout even-horizontal
+: 1691158281:0;vim tests
+: 1691158291:0;npm run NETWORKS
+: 1691158328:0;npm run QA
+: 1691164661:0;npm start
+: 1691164663:0;l
+: 1691164663:0;s
+: 1691164684:0;npm run SUMMARY
+: 1691164760:0;l
+: 1691164787:0;vim sh-bin
+: 1691164842:0;./sh-bin/cicd.sh
+: 1691164878:0;vim sh-bin
+: 1691165078:0;./sh-bin/cicd.sh
+: 1691165457:0;node -v
+: 1691165464:0;nvm use lts/gallium
+: 1691165471:0;./sh-bin/cicd.sh
+: 1691165541:0;l
+: 1691165542:0;s
+: 1691165551:0;git pull
+: 1691165836:0;./sh-bin/cicd.sh
+: 1691165960:0;vim ./sh-bin/cicd.sh
+: 1691166002:0;tchat
+: 1691166004:0;vim ~/.chat/prompt.txt
+: 1691166005:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691166019:0;ta
+: 1691166098:0;./sh-bin/cicd.sh
+: 1691166219:0;j
+: 1691166296:0;./sh-bin/cicd.sh
+: 1691166351:0;l
+: 1691166352:0;pwd
+: 1691166357:0;cd sh-bin
+: 1691166358:0;./cicd.sh
+: 1691166686:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed
+: 1691166691:0;cd ..
+: 1691166693:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed
+: 1691166732:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed --timeout 30000
+: 1691166854:0;l
+: 1691166905:0;vim slack-api
+: 1691167026:0;l
+: 1691167059:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed --timeout 30000
+: 1691167165:0;l
+: 1691167172:0;vim tests
+: 1691167545:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed --timeout 30000
+: 1691167667:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed
+: 1691167912:0;:q
+: 1691167952:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed
+: 1691168006:0;l
+: 1691168013:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed --timeout 30000
+: 1691170126:0;abtasks
+: 1691170785:0;ks
+: 1691170796:0;tl
+: 1691170798:0;tdbu
+: 1691170799:0;vim .
+: 1691170799:0;npm run start:dev
+: 1691170799:0;vim .
+: 1691170799:0;cd src
+: 1691170799:0;npm run start:dev
+: 1691170801:0;ta
+: 1691171277:0;l
+: 1691171283:0;cd old-dpus-develop-branch
+: 1691171286:0;tree2 .
+: 1691172896:0;tl
+: 1691172896:0;ta
+: 1691172903:0;tdbu
+: 1691170799:0;cd src
+: 1691172903:0;cd src
+: 1691172912:0;ks
+: 1691172913:0;tdbu
+: 1691172914:0;vim .
+: 1691172914:0;npm run start:dev
+: 1691172914:0;cd src
+: 1691172914:0;vim .
+: 1691172914:0;npm run start:dev
+: 1691172914:0;cd src
+: 1691172915:0;ta
+: 1691176048:0;tchat
+: 1691176050:0;vim ~/.chat/prompt.txt
+: 1691176050:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691176051:0;ta
+: 1691176314:0;ks
+: 1691176315:0;twa
+: 1691176316:0;tmux split-window
+: 1691176317:0;tmux select-layout main-horizontal
+: 1691176318:0;npm start
+: 1691176318:0;start_java
+: 1691176318:0;tmux split-window
+: 1691176318:0;tmux select-layout even-horizontal
+: 1691176320:0;vim tests
+: 1691176327:0;s
+: 1691176338:0;git diff "HEAD~1"  
+: 1691176347:0;git diff "HEAD~4"  
+: 1691176376:0;vim .
+: 1691178334:0;ks
+: 1691178335:0;tdbu
+: 1691178336:0;vim .
+: 1691178336:0;cd src
+: 1691178336:0;npm run start:dev
+: 1691178336:0;cd src
+: 1691178336:0;npm run start:dev
+: 1691178336:0;vim .
+: 1691178337:0;ta
+: 1691249636:0;tl
+: 1691249790:0;l
+: 1691249805:0;mkdir play-aws
+: 1691249809:0;cd play-aws
+: 1691249813:0;npm init -y
+: 1691249815:0;gi
+: 1691249816:0;s
+: 1691249823:0;cat .gitignore
+: 1691249831:0;vim .gitignore
+: 1691249841:0;gad
+: 1691249845:0;gh repo create
+: 1691250117:0;s
+: 1691250127:0;tl
+: 1691250128:0;l
+: 1691250140:0;npm i -D @nestjs/cli
+: 1691250181:0;npx new play-aws-nest-cli
+: 1691250190:0;fc
+: 1691250198:0;npx nest new play-aws-nest-cli
+: 1691250215:0;tl
+: 1691250219:0;l
+: 1691250226:0;cd play-aws-nest-cli
+: 1691250227:0;l
+: 1691250236:0;cd ..
+: 1691250237:0;l
+: 1691250237:0;s
+: 1691250247:0;vim README.txt
+: 1691250708:0;s
+: 1691250715:0;gad
+: 1691250734:0;pwd
+: 1691250736:0;l
+: 1691250737:0;s
+: 1691250743:0;git add .
+: 1691250747:0;gln 3
+: 1691250758:0;l
+: 1691250762:0;s
+: 1691250780:0;cd play-aws-nest-cli
+: 1691250780:0;l
+: 1691250782:0;rm -rf .git
+: 1691250784:0;s
+: 1691250785:0;gad
+: 1691250788:0;cd ..
+: 1691250791:0;gad
+: 1691250792:0;gpsh
+: 1691250930:0;l
+: 1691250936:0;tl
+: 1691250939:0;l
+: 1691250945:0;cd play-aws-nest-cli
+: 1691250946:0;l
+: 1691250952:0;cd ..
+: 1691250954:0;l
+: 1691250993:0;vim readme.txt
+: 1691252792:0;tmux
+: 1691252795:0;vim readme.txt
+: 1691252801:0;man ls
+: 1691252807:0;tchat
+: 1691252809:0;vim ~/.chat/prompt.txt
+: 1691252809:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691252810:0;ta
+: 1691253873:0;l
+: 1691253877:0;vim readme.txt
+: 1691253894:0;ln readme.txt play-aws-nest-cli/readme.txt
+: 1691253896:0;s
+: 1691253896:0;gad
+: 1691253897:0;gpsh
+: 1691253901:0;l
+: 1691253973:0;edit_ex taws
+: 1691254030:0;edit_ex taw
+: 1691254079:0;gpsh
+: 1691254082:0;cd
+: 1691254083:0;gpsh
+: 1691254088:0;ks
+: 1691254090:0;taws
+: 1691254096:0;cd
+: 1691254098:0;taws
+: 1691254102:0;tdbu
+: 1691254103:0;npm run start:dev
+: 1691254103:0;vim .
+: 1691254103:0;cd src
+: 1691254103:0;vim .
+: 1691254103:0;cd src
+: 1691254103:0;npm run start:dev
+: 1691254105:0;ks
+: 1691254115:0;cd bin
+: 1691254116:0;l
+: 1691254130:0;chmox +x taws
+: 1691254138:0;chmod +x taws
+: 1691254140:0;l
+: 1691254143:0;s
+: 1691254145:0;gad
+: 1691254146:0;gpsh
+: 1691254149:0;cd ..
+: 1691254152:0;l
+: 1691254154:0;s
+: 1691254168:0;untracked >> .gitignore
+: 1691254171:0;s
+: 1691254174:0;gad
+: 1691254177:0;gpsh
+: 1691254310:0;l
+: 1691254312:0;tl
+: 1691254327:0;ks
+: 1691254329:0;taws
+: 1691254330:0;vim .
+: 1691254330:0;cd src
+: 1691254330:0;npm run start:dev
+: 1691254331:0;tchat
+: 1691254333:0;vim ~/.chat/prompt.txt
+: 1691254334:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691254334:0;ta
+: 1691254355:0;edit_es taws
+: 1691254360:0;edit_ex taws
+: 1691254418:0;l
+: 1691254424:0;cd
+: 1691254428:0;l
+: 1691254445:0;vrc
+: 1691254628:0;vim .
+: 1691254797:0;vim foo
+: 1691254884:0;vim .
+: 1691254990:0;vim goo
+: 1691255028:0;l
+: 1691282182:0;tl
+: 1691415247:0;btasks
+: 1691415250:0;abtasks
+: 1691415476:0;l
+: 1691415477:0;tl
+: 1691415480:0;twa
+: 1691415481:0;tmux split-window
+: 1691415481:0;tmux select-layout main-horizontal
+: 1691415482:0;npm start
+: 1691415483:0;tmux split-window
+: 1691415483:0;tmux select-layout even-horizontal
+: 1691415484:0;start_java
+: 1691415484:0;vim tests
+: 1691415523:0;l
+: 1691415526:0;pwd
+: 1691415856:0;l
+: 1691416037:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed --timeout 30000
+: 1691416254:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed --timeout 300000
+: 1691416320:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed --timeout 30000
+: 1691416370:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed --timeout 60000
+: 1691416620:0;l
+: 1691416622:0;npm i
+: 1691416696:0;vim .
+: 1691416991:0;npx playwright test tests/single-report-tests/full-demo-test.spec.ts --headed --timeout 60000
+: 1691417183:0;l
+: 1691417187:0;pwd
+: 1691417191:0;vim package.json
+: 1691417212:0;l
+: 1691417213:0;cd ..
+: 1691417213:0;l
+: 1691417217:0;vm package.jsno
+: 1691417222:0;vim package.json
+: 1691417231:0;tchat
+: 1691417233:0;vim ~/.chat/prompt.txt
+: 1691417234:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691417237:0;typescript
+: 1691417239:0;tsc
+: 1691417243:0;tsc -v
+: 1691417246:0;npx tsc -v
+: 1691417254:0;tl
+: 1691417256:0;ta
+: 1691417294:0;l
+: 1691417298:0;tree dist
+: 1691417307:0;cd playwright
+: 1691417308:0;l
+: 1691417311:0;tree dist
+: 1691417313:0;tree www
+: 1691417337:0;ls -l www
+: 1691417361:0;abtasks
+: 1691417600:0;l
+: 1691417605:0;./sh-bin/cicd.sh
+: 1691417678:0;l
+: 1691417680:0;l slack-api
+: 1691417782:0;l
+: 1691417808:0;vim tests
+: 1691417851:0;./sh-bin/cicd.sh
+: 1691417853:0;l
+: 1691417860:0;vim ./sh-bin/cicd.sh
+: 1691417951:0;l
+: 1691417954:0;cd sh-bin
+: 1691417956:0;./cicd.sh
+: 1691418036:0;l
+: 1691418038:0;cd ..
+: 1691418039:0;l
+: 1691418086:0;vim sh-bin
+: 1691418163:0;./cicd.sh
+: 1691418165:0;l
+: 1691418166:0;:waa
+: 1691418170:0;vim package.json
+: 1691418181:0;cd sh-bin
+: 1691418183:0;./cicd.sh
+: 1691421972:0;l
+: 1691421974:0;ls
+: 1691421979:0;cd sh-bin
+: 1691421981:0;./cicd.sh
+: 1691422191:0;l
+: 1691422239:0;tl
+: 1691422241:0;ta
+: 1691422248:0;l
+: 1691422251:0;./cicd.sh
+: 1691425279:0;ks
+: 1691425282:0;tl
+: 1691434473:0;l
+: 1691434474:0;tl
+: 1691434476:0;tdbu
+: 1691434477:0;cd src
+: 1691434477:0;vim .
+: 1691434477:0;npm run start:dev
+: 1691434477:0;vim .
+: 1691434477:0;cd src
+: 1691434477:0;npm run start:dev
+: 1691434479:0;ks
+: 1691434483:0;twa
+: 1691434483:0;tmux split-window
+: 1691434484:0;tmux select-layout main-horizontal
+: 1691434485:0;npm start
+: 1691434485:0;start_java
+: 1691434485:0;tmux split-window
+: 1691434485:0;tmux select-layout even-horizontal
+: 1691434487:0;vim tests
+: 1691434492:0;tchat
+: 1691434494:0;vim ~/.chat/prompt.txt
+: 1691434495:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691434496:0;ta
+: 1691434502:0;l
+: 1691434503:0;vim .
+: 1691434510:0;cd projects
+: 1691434511:0;l
+: 1691434554:0;npm run SUMMARY
+: 1691434615:0;l
+: 1691434618:0;pwd
+: 1691434625:0;cd awc-js
+: 1691434625:0;l
+: 1691434630:0;vm src
+: 1691434631:0;vim src
+: 1691434785:0;git add .
+: 1691434839:0;git commit -m 'added ekbVersion to aem client method call request body for creating meta reports'
+: 1691434840:0;s
+: 1691434847:0;gpsh
+: 1691434853:0;s
+: 1691434867:0;git diff Head~1
+: 1691434914:0;npm run SUMMARY
+: 1691434927:0;./sh-bin/build-deploy-qa.sh
+: 1691435038:0;npm run QA
+: 1691435068:0;l
+: 1691435088:0;vim src
+: 1691435172:0;npm run QA
+: 1691435244:0;s
+: 1691435246:0;gad
+: 1691435248:0;gpsh
+: 1691435255:0;./sh-bin/build-deploy-qa.sh
+: 1691435817:0;l
+: 1691435818:0;tl
+: 1691435819:0;ks
+: 1691435823:0;tl
+: 1691435825:0;twa
+: 1691435826:0;tmux split-window
+: 1691435826:0;tmux select-layout main-horizontal
+: 1691435827:0;npm start
+: 1691435827:0;start_java
+: 1691435828:0;tmux split-window
+: 1691435828:0;tmux select-layout even-horizontal
+: 1691435829:0;vim tests
+: 1691435833:0;ta
+: 1691435849:0;tchat
+: 1691435851:0;vim ~/.chat/prompt.txt
+: 1691435852:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691435852:0;ta
+: 1691435859:0;l
+: 1691435902:0;npm run QA
+: 1691436137:0;ks
+: 1691436140:0;taws
+: 1691436141:0;cd src
+: 1691436141:0;npm run start:dev
+: 1691436141:0;vim .
+: 1691436142:0;ta
+: 1691436324:0;l
+: 1691436340:0;rm README.md
+: 1691436342:0;vim readme.txt
+: 1691436350:0;l
+: 1691436363:0;aliases
+: 1691436436:0;zsrc
+: 1691436456:0;gfser command-prompt --no-spec
+: 1691436463:0;aliases
+: 1691436478:0;zsrc
+: 1691436488:0;aliases
+: 1691436493:0;gfser
+: 1691436506:0;aliases
+: 1691436522:0;gfser
+: 1691436532:0;zsrc
+: 1691436537:0;gfser
+: 1691436549:0;gfser command-prompt --no-spec
+: 1691436568:0;aliases
+: 1691436651:0;npx nest g s --no-spec --flat command-prompt
+: 1691436653:0;fc
+: 1691436661:0;npx nest g s command-prompt --no-spec --flat 
+: 1691436666:0;aliases
+: 1691436704:0;l
+: 1691436705:0;s
+: 1691436718:0;gad
+: 1691436719:0;gpsh
+: 1691436738:0;l
+: 1691436946:0;vim .
+: 1691436960:0;l
+: 1691436961:0;cd ..
+: 1691436962:0;l
+: 1691436972:0;rm -rf foo goo
+: 1691436973:0;l
+: 1691436976:0;s
+: 1691436980:0;l
+: 1691437146:0;rm -rf app.service.ts app.controller.*
+: 1691437153:0;l
+: 1691437156:0;vim app.module.ts
+: 1691437167:0;s
+: 1691437169:0;gad
+: 1691437170:0;gpsh
+: 1691437278:0;gad
+: 1691437280:0;gpsh
+: 1691437343:0;cd
+: 1691437350:0;cd ekb-updater-andrew-stephen/nest-download-parse-ekb
+: 1691437351:0;l
+: 1691437355:0;vim src
+: 1691437744:0;l
+: 1691437745:0;s
+: 1691437746:0;gad
+: 1691437747:0;gpsh
+: 1691437749:0;l
+: 1691437872:0;npx nest g controller command-handler  --no-spec --flat
+: 1691437887:0;l
+: 1691437888:0;s
+: 1691437889:0;vim .
+: 1691438024:0;l
+: 1691438939:0;npx nest g 
+: 1691438944:0;npx nest g --help
+: 1691438977:0;npx nest g controller chromium --no-spec
+: 1691439289:0;npm run start:dev
+: 1691439321:0;l
+: 1691439322:0;cd
+: 1691439325:0;edit_ex
+: 1691439381:0;tchat
+: 1691439384:0;vim ~/.chat/prompt.txt
+: 1691439384:0;ta
+: 1691439384:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691439438:0;tmux send-keys -t 3  C-c
+: 1691439470:0;tmux send-keys -t 3 Enter 
+: 1691439504:0;tmux send-keys -t 3  tmux send-keys -t 3 Enter  Enter
+: 1691439504:0;tmuxsend-keys-t3
+: 1691439516:0;tmux send-keys -t 3 Enter 
+: 1691439540:0;create_ex rerun-nest
+: 1691439573:0;rerun-nest
+: 1691439573:0;tmuxsend-keys-t3
+: 1691439592:0;vrc
+: 1691440055:0;edit_ex 
+: 1691440075:0;tmuxsend-keys-t3
+: 1691440123:0;npm run start:dev
+: 1691440276:0;l
+: 1691440286:0;cd chromium
+: 1691440287:0;l
+: 1691440606:0;ngser login-handler
+: 1691440611:0;edit_ex
+: 1691440623:0;alaises
+: 1691440626:0;aliases
+: 1691440642:0;gfser login-handler
+: 1691440651:0;aliases
+: 1691440668:0;gfser
+: 1691440681:0;npm run start:dev
+: 1691440779:0;l
+: 1691440797:0;echo play-aws.json >> .gitignore
+: 1691440803:0;vim play-aws.json
+: 1691440973:0;l
+: 1691441135:0;npm run start:dev
+: 1691441328:0;mv play-aws.json ~/play-aws.json
+: 1691441332:0;npm run start:dev
+: 1691441400:0;npm i -S zod
+: 1691441726:0;vim ~/play-aws.json
+: 1691441754:0;npm run start:dev
+: 1691441983:0;ks
+: 1691441988:0;cd play-aws
+: 1691441988:0;s
+: 1691441991:0;gad
+: 1691441992:0;gpsh
+: 1691442926:0;cd pgwebapp10/playwright
+: 1691442929:0;npm run QA
+: 1691442931:0;l
+: 1691442932:0;pwd
+: 1691442936:0;cd
+: 1691442938:0;cd pgwebapp10
+: 1691442938:0;l
+: 1691442940:0;cd playwright
+: 1691442942:0;npm run QA
+: 1691443361:0;tl
+: 1691446680:0;taws
+: 1691446681:0;npm run start:dev
+: 1691446681:0;vim .
+: 1691446683:0;ta
+: 1691446703:0;vim readme.txt
+: 1691446681:0;cd src
+: 1691448097:0;l
+: 1691448100:0;cd
+: 1691448102:0;s
+: 1691448120:0;echo play-aws.json >> .gitignore
+: 1691448122:0;s
+: 1691448130:0;gad
+: 1691448132:0;gpsh
+: 1691448145:0;tl
+: 1691448176:0;taws
+: 1691448177:0;vim .
+: 1691448177:0;npm run start:dev
+: 1691448177:0;cd src
+: 1691448179:0;tchat
+: 1691448181:0;vim ~/.chat/prompt.txt
+: 1691448182:0;ta
+: 1691448182:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691448374:0;npm run start:dev
+: 1691448416:0;l
+: 1691448528:0;cd ~/ekb-updater-andrew-stephen
+: 1691448529:0;l
+: 1691448534:0;cd deployment-handler
+: 1691448535:0;l
+: 1691448547:0;vim src
+: 1691448712:0;npm run start:dev
+: 1691449177:0;l
+: 1691449180:0;vim readme.txt
+: 1691449206:0;l
+: 1691449213:0;mkdir docs
+: 1691449216:0;cd docs
+: 1691449217:0;l
+: 1691449267:0;vim main.txt
+: 1691449272:0;pwd
+: 1691449315:0;l
+: 1691449318:0;vim main.txt
+: 1691449878:0;man ls
+: 1691449955:0;npm run start:dev
+: 1691450090:0;ls
+: 1691450255:0;l
+: 1691450257:0;cd ..
+: 1691450257:0;l
+: 1691450287:0;npm run start:dev
+: 1691450413:0;l
+: 1691451236:0;tl
+: 1691451238:0;ta
+: 1691451612:0;s
+: 1691451613:0;gad
+: 1691451614:0;gpsh
+: 1691451616:0;s
+: 1691451618:0;cd ..
+: 1691451618:0;gad
+: 1691451619:0;gpsh
+: 1691451622:0;l
+: 1691451624:0;tl
+: 1691451625:0;ks
+: 1691451628:0;tl
+: 1691502689:0;tdbu
+: 1691502691:0;cd src
+: 1691502691:0;vim .
+: 1691502691:0;npm run start:dev
+: 1691502691:0;vim .
+: 1691502753:0;tl
+: 1691502755:0;ta
+: 1691502889:0;gda
+: 1691502890:0;gad
+: 1691503345:0;twa
+: 1691503346:0;tmux split-window
+: 1691503346:0;tmux select-layout main-horizontal
+: 1691503347:0;npm start
+: 1691503347:0;start_java
+: 1691503347:0;tmux split-window
+: 1691503348:0;tmux select-layout even-horizontal
+: 1691503349:0;vim tests
+: 1691503360:0;l
+: 1691503365:0;vim slack-api
+: 1691503621:0;arsdb
+: 1691504178:0;tchat
+: 1691504180:0;vim ~/.chat/prompt.txt
+: 1691504181:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691504181:0;ta
+: 1691505707:0;s
+: 1691505715:0;npm run start:dev
+: 1691505784:0;l
+: 1691505786:0;cd ..
+: 1691505786:0;l
+: 1691505788:0;pwd
+: 1691505790:0;s
+: 1691505792:0;gad
+: 1691505983:0;s
+: 1691505984:0;gad
+: 1691505985:0;gpsh
+: 1691505992:0;gch master
+: 1691505998:0;git merge handle-ae-deployment
+: 1691506002:0;git pull
+: 1691506010:0;git push 
+: 1691506018:0;s
+: 1691506019:0;gln 3
+: 1691506159:0;l
+: 1691506162:0;edit_ex
+: 1691506171:0;l
+: 1691506179:0;cd old-dpus-develop-branch
+: 1691506182:0;find_line
+: 1691506193:0;find_line convert
+: 1691506216:0;find_line 'convert 0'
+: 1691506221:0;find_line 'convert '
+: 1691506253:0;vim /Users/andrewmiller/ekb-updater-andrew-stephen/old-dpus-develop-branch/20_parse/pathways/convertPathwayImage.sh
+: 1691506322:0;brew install imagemagick
+: 1691506393:0;convert
+: 1691506452:0;l
+: 1691506460:0;pwd
+: 1691506467:0;l
+: 1691506471:0;cd src/kegg
+: 1691506472:0;l
+: 1691506535:0;npx nest g service transform-pngs --flat --no-spec
+: 1691506540:0;vim .
+: 1691506670:0;l
+: 1691506674:0;cd ../..
+: 1691506674:0;l
+: 1691506681:0;ls kegg-csvs
+: 1691506695:0;ls kegg-pathway-images
+: 1691506700:0;tree kegg-pathway-images
+: 1691506713:0;tree1 kegg-pathway-images
+: 1691507190:0;l
+: 1691507191:0;pwd
+: 1691507198:0;cd kegg-pathway-images
+: 1691507200:0;l
+: 1691507202:0;tree .
+: 1691507218:0;l
+: 1691508960:0;find_line 'convert '
+: 1691517915:0;l
+: 1691517918:0;ls hsa
+: 1691517922:0;ls rno
+: 1691517924:0;ls hsa
+: 1691518055:0;l
+: 1691518071:0;ls hsa
+: 1691518124:0;s
+: 1691518172:0;gad
+: 1691518194:0;s
+: 1691518631:0;gad
+: 1691518632:0;cd ..
+: 1691518633:0;gad
+: 1691518634:0;gpsh
+: 1691518637:0;l
+: 1691518639:0;s
+: 1691518662:0;npm run start:dev
+: 1691518665:0;vim env
+: 1691518681:0;npm run start:dev
+: 1691519135:0;abtasks
+: 1691519248:0;s
+: 1691519250:0;gad
+: 1691519251:0;gpsh
+: 1691519255:0;l
+: 1691519328:0;tl
+: 1691519348:0;l
+: 1691519360:0;tl
+: 1691519376:0;cd
+: 1691519383:0;cd play-aws
+: 1691519384:0;l
+: 1691519387:0;cd ..
+: 1691519392:0;taws
+: 1691519393:0;vim .
+: 1691519393:0;npm run start:dev
+: 1691519393:0;cd src
+: 1691519395:0;ta
+: 1691519576:0;ks
+: 1691519580:0;taws
+: 1691519580:0;cd src
+: 1691519580:0;vim .
+: 1691519580:0;npm run start:dev
+: 1691519595:0;tchat
+: 1691519597:0;vim ~/.chat/prompt.txt
+: 1691519597:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691519600:0;tl
+: 1691519602:0;ta
+: 1691520696:0;abtasks
+: 1691521577:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691525596:0;j
+: 1691525598:0;ks
+: 1691525599:0;tchat
+: 1691525601:0;vim ~/.chat/prompt.txt
+: 1691525601:0;tdbu
+: 1691525602:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691525603:0;vim .
+: 1691525603:0;cd src
+: 1691525603:0;npm run start:dev
+: 1691525603:0;vim .
+: 1691525603:0;cd src
+: 1691525603:0;npm run start:dev
+: 1691525603:0;ta
+: 1691525645:0;npm run start:dev
+: 1691527119:0;ks
+: 1691527122:0;tl
+: 1691528183:0;tdbu
+: 1691528184:0;vim .
+: 1691528184:0;npm run start:dev
+: 1691528184:0;cd src
+: 1691528185:0;vim .
+: 1691528185:0;npm run start:dev
+: 1691528185:0;cd src
+: 1691528187:0;ta
+: 1691529077:0;l
+: 1691529100:0;npm run start:dev
+: 1691529124:0;l
+: 1691529127:0;cd update-application-code
+: 1691529128:0;l
+: 1691529157:0;ngser restart-aem
+: 1691529175:0;npx nest g ser restart-aem --flat --no-spec
+: 1691529178:0;fc
+: 1691529184:0;npx nest g s restart-aem --flat --no-spec
+: 1691529227:0;l
+: 1691529243:0;find src | grep sh
+: 1691529263:0;cd src/update-application-code
+: 1691529265:0;ls
+: 1691529283:0;nvm use lts/erbium
+: 1691529286:0;l
+: 1691529305:0;cd src/update-application-code
+: 1691529307:0;l
+: 1691529334:0;vim reset-aem.sh
+: 1691529399:0;npx onsave ./reset-aem.sh ./reset-aem.sh
+: 1691529414:0;chmod +x reset-aem.sh
+: 1691529419:0;npx onsave ./reset-aem.sh ./reset-aem.sh
+: 1691529474:0;./reset-aem.sh
+: 1691529605:0;npx onsave ./reset-aem.sh ./reset-aem.sh
+: 1691531091:0;arsdb
+: 1691533861:0;tchat
+: 1691533863:0;vim ~/.chat/prompt.txt
+: 1691533864:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691533866:0;ta
+: 1691533958:0;npm run start:dev
+: 1691533872:113;npm run start:dev
+: 1691537763:0;tl
+: 1691537764:0;ks
+: 1691537841:0;tl
+: 1691537843:0;s
+: 1691537859:0;ls -l
+: 1691537864:0;abtasks
+: 1691537889:0;tl
+: 1691537982:0;abtasks
+: 1691539730:0;abatasks
+: 1691539732:0;abtasks
+: 1691541119:0;tl
+: 1691541156:0;abtasks
+: 1691541406:0;ks
+: 1691586236:0;cd
+: 1691586238:0;l
+: 1691586244:0;cd ekb-updater-andrew-stephen
+: 1691586244:0;l
+: 1691586247:0;cd deployment-handler
+: 1691586247:0;s
+: 1691586253:0;gad
+: 1691586254:0;gpsh
+: 1691589456:0;l
+: 1691589463:0;rm -rf foo.sh
+: 1691591164:0;l
+: 1691591169:0;cd src/update-application-code
+: 1691591169:0;l
+: 1691591172:0;./reset-aem.sh
+: 1691591379:0;s
+: 1691591381:0;gad
+: 1691591382:0;gpsh
+: 1691591384:0;cd ../..
+: 1691591385:0;gad
+: 1691591385:0;gpsh
+: 1691591387:0;cd
+: 1691591388:0;tdbu
+: 1691591389:0;vim .
+: 1691591389:0;npm run start:dev
+: 1691591389:0;vim .
+: 1691591389:0;cd src
+: 1691591389:0;npm run start:dev
+: 1691591390:0;ta
+: 1691591402:0;vim env
+: 1691591427:0;gpsh
+: 1691591428:0;gad
+: 1691591429:0;gpsh
+: 1691591434:0;l
+: 1691591485:0;tree1 src
+: 1691591550:0;gch -b handle-ncbi-genes
+: 1691591557:0;l
+: 1691591906:0;cd old-dpus-develop-branch
+: 1691591907:0;l
+: 1691591915:0;vim 10_download
+: 1691592374:0;abtasks
+: 1691592481:0;tchatt
+: 1691592484:0;tchat
+: 1691592486:0;vim ~/.chat/prompt.txt
+: 1691592487:0;ta
+: 1691592487:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691592750:0;l
+: 1691592751:0;s
+: 1691592754:0;cd ..
+: 1691592755:0;gad
+: 1691592756:0;gpsh
+: 1691592777:0;npm run start:dev
+: 1691592785:0;pwd
+: 1691592788:0;cd nest-download-parse-ekb
+: 1691592789:0;l
+: 1691592794:0;npm run start:dev
+: 1691592803:0;l
+: 1691592848:0;npx nest g 
+: 1691592852:0;npx nest g --help
+: 1691594026:0;npx nest g resource ncbi 
+: 1691594040:0;cd ncbi
+: 1691594046:0;gad
+: 1691594047:0;gpsh
+: 1691594057:0;rm -rf **/*spec*
+: 1691594060:0;s
+: 1691594064:0;gad
+: 1691594072:0;l
+: 1691594077:0;tree .
+: 1691594082:0;l
+: 1691594223:0;arsdb
+: 1691595108:0;ta
+: 1691595170:0;l
+: 1691595174:0;cd old-dpus-develop-branch
+: 1691595174:0;l
+: 1691595178:0;vim 20_parse
+: 1691595388:0;l
+: 1691597130:0;less ~/Downloads/gene_info
+: 1691598454:0;abtasks
+: 1691598592:0;l
+: 1691598596:0;cd old-dpus-develop-branch
+: 1691598597:0;l
+: 1691598602:0;vim 10_download
+: 1691603828:0;ks
+: 1691603831:0;tl
+: 1691609218:0;l
+: 1691609220:0;cd temp
+: 1691609220:0;l
+: 1691609222:0;cd test
+: 1691609225:0;l
+: 1691609231:0;gi
+: 1691609234:0;tmux
+: 1691609269:0;l
+: 1691609273:0;pwd
+: 1691609277:0;s
+: 1691609281:0;untracked >> .gitignore
+: 1691609283:0;s
+: 1691609287:0;l
+: 1691609295:0;nvm use lts/erbium
+: 1691609300:0;l
+: 1691609307:0;vimx get-summary.sh
+: 1691609322:0;npx onsave ./get-summary.sh ./get-summary.sh
+: 1691610137:0;tchat
+: 1691610139:0;vim ~/.chat/prompt.txt
+: 1691610139:0;ta
+: 1691610451:0;l
+: 1691610454:0;vim response.txt
+: 1691610773:0;cd
+: 1691610783:0;cd download-parse-update-ekb
+: 1691610784:0;l
+: 1691610792:0;abtasks
+: 1691611196:0;vim response.txt
+: 1691613106:0;less ~/Downloads/Rattus_norvegicus.gene_info
+: 1691614744:0;tl
+: 1691617933:0;l
+: 1691617956:0;cd
+: 1691617958:0;ll
+: 1691617959:0;l
+: 1691617970:0;cd ekb-updater-andrew-stephen
+: 1691617972:0;l
+: 1691618021:0;cd old-dpus-develop-branch
+: 1691618024:0;l
+: 1691618267:0;less ~/Downloads/gene_info
+: 1691618405:0;less ~/Downloads/Homo_sapiens.
+: 1691618409:0;less ~/Downloads/Homo_sapiens.gene_info
+: 1691619759:0;less ~/Downloads/gene2refseq
+: 1691610139:9727;node ~/ai-chat-cli/dist/chat-app.js
+: 1691619867:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691620126:0;vim ~/Downloads/gene2refseq
+: 1691620262:0;l
+: 1691620268:0;tl
+: 1691620279:0;ks
+: 1691620280:0;tdbu
+: 1691620281:0;npm run start:dev
+: 1691620281:0;cd src
+: 1691620281:0;vim .
+: 1691620281:0;cd src
+: 1691620281:0;npm run start:dev
+: 1691620282:0;tchat
+: 1691620284:0;vim ~/.chat/prompt.txt
+: 1691620284:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691620285:0;ta
+: 1691620311:0;l
+: 1691620344:0;cd ncbi
+: 1691620372:0;npx nest g controller download-ncbi --no-spec --flat
+: 1691620375:0;fc
+: 1691620399:0;npx nest g controller parse --no-spec --flat
+: 1691620427:0;npx nest g controller parse-ncbi --no-spec --flat
+: 1691620812:0;fc
+: 1691620819:0;npx nest g controller upload-ncbi --no-spec --flat
+: 1691620832:0;l
+: 1691620840:0;s
+: 1691620853:0;npx nest g controller upload-ncbi --no-spec 
+: 1691620860:0;npx nest g controller parse-ncbi --no-spec 
+: 1691620873:0;npx nest g controller download-ncbi --no-spec 
+: 1691620877:0;l
+: 1691620886:0;rm **controller**
+: 1691620887:0;l
+: 1691620890:0;tree .
+: 1691620898:0;vim .
+: 1691620908:0;rm -rf ncbi.service.ts
+: 1691620909:0;l
+: 1691620913:0;vim ncbi.module.ts
+: 1691620942:0;gad
+: 1691620943:0;gpsh
+: 1691620966:0;cd download-ncbi
+: 1691620977:0;l
+: 1691620982:0;cat download-ncbi.controller.ts
+: 1691621000:0;abtasks
+: 1691621025:0;l
+: 1691621223:0;npx nest g service get-ncbi-genes --no-spec --flat
+: 1691621224:0;l
+: 1691621230:0;cd ..
+: 1691621231:0;l
+: 1691621241:0;cd parse-ncbi
+: 1691621245:0;l
+: 1691621656:0;npx nest g service rno-csv --no-spec --flat && \\
+npx nest g service rno-synonyms-csv --no-spec --flat && \\
+npx nest g service rno-summary-csv  --no-spec --flat && \\
+npx nest g service gene-history-csv  --no-spec --flat && \\
+npx nest g service gene2pubmed  --no-spec --flat && \\
+npx nest g service gene2ensembl  --no-spec --flat && \\
+npx nest g service gene2refseq  --no-spec --flat && \\
+npx nest g service gene-summary  --no-spec --flat && \\
+npx nest g service mmu-csv  --no-spec --flat && \\
+npx nest g service mmu-synonyms-csv  --no-spec --flat && \\
+npx nest g service mmu-summary-csv  --no-spec --flat && \\
+npx nest g service hsa-csv  --no-spec --flat && \\
+npx nest g service hsa-synonyms-csv  --no-spec --flat && \\
+npx nest g service hsa-summary-csv  --no-spec --flat
+: 1691621670:0;l
+: 1691621672:0;s
+: 1691621681:0;pwd
+: 1691621716:0;cd ..
+: 1691621718:0;s
+: 1691621724:0;cd ..
+: 1691621726:0;gad
+: 1691621728:0;s
+: 1691621730:0;gpsh
+: 1691621737:0;l
+: 1691621743:0;cd tree ncbi
+: 1691621744:0;l
+: 1691621748:0;tree ncbi
+: 1691621781:0;l
+: 1691621785:0;s
+: 1691622055:0;l
+: 1691622317:0;tree ncbi
+: 1691622837:0;l
+: 1691622986:0;gch master
+: 1691622996:0;git merge handle-ncbi-genes
+: 1691622997:0;gpsh
+: 1691623003:0;git pull
+: 1691623012:0;git pull --no-rebase
+: 1691623017:0;s
+: 1691623019:0;gpsh
+: 1691623036:0;l
+: 1691623041:0;gb
+: 1691623059:0;gch handle-ncbi-genes
+: 1691623060:0;s
+: 1691623062:0;l
+: 1691623065:0;s
+: 1691623068:0;gpsh
+: 1691623100:0;l
+: 1691623436:0;vim ncbi
+: 1691623962:0;l
+: 1691623975:0;tl
+: 1691623980:0;ta
+: 1691623984:0;l
+: 1691624002:0;s
+: 1691624005:0;tl
+: 1691624006:0;ks
+: 1691624008:0;l
+: 1691675645:0;tdbu
+: 1691675646:0;cd src
+: 1691675646:0;vim .
+: 1691675646:0;npm run start:dev
+: 1691675646:0;cd src
+: 1691675646:0;npm run start:dev
+: 1691675647:0;l
+: 1691675654:0;cd
+: 1691675655:0;ta
+: 1691676418:0;npm run start:dev
+: 1691677108:0;s
+: 1691677110:0;gad
+: 1691677112:0;gpsh
+: 1691677684:0;npm run start:dev
+: 1691678174:0;npx playwright codegen https://ftp.ncbi.nlm.nih.gov/gene/DATA/
+: 1691678469:0;npm run start:dev
+: 1691679281:0;l
+: 1691679284:0;tree ncbi-raw-gene-data
+: 1691679509:0;less ncbi-raw-gene-data/gene2ensembl.gz
+: 1691679887:0;l
+: 1691679888:0;cd ..
+: 1691679889:0;l
+: 1691679903:0;tree ncbi-raw-gene-data
+: 1691679991:0;npm run start:dev
+: 1691680002:0;l
+: 1691680004:0;vim env
+: 1691680015:0;npm run start:dev
+: 1691680309:0;tree ncbi-raw-gene-data
+: 1691680531:0;npm run start:dev
+: 1691680576:0;l
+: 1691680581:0;untracked
+: 1691680590:0;echo ncbi-raw-gene-data >> .gitignore
+: 1691680592:0;untracked
+: 1691680599:0;rm NaNgene2ensembl.gz
+: 1691680601:0;l
+: 1691680603:0;untracked
+: 1691680605:0;s
+: 1691680639:0;gad
+: 1691680640:0;gpsh
+: 1691681452:0;s
+: 1691681459:0;gpsh
+: 1691681465:0;ta
+: 1691686242:0;tl
+: 1691686243:0;ta
+: 1691686250:0;npm run start:dev
+: 1691686280:0;l
+: 1691686283:0;cd src
+: 1691686284:0;l
+: 1691686286:0;cd ncbi
+: 1691686287:0;l
+: 1691686291:0;cd download-ncbi
+: 1691686292:0;l
+: 1691686309:0;npx nest g service get-ncbi-gene-summaries --flat --no-spec
+: 1691686382:0;l
+: 1691686386:0;vim ncbi
+: 1691686537:0;npm run start:dev
+: 1691686794:0;l
+: 1691686800:0;abtasks
+: 1691686922:0;tchat
+: 1691686924:0;vim ~/.chat/prompt.txt
+: 1691686925:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691686925:0;ta
+: 1691687077:0;cd
+: 1691687082:0;cd test
+: 1691687088:0;nvm use lts/erbium
+: 1691687092:0;l
+: 1691687114:0;vimx list-all-ncbi-gene-ids.sh
+: 1691687123:0;cd test
+: 1691687131:0;npx onsave ./list-all-ncbi-gene-ids.sh ./list-all-ncbi-gene-ids.sh
+: 1691687159:0;l
+: 1691687638:0;cd
+: 1691687640:0;cd test
+: 1691687642:0;less gene_ids.txt
+: 1691687656:0;vim gene_ids.txt
+: 1691687698:0;l
+: 1691687703:0;vim ncbi-raw-gene-data
+: 1691687733:0;l
+: 1691687779:0;npx nest g service unzip-ncbi-zips --flat --no-spec
+: 1691688572:0;cd ..
+: 1691688573:0;l
+: 1691688583:0;cd nest-download-parse-ekb
+: 1691688584:0;l
+: 1691688591:0;cd ncbi-raw-gene-data
+: 1691688594:0;l
+: 1691688667:0;gunzip gene2ensembl.gz
+: 1691688683:0;less gene2ensembl
+: 1691688769:0;l
+: 1691688795:0;cd ncbi-raw-gene-data
+: 1691688795:0;l
+: 1691688800:0;cat *
+: 1691688840:0;l
+: 1691688845:0;less gene2ensembl
+: 1691688858:0;vi gene2ensembl
+: 1691688876:0;vi Homo_sapiens.gene_info
+: 1691689108:0;arsdb
+: 1691689538:0;l
+: 1691689541:0;cd old-dpus-develop-branch
+: 1691689542:0;l
+: 1691689551:0;vim 10_download
+: 1691689684:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691689800:0;abtasks
+: 1691690684:0;vi Homo_sapiens.gene_info
+: 1691691185:0;l
+: 1691691194:0;vi Homo_sapiens.gene_info
+: 1691691208:0;vi Mus_musculus.gene_info
+: 1691691257:0;l
+: 1691691259:0;vi Homo_sapiens.gene_info
+: 1691696327:0;l
+: 1691696339:0;abtasks
+: 1691697981:0;l
+: 1691697984:0;vim env
+: 1691698097:0;l
+: 1691698210:0;npx nest g service trim-off-extra-organisms --flat --no-spec
+: 1691698574:0;l
+: 1691698579:0;tree ncbi-raw-gene-data
+: 1691698602:0;less gene2ensembl
+: 1691698609:0;less ncbi-raw-gene-data/gene2ensembl
+: 1691698635:0;l
+: 1691698640:0;vim ncbi-raw-gene-data
+: 1691699201:0;l
+: 1691699202:0;vim .
+: 1691699386:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691700029:0;l
+: 1691700032:0;cd ..
+: 1691700032:0;l
+: 1691700040:0;less Homo_sapiens.gene_info
+: 1691700050:0;vim Homo_sapiens.gene_info
+: 1691701002:0;vim compare
+: 1691702542:0;l
+: 1691702574:0;s
+: 1691702578:0;gad
+: 1691702581:0;gpsh
+: 1691702604:0;rm pathway-json pathway-resolver.json
+: 1691702605:0;s
+: 1691702606:0;gad
+: 1691702607:0;gpsh
+: 1691702612:0;l
+: 1691702613:0;s
+: 1691702696:0;l
+: 1691702698:0;tl
+: 1691702698:0;l
+: 1691702957:0;s
+: 1691702958:0;gad
+: 1691702959:0;gpsh
+: 1691702972:0;l
+: 1691702976:0;pwd
+: 1691703126:0;less *
+: 1691703153:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691703218:0;less *
+: 1691703389:0;s
+: 1691703391:0;cd ..
+: 1691703391:0;gad
+: 1691703395:0;gpsh
+: 1691703970:0;l
+: 1691703997:0;s
+: 1691704336:0;abtasks
+: 1691706166:0;l
+: 1691706175:0;abtasks
+: 1691707637:0;s
+: 1691707640:0;gad
+: 1691707642:0;gpsh
+: 1691707644:0;gch master
+: 1691707652:0;git merge handle-ncbi-genes
+: 1691707655:0;gpsh
+: 1691708003:0;tl
+: 1691708004:0;ks
+: 1691675646:0;vim .
+: 1691712665:0;abtasks
+: 1691712688:0;l
+: 1691712695:0;cd private-configs
+: 1691712696:0;s
+: 1691712703:0;vim ABtasks.txt
+: 1691712707:0;gad
+: 1691712711:0;l
+: 1691712712:0;s
+: 1691712717:0;cd
+: 1691760625:0;tl
+: 1691773118:0;abtasks
+: 1691775265:0;ks
+: 1691775267:0;twa
+: 1691775268:0;tmux split-window
+: 1691775268:0;tmux select-layout main-horizontal
+: 1691775269:0;npm start
+: 1691775269:0;start_java
+: 1691775270:0;tmux split-window
+: 1691775270:0;tmux select-layout even-horizontal
+: 1691775271:0;vim tests
+: 1691775287:0;l
+: 1691775312:0;pwd
+: 1691775339:0;npm run summary
+: 1691775343:0;npm run SUMMARY
+: 1691775383:0;vim Scho
+: 1691775393:0;vim .
+: 1691775661:0;npm run SUMMARY
+: 1691775832:0;s
+: 1691775841:0;cd ..
+: 1691775844:0;git diff .
+: 1691775886:0;npm run SUMMARY
+: 1691776014:0;l
+: 1691776017:0;gad
+: 1691776021:0;amend
+: 1691776036:0;gad
+: 1691776038:0;gpsh
+: 1691776053:0;l
+: 1691776053:0;s
+: 1691776072:0;l
+: 1691776073:0;vim .
+: 1691776373:0;npm run SUMMARY
+: 1691776453:0;tchat
+: 1691776456:0;vim ~/.chat/prompt.txt
+: 1691776456:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691776463:0;ta
+: 1691776557:0;npm run SUMMARY
+: 1691776888:0;ng build
+: 1691776915:0;start_java
+: 1691776921:0;npm start
+: 1691776937:0;npm run SUMMARY
+: 1691778042:0;vim .
+: 1691778069:0;l
+: 1691778070:0;s
+: 1691778098:0;vim .
+: 1691778368:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691779489:0;npm run SUMMARY
+: 1691779619:0;cd
+: 1691779620:0;cd test
+: 1691779621:0;l
+: 1691779631:0;vim sort-chord-dto.js
+: 1691779773:0;l
+: 1691779785:0;cd
+: 1691779786:0;cd test
+: 1691779787:0;l
+: 1691779792:0;npx nodemon sort-chord-dto.js
+: 1691780940:0;l
+: 1691780941:0;vim .
+: 1691781068:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691781375:0;npm run SUMMARY
+: 1691781915:0;l
+: 1691781916:0;s
+: 1691781918:0;gad
+: 1691781929:0;npm run PATHWAYS
+: 1691786194:0;s
+: 1691786205:0;ks
+: 1691786207:0;tl
+: 1691848236:0;twa
+: 1691848237:0;tmux split-window
+: 1691848238:0;tmux select-layout main-horizontal
+: 1691848239:0;npm start
+: 1691848239:0;start_java
+: 1691848239:0;tmux split-window
+: 1691848239:0;tmux select-layout even-horizontal
+: 1691848241:0;vim tests
+: 1691848255:0;l
+: 1691848259:0;s
+: 1691848272:0;git restore .
+: 1691848273:0;s
+: 1691848279:0;git restore ../pathway/
+: 1691848281:0;s
+: 1691848297:0;git restore --staged ../../services/
+: 1691848298:0;s
+: 1691848310:0;git restore ../../services/
+: 1691848316:0;s
+: 1691848319:0;gln 3
+: 1691848337:0;npm run SUMMARY
+: 1691848357:0;l
+: 1691848407:0;vim .
+: 1691848617:0;npm run PATHWAYS
+: 1691853073:0;l
+: 1691853075:0;vim .
+: 1691853332:0;tchat
+: 1691853334:0;vim ~/.chat/prompt.txt
+: 1691853335:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1691853335:0;ta
+: 1691853626:0;vim .
+: 1691853634:0;cd ~/test
+: 1691853638:0;vim compare.txt
+: 1691854144:0;l
+: 1691854145:0;s
+: 1691854151:0;ks
+: 1692019635:0;l
+: 1692019686:0;s
+: 1692019688:0;twa
+: 1692019689:0;tmux split-window
+: 1692019690:0;tmux select-layout main-horizontal
+: 1692019691:0;npm start
+: 1692019691:0;start_java
+: 1692019691:0;tmux split-window
+: 1692019691:0;tmux select-layout even-horizontal
+: 1692019693:0;vim tests
+: 1692019700:0;npm run SUMMARY
+: 1692019708:0;l
+: 1692019712:0;start_java
+: 1692019717:0;npm start
+: 1692019720:0;l
+: 1692019726:0;vim .
+: 1692019861:0;npm run SUMMARY
+: 1692020071:0;l
+: 1692020075:0;cd ss .
+: 1692020075:0;l
+: 1692020079:0;cd ..
+: 1692020080:0;l
+: 1692020082:0;cd summary
+: 1692020083:0;l
+: 1692020085:0;cd chord-chart
+: 1692020085:0;l
+: 1692020095:0;cd chord-chart-container
+: 1692020097:0;l
+: 1692020223:0;ng g service network-request-chart-type-switch --no-spec -d
+: 1692020238:0;l
+: 1692020239:0;s
+: 1692020258:0;gch -b getting-rid-of-chord-chart-endpoint
+: 1692020260:0;s
+: 1692020262:0;gb
+: 1692020277:0;l
+: 1692020280:0;s
+: 1692020285:0;l
+: 1692020287:0;pwd
+: 1692020299:0;ng g service network-request-chart-type-switch --no-spec
+: 1692020307:0;fc
+: 1692020313:0;ng g s network-request-chart-type-switch --no-spec
+: 1692020318:0;fc
+: 1692020329:0;npx ng generate service network-request-chart-type-switch --no-spec
+: 1692020336:0;fc
+: 1692020345:0;npx ng generate service network-request-chart-type-switch -- help
+: 1692020348:0;ng g --help
+: 1692020367:0;ng g s network-request-chart-type-switch 
+: 1692020371:0;l
+: 1692020381:0;rm -rf *spec*
+: 1692020382:0;l
+: 1692020383:0;s
+: 1692020390:0;git add network-request-chart-type-switch.service.ts
+: 1692020391:0;s
+: 1692020396:0;git commit -m 'added new service'
+: 1692020398:0;s
+: 1692020813:0;npm run SUMMARY
+: 1692020883:0;npm start
+: 1692020896:0;npm run SUMMARY
+: 1692025665:0;tchat
+: 1692025667:0;vim ~/.chat/prompt.txt
+: 1692025668:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692025670:0;l
+: 1692025675:0;ta
+: 1692026063:0;npm run SUMMARY
+: 1692038588:0;l
+: 1692038588:0;s
+: 1692038603:0;git restore .
+: 1692038604:0;s
+: 1692038616:0;rm $(untracked)
+: 1692038620:0;untracked
+: 1692038621:0;s
+: 1692038627:0;git restore --staged .
+: 1692038628:0;s
+: 1692038630:0;git restore .
+: 1692038632:0;s
+: 1692038636:0;gch master
+: 1692038638:0;s
+: 1692038642:0;cd ..
+: 1692038644:0;git restore .
+: 1692038646:0;gch master
+: 1692038648:0;s
+: 1692038654:0;gch develop
+: 1692038655:0;s
+: 1692038657:0;ls
+: 1692038658:0;s
+: 1692038660:0;gad
+: 1692038662:0;l
+: 1692038663:0;vim .
+: 1692038816:0;s
+: 1692038820:0;gad
+: 1692038821:0;gpsh
+: 1692038912:0;l
+: 1692038939:0;cd webapp
+: 1692038940:0;l
+: 1692038952:0;cd src
+: 1692038953:0;l
+: 1692038975:0;find_line 'fontawesome'
+: 1692038983:0;find_line 'woff'
+: 1692039013:0;find_line 'awesome'
+: 1692039033:0;l
+: 1692039036:0;vim styles.scss
+: 1692039142:0;npm run SUMMARY
+: 1692039989:0;l
+: 1692039989:0;s
+: 1692039997:0;gad
+: 1692039999:0;s
+: 1692040000:0;l
+: 1692040004:0;s
+: 1692040007:0;gpsh
+: 1692040045:0;npm run PATHWAYS
+: 1692040181:0;s
+: 1692040183:0;gad
+: 1692040183:0;gpsh
+: 1692040369:0;l
+: 1692040370:0;vim .
+: 1692040680:0;l
+: 1692040702:0;cd projects
+: 1692040703:0;l
+: 1692040755:0;cd d3plot
+: 1692040756:0;l
+: 1692040762:0;cd src/lib
+: 1692040762:0;l
+: 1692040768:0;vim .
+: 1692041420:0;s
+: 1692041431:0;l
+: 1692041437:0;git add projects/
+: 1692041437:0;s
+: 1692041485:0;git commit -m 'fixed pathway legend grayed out box issue for coherent cascades'
+: 1692041487:0;gpsh
+: 1692041762:0;npm run NETWORKS
+: 1692041950:0;npm run PATHWAYS
+: 1692043164:0;s
+: 1692043165:0;l
+: 1692043171:0;cd app
+: 1692043210:0;replace "'logFC'" "logâ‚‚FC"
+: 1692043213:0;s
+: 1692043217:0;l
+: 1692043219:0;s
+: 1692043236:0;find_line 'logFC'
+: 1692043275:0;find_line 'LogFC'
+: 1692043332:0;replace "LogFC" "Logâ‚‚FC"
+: 1692043334:0;s
+: 1692043361:0;gac -m 'changed LogFC to Logâ‚‚FC'
+: 1692043362:0;s
+: 1692043373:0;npm run SUMMARY
+: 1692043397:0;l
+: 1692043400:0;vim .
+: 1692043539:0;l
+: 1692043542:0;gac -m 'changed LogFC to Logâ‚‚FC'
+: 1692043543:0;s
+: 1692043545:0;gad
+: 1692043546:0;gpsh
+: 1692048043:0;l
+: 1692048044:0;s
+: 1692048069:0;ks
+: 1692054255:0;l
+: 1692054277:0;mkdir andrew-and-kannisa-study
+: 1692054280:0;cd andrew-and-kannisa-study
+: 1692054282:0;l
+: 1692054283:0;s
+: 1692054285:0;gi
+: 1692054287:0;l
+: 1692054292:0;vim readme.txt
+: 1692054328:0;l
+: 1692054328:0;s
+: 1692054331:0;gad
+: 1692054332:0;l
+: 1692054448:0;vim 01-lesson.txt
+: 1692055452:0;l
+: 1692055454:0;s
+: 1692055456:0;gad
+: 1692111015:0;l
+: 1692111016:0;s
+: 1692111017:0;twa
+: 1692111018:0;tmux split-window
+: 1692111018:0;tmux select-layout main-horizontal
+: 1692111019:0;npm start
+: 1692111019:0;start_java
+: 1692111020:0;tmux split-window
+: 1692111020:0;tmux select-layout even-horizontal
+: 1692111021:0;vim tests
+: 1692111157:0;l
+: 1692111179:0;npm run ENRICHMENT
+: 1692111187:0;l
+: 1692111192:0;vim geneset
+: 1692111487:0;npm run ENRICHMENT
+: 1692111704:0;abtasks
+: 1692112065:0;npm run ENRICHMENT
+: 1692112149:0;s
+: 1692112151:0;cd ..
+: 1692112152:0;l
+: 1692112153:0;vim .
+: 1692112181:0;npm run ENRICHMENT
+: 1692112759:0;s
+: 1692112762:0;cd ..
+: 1692112780:0;gac -m 'added gene set name to bar chart in ordinary report page'
+: 1692112781:0;s
+: 1692112783:0;gpsh
+: 1692112844:0;npm run SUMMARY
+: 1692112858:0;vim .
+: 1692113149:0;npm run SUMMARY
+: 1692113218:0;start_java
+: 1692113224:0;npm start
+: 1692113239:0;npm run SUMMARY
+: 1692113562:0;s
+: 1692113576:0;gac -m 'put chord sort functions back the way they should be'
+: 1692113579:0;gpsh
+: 1692113587:0;l
+: 1692113588:0;s
+: 1692113677:0;npm run GO
+: 1692113729:0;abtasks
+: 1692113830:0;npm run SUMMARY
+: 1692115596:0;l
+: 1692115602:0;vim .
+: 1692125906:0;s
+: 1692125907:0;l
+: 1692125911:0;./delete-all-debuggers.sh
+: 1692125913:0;s
+: 1692125920:0;gac -m 'deleted debuggers'
+: 1692125922:0;s
+: 1692125923:0;gpsh
+: 1692125986:0;npm run SUMMARY
+: 1692126069:0;l
+: 1692126084:0;cd build-chord
+: 1692126085:0;l
+: 1692126090:0;git merge develop
+: 1692126092:0;s
+: 1692126096:0;./sh-bin/build-deploy-qa.sh
+: 1692126337:0;npm run SUMMARY
+: 1692126346:0;npm run QA
+: 1692126612:0;l
+: 1692126612:0;s
+: 1692126614:0;gch release
+: 1692126627:0;gll
+: 1692126632:0;gla
+: 1692126643:0;git tag
+: 1692126667:0;gch 14.10.0.next.3
+: 1692126696:0;npm run SUMMARY
+: 1692126797:0;git tag
+: 1692126806:0;gch 14.9.0.next.3
+: 1692126812:0;npm run SUMMARY
+: 1692126825:0;npm start
+: 1692126842:0;git tag
+: 1692126870:0;q
+: 1692126872:0;gch 14.8.5.next.1
+: 1692126886:0;npm start
+: 1692126912:0;git tag
+: 1692126923:0;gch 14.8.3.next.0
+: 1692126928:0;npm start
+: 1692126951:0;npm run SUMMARY
+: 1692128097:0;gch develop
+: 1692128101:0;tl
+: 1692128105:0;ks
+: 1692135843:0;l
+: 1692135846:0;tl
+: 1692135848:0;cd
+: 1692135850:0;l
+: 1692135855:0;cd play-aws
+: 1692135856:0;l
+: 1692135875:0;mkdir aws-certification-planning
+: 1692135878:0;cd aws-certification-planning
+: 1692135880:0;gi
+: 1692135883:0;cd ..
+: 1692135888:0;echo aws-certification-planning >> .gitignore
+: 1692135889:0;l
+: 1692135892:0;cd aws-certification-planning
+: 1692135893:0;cd ..
+: 1692135893:0;s
+: 1692135895:0;gad
+: 1692135896:0;gpsh
+: 1692135901:0;cd aws-certification-planning
+: 1692135902:0;l
+: 1692135904:0;vim readme.txt
+: 1692136413:0;l
+: 1692136413:0;s
+: 1692136415:0;gad
+: 1692136419:0;gh repo create
+: 1692136487:0;brew upgrade gh
+: 1692136508:0;l
+: 1692136509:0;s
+: 1692136517:0;edit_ex taws
+: 1692136591:0;s
+: 1692136596:0;edit_ex taws
+: 1692136609:0;l
+: 1692136611:0;pwd
+: 1692136613:0;cd
+: 1692136615:0;tl
+: 1692136617:0;taws
+: 1692136618:0;vim .
+: 1692136618:0;npm run start:dev
+: 1692136627:0;tl
+: 1692136632:0;edt_ex taws
+: 1692136635:0;edit_ex taws
+: 1692136691:0;ks
+: 1692136618:0;cd src
+: 1692136693:0;taws
+: 1692136694:0;cd src
+: 1692136694:0;npm run start:dev
+: 1692136694:0;vim .
+: 1692136698:0;ta
+: 1692136850:0;l
+: 1692136852:0;tl
+: 1692137749:0;l
+: 1692137752:0;vim readme.txt
+: 1692137761:0;vim credential-info.txt
+: 1692137782:0;s
+: 1692137783:0;gad
+: 1692137784:0;gpsh
+: 1692137787:0;l
+: 1692139039:0;cd
+: 1692139039:0;l
+: 1692139046:0;vim play-aws.json
+: 1692139308:0;npm run start:dev
+: 1692139340:0;tchat
+: 1692139342:0;vim ~/.chat/prompt.txt
+: 1692139343:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692139344:0;ta
+: 1692139512:0;npm run start:dev
+: 1692139978:0;l
+: 1692139979:0;s
+: 1692139981:0;gad
+: 1692139982:0;gpsh
+: 1692139984:0;l
+: 1692140277:0;npm run start:dev
+: 1692140314:0;npx playwright codegen https://console.aws.amazon.com/
+: 1692140629:0;npm run start:dev
+: 1692140801:0;s
+: 1692140802:0;gad
+: 1692140803:0;gpsh
+: 1692141120:0;l
+: 1692141152:0;mv credential-info.txt aws-certification-planning
+: 1692141155:0;s
+: 1692141160:0;git rm credential-info.txt
+: 1692141160:0;s
+: 1692141163:0;gad
+: 1692141164:0;gpsh
+: 1692141169:0;cd aws-certification-planning
+: 1692141170:0;l
+: 1692141173:0;vim credential-info.txt
+: 1692141192:0;sl
+: 1692141193:0;s
+: 1692141202:0;gad
+: 1692141203:0;gpsh
+: 1692142245:0;l
+: 1692142245:0;s
+: 1692142248:0;gad
+: 1692142249:0;gpsh
+: 1692142718:0;npm run start:dev
+: 1692143661:0;l
+: 1692143662:0;vim .
+: 1692143744:0;npm run start:dev
+: 1692143877:0;l
+: 1692143879:0;cd
+: 1692143881:0;cd andrew-and-kannisa-study
+: 1692143882:0;l
+: 1692143884:0;vim 01-lesson.txt
+: 1692144125:0;npm run start:dev
+: 1692144299:0;l
+: 1692144305:0;pwd
+: 1692145264:0;l
+: 1692145389:0;npx nest g service practice-exams
+: 1692145394:0;l
+: 1692145416:0;rm -rf practice-exams
+: 1692145423:0;npx nest g service practice-exams --flat --no-spec
+: 1692145427:0;l
+: 1692145456:0;vim practice-exams.service.ts
+: 1692145616:0;npm run start:dev
+: 1692147492:0;l
+: 1692147519:0;s
+: 1692147521:0;pwd
+: 1692147532:0;vim practioner-practice-exam.txt
+: 1692147654:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692149375:0;s
+: 1692149381:0;l
+: 1692149385:0;pwd
+: 1692149388:0;tree www
+: 1692149406:0;ls -l www
+: 1692149431:0;vim www/asc_seurat.css
+: 1692149438:0;s
+: 1692149459:0;rm -rf www
+: 1692149461:0;l
+: 1692149461:0;s
+: 1692149464:0;tree data
+: 1692149468:0;rm -rf data
+: 1692149473:0;cat hell.js
+: 1692149477:0;rm -rf hell.js
+: 1692149481:0;l
+: 1692149481:0;cd
+: 1692149483:0;s
+: 1692149495:0;echo andrew-and-kannisa-study >> .gitign
+: 1692149499:0;echo andrew-and-kannisa-study >> .gitignore
+: 1692149501:0;s
+: 1692149505:0;rm .gitign
+: 1692149507:0;s
+: 1692149508:0;gad
+: 1692149511:0;gpsh
+: 1692149668:0;tl
+: 1692149673:0;cd play-aws
+: 1692149673:0;l
+: 1692149673:0;s
+: 1692149675:0;gad
+: 1692149676:0;gpsh
+: 1692149679:0;l
+: 1692149682:0;cd aws-certification-planning
+: 1692149683:0;s
+: 1692149684:0;gad
+: 1692149685:0;gpsh
+: 1692149686:0;s
+: 1692149687:0;cd
+: 1692149690:0;ks
+: 1692200272:0;l
+: 1692200274:0;s
+: 1692200277:0;twa
+: 1692200279:0;tmux split-window
+: 1692200280:0;start_java
+: 1692200280:0;tmux select-layout main-horizontal
+: 1692200280:0;tmux split-window
+: 1692200281:0;tmux select-layout even-horizontal
+: 1692200281:0;vim tests
+: 1692200298:0;npm start
+: 1692200306:0;vim .
+: 1692200312:0;npm run GENES
+: 1692200315:0;npm run GENE
+: 1692200319:0;npm run SUMMARY
+: 1692200511:0;l
+: 1692200587:0;cd projects
+: 1692200587:0;l
+: 1692200592:0;cd awc-js
+: 1692200593:0;l
+: 1692200595:0;cd src
+: 1692200596:0;l
+: 1692200599:0;cd lib
+: 1692200599:0;l
+: 1692200606:0;vim ars
+: 1692203831:0;ks
+: 1692212308:0;l
+: 1692212309:0;tl
+: 1692212311:0;twa
+: 1692212312:0;tmux split-window
+: 1692212312:0;tmux select-layout main-horizontal
+: 1692212313:0;npm start
+: 1692212313:0;start_java
+: 1692212313:0;tmux split-window
+: 1692212314:0;tmux select-layout even-horizontal
+: 1692212315:0;vim tests
+: 1692212339:0;gch -b fix-chord-tab-upstream
+: 1692212342:0;ls
+: 1692212346:0;vim .
+: 1692212418:0;npm run SUMMARY
+: 1692219581:0;l
+: 1692219582:0;s
+: 1692219584:0;cd ..
+: 1692219585:0;gad
+: 1692219586:0;gpsh
+: 1692220627:0;s
+: 1692220628:0;ks
+: 1692226054:0;taws
+: 1692226055:0;cd src
+: 1692226055:0;npm run start:dev
+: 1692226055:0;vim .
+: 1692226072:0;ks
+: 1692226073:0;taws
+: 1692226074:0;cd src
+: 1692226074:0;npm run start:dev
+: 1692226074:0;vim .
+: 1692226075:0;ks
+: 1692226077:0;taws
+: 1692226078:0;cd src
+: 1692226078:0;npm run start:dev
+: 1692226078:0;vim .
+: 1692226078:0;ta
+: 1692226099:0;l
+: 1692226113:0;find | grep help
+: 1692226119:0;find .  | grep help
+: 1692226124:0;l
+: 1692226127:0;vim docs/help.txt
+: 1692226199:0;s
+: 1692226201:0;git add .
+: 1692226253:0;npm run start:dev
+: 1692226314:0;l
+: 1692226316:0;vim docs/help.txt
+: 1692226330:0;s
+: 1692226485:0;tchat
+: 1692226487:0;vim ~/.chat/prompt.txt
+: 1692226488:0;ta
+: 1692226488:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692229196:0;l
+: 1692229889:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692230823:0;ks
+: 1692230826:0;tl
+: 1692281473:0;twa
+: 1692281474:0;tmux split-window
+: 1692281474:0;tmux select-layout main-horizontal
+: 1692281475:0;npm start
+: 1692281475:0;start_java
+: 1692281475:0;tmux split-window
+: 1692281476:0;tmux select-layout even-horizontal
+: 1692281477:0;vim tests
+: 1692281487:0;l
+: 1692281489:0;vim .
+: 1692281506:0;npm run SUMMARY
+: 1692281568:0;tchat
+: 1692281570:0;vim ~/.chat/prompt.txt
+: 1692281571:0;ta
+: 1692281571:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692281987:0;npm run SUMMARY
+: 1692283149:0;s
+: 1692283153:0;cd ..
+: 1692283164:0;gac -m 'fixed pv label on chord chart so that it is two lines'
+: 1692283168:0;s
+: 1692283169:0;gpsh
+: 1692283180:0;npm run SUMMARY
+: 1692284934:0;npm run GO
+: 1692284949:0;l
+: 1692284952:0;cd src
+: 1692284952:0;l
+: 1692284966:0;cd ..
+: 1692284970:0;cd projects/d3plot
+: 1692284971:0;l
+: 1692284975:0;cd src/lib
+: 1692284976:0;l
+: 1692285047:0;find_line 'goPlot'
+: 1692285069:0;find_line 'ontopie'
+: 1692285079:0;vim ontoPie
+: 1692285093:0;find_line 'ontoPie'
+: 1692285099:0;vim ontoPie
+: 1692285221:0;npm run GO
+: 1692286539:0;s
+: 1692286541:0;gad
+: 1692286543:0;gpsh
+: 1692286564:0;gch develop
+: 1692286567:0;git merge fix-chord-tab-upstream
+: 1692286569:0;s
+: 1692286570:0;gad
+: 1692286571:0;gpsh
+: 1692286577:0;l
+: 1692286589:0;vim .
+: 1692286658:0;l
+: 1692286659:0;s
+: 1692286663:0;l
+: 1692286663:0;s
+: 1692286668:0;gpsh
+: 1692286676:0;cd build-chord
+: 1692286679:0;git merge develop
+: 1692286682:0;./sh-bin/build-deploy-qa.sh
+: 1692286878:0;npm run QA
+: 1692291312:0;tl
+: 1692291313:0;ks
+: 1692291315:0;tdbu
+: 1692291316:0;cd src
+: 1692291316:0;npm run start:dev
+: 1692291316:0;vim .
+: 1692291316:0;cd src
+: 1692291316:0;npm run start:dev
+: 1692291325:0;tchat
+: 1692291328:0;vim ~/.chat/prompt.txt
+: 1692291328:0;ta
+: 1692291328:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692291965:0;l
+: 1692291967:0;s
+: 1692291977:0;gch -b 'restructure ekb-updateer'
+: 1692291987:0;fc
+: 1692291996:0;gch -b restructure-ekb-updateer
+: 1692291997:0;s
+: 1692292418:0;l
+: 1692292435:0;npx nest g class ekb-config
+: 1692292446:0;rm -rf *spec*
+: 1692292447:0;l
+: 1692292447:0;s
+: 1692292456:0;l
+: 1692292460:0;rm -rf ekb-config
+: 1692292472:0;npx nest g class ekb-config --flat --no-spec
+: 1692292474:0;l
+: 1692292475:0;s
+: 1692292484:0;gad
+: 1692292924:0;cd pgwebapp10/playwright
+: 1692292925:0;npm run QA
+: 1692293480:0;l
+: 1692293480:0;s
+: 1692293481:0;tl
+: 1692293482:0;ta
+: 1692293519:0;l
+: 1692293520:0;cd ..
+: 1692293520:0;l
+: 1692293521:0;s
+: 1692293524:0;cd ..
+: 1692293525:0;gad
+: 1692294533:0;l
+: 1692294554:0;npx nest g class global-event-emitter
+: 1692294563:0;npx nest g class global-event-emitter --no-spec --flat
+: 1692294578:0;l
+: 1692294760:0;tl
+: 1692294761:0;ta
+: 1692296947:0;l
+: 1692296952:0;rm -rf global-event-emitter
+: 1692296954:0;vim global-event-emitter.ts
+: 1692297392:0;l
+: 1692297412:0;vim ncbi
+: 1692297618:0;tree ncbi
+: 1692297636:0;l
+: 1692297640:0;tree ncbi-raw-gene-data
+: 1692297648:0;tree ncbi-parsed-gene-data
+: 1692297654:0;vim ekb-updater.json
+: 1692297791:0;l
+: 1692297791:0;s
+: 1692297886:0;cd ..
+: 1692297887:0;gad
+: 1692297890:0;gpsh
+: 1692297903:0;l
+: 1692297904:0;s
+: 1692297906:0;gpsh
+: 1692298959:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692301183:0;gpsh
+: 1692301438:0;cd pgwebapp10/playwright
+: 1692301444:0;npm run QA
+: 1692302627:0;s
+: 1692311514:0;tl
+: 1692311516:0;ta
+: 1692311639:0;l
+: 1692311641:0;pwd
+: 1692311644:0;s
+: 1692311650:0;gad
+: 1692311651:0;gpsh
+: 1692311662:0;l
+: 1692311666:0;vim ncbi
+: 1692311678:0;l
+: 1692311683:0;vim old-dpus-develop-branch
+: 1692311747:0;abtasks
+: 1692311946:0;l
+: 1692312152:0;ls ncbi-parsed-gene-data/
+: 1692312423:0;l
+: 1692312433:0;nvm use lts/erbium
+: 1692312437:0;l
+: 1692312893:0;npx onsave ncbi-parsed-gene-data
+: 1692312908:0;npx onsave ncbi-parsed-gene-data/hsa-summary.csv cat ncbi-parsed-gene-data/hsa-summary.csv
+: 1692313189:0;vim ncbi-raw-gene-data
+: 1692313269:0;l
+: 1692313274:0;vim ekb-updater.json
+: 1692313554:0;l
+: 1692313562:0;cd src/ncbi
+: 1692313562:0;l
+: 1692313564:0;cd parse-ncbi
+: 1692313565:0;l
+: 1692313596:0;npx nest g parse-ncbi-common --flat --no-spec
+: 1692313600:0;fc
+: 1692313621:0;npx nest g service parse-ncbi-common --flat --no-spec
+: 1692313687:0;l
+: 1692313698:0;vim parse-ncbi-common.service.ts
+: 1692313880:0;l
+: 1692313881:0;vim .
+: 1692317513:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692318147:0;npm run start:dev
+: 1692318178:0;ta
+: 1692318208:0;npm run start:dev
+: 1692318356:0;npm i -S zml2js
+: 1692318377:0;npm i -S xml2js
+: 1692318389:0;npm i -S @types/xml2js
+: 1692319354:0;npm run start:dev
+: 1692320068:0;l
+: 1692320073:0;s
+: 1692320074:0;gad
+: 1692320077:0;gpsh
+: 1692320219:0;s
+: 1692320220:0;gpsh
+: 1692320388:0;tl
+: 1692320389:0;s
+: 1692320403:0;ks
+: 1692408402:0;l
+: 1692408403:0;s
+: 1692408405:0;cd 
+: 1692408407:0;cd andrew-and-kannisa-study
+: 1692408408:0;l
+: 1692408412:0;vim 01-lesson.txt
+: 1692413092:0;tchat
+: 1692413094:0;vim ~/.chat/prompt.txt
+: 1692413094:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692413095:0;ta
+: 1692413395:0;l
+: 1692413401:0;vim 01-lesson.txt
+: 1692414470:0;l
+: 1692414475:0;git clone https://github.com/itskannisa/Andrew-Anna.git
+: 1692414569:0;tl
+: 1692414570:0;ta
+: 1692414575:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692414580:0;vim ~/.chat/prompt.txt
+: 1692414886:0;git clone https://github.com/itskannisa/Andrew-Anna.git
+: 1692414927:0;l
+: 1692414935:0;cd Andrew-Anna
+: 1692414937:0;ls
+: 1692414940:0;vim README.md
+: 1692414952:0;l
+: 1692414961:0;cp ~/andrew-and-kannisa-study/01-lesson.txt .
+: 1692414962:0;l
+: 1692414964:0;gad
+: 1692414965:0;gpsh
+: 1692414996:0;export GH_TOKEN=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
+: 1692414997:0;gpsh
+: 1692415008:0;ta
+: 1692415053:0;export GITHUB_TOKEN=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
+: 1692415054:0;gpsh
+: 1692415561:0;l
+: 1692415581:0;vim typing-speed.txt
+: 1692415602:0;gad
+: 1692415603:0;gpsh
+: 1692462476:0;l
+: 1692462483:0;cd
+: 1692462484:0;tl
+: 1692462485:0;twa
+: 1692462486:0;tmux split-window
+: 1692462486:0;tmux select-layout main-horizontal
+: 1692462487:0;npm start
+: 1692462487:0;start_java
+: 1692462488:0;tmux split-window
+: 1692462488:0;tmux select-layout even-horizontal
+: 1692462489:0;vim tests
+: 1692462543:0;l
+: 1692462568:0;npm run SUMMARY
+: 1692462588:0;vim .
+: 1692462713:0;npm run PATHWAYS
+: 1692463004:0;cd projects/d3plot
+: 1692463005:0;l
+: 1692463007:0;cd src
+: 1692463007:0;l
+: 1692463010:0;cd lib
+: 1692463010:0;l
+: 1692463013:0;cd pathImages
+: 1692463013:0;l
+: 1692463018:0;vim .
+: 1692463074:0;npm run PATHWAYS
+: 1692463292:0;tl
+: 1692463293:0;ta
+: 1692463396:0;npm run PATHWAYS
+: 1692463583:0;l
+: 1692463585:0;ta
+: 1692463612:0;npm run PATHWAYS
+: 1692463721:0;tchat
+: 1692463724:0;vim ~/.chat/prompt.txt
+: 1692463724:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692463725:0;ta
+: 1692463825:0;npm run PATHWAYS
+: 1692464044:0;abtasks
+: 1692464662:0;l
+: 1692464665:0;cd projects/d3plot
+: 1692464665:0;l
+: 1692464687:0;find_line 'logFC'
+: 1692464699:0;replace "LogFC" "Logâ‚‚FC"
+: 1692464702:0;s
+: 1692464715:0;find_line 'logFC'
+: 1692464729:0;replace "LogFC" "Logâ‚‚FC"
+: 1692464739:0;s
+: 1692464746:0;pwd
+: 1692464748:0;l
+: 1692464753:0;find_line 'logFC'
+: 1692464771:0;replace LogFC Logâ‚‚FC
+: 1692464773:0;s
+: 1692464777:0;find_line 'logFC'
+: 1692464782:0;edit_ex
+: 1692464845:0;replace LogFC haha
+: 1692464847:0;s
+: 1692464852:0;find_line 'logFC'
+: 1692464858:0;l
+: 1692464870:0;cd src
+: 1692464877:0;l
+: 1692464885:0;replace LogFC haha
+: 1692464886:0;s
+: 1692464893:0;edit_ex replace
+: 1692464905:0;find ./
+: 1692464912:0;find .
+: 1692464918:0;edit_ex replace
+: 1692464930:0;replace LogFC haha
+: 1692464931:0;s
+: 1692464945:0;find_line 'logFC'
+: 1692464963:0;edit_ex replace
+: 1692465029:0;cd 
+: 1692465030:0;cd test
+: 1692465032:0;l
+: 1692465037:0;vim hello.txt
+: 1692465048:0;replace foo bar
+: 1692465055:0;l
+: 1692465062:0;cat hello.t
+: 1692465066:0;mkdir foobar
+: 1692465068:0;cd foobar
+: 1692465069:0;l
+: 1692465074:0;echo foo >> bar
+: 1692465075:0;l
+: 1692465080:0;replace foo bar
+: 1692465083:0;cat bar
+: 1692465090:0;replace bar foo
+: 1692465093:0;cat bar
+: 1692465107:0;mkdir bar/qux/que
+: 1692465121:0;mkdir -p bar/qux/foo
+: 1692465126:0;l
+: 1692465129:0;rm bar
+: 1692465131:0;mkdir -p bar/qux/foo
+: 1692465148:0;echo foo bar/qux/foo/bar
+: 1692465151:0;fc
+: 1692465156:0;echo foo >> bar/qux/foo/bar
+: 1692465170:0;cat bar/qux/foo/bar
+: 1692465177:0;replace foo foobar
+: 1692465181:0;cat bar/qux/foo/bar
+: 1692465192:0;l
+: 1692465194:0;pwd
+: 1692465200:0;cd lib
+: 1692465200:0;l
+: 1692465258:0;find logfc
+: 1692465263:0;find_line 'logFC'
+: 1692465285:0;replace "'logFC'" "'logâ‚‚FC'"
+: 1692465287:0;s
+: 1692465294:0;git diff .
+: 1692465302:0;gad
+: 1692465303:0;gpsh
+: 1692465333:0;l
+: 1692465361:0;vim .
+: 1692465388:0;npm run SUMMARY
+: 1692465438:0;l
+: 1692465439:0;s
+: 1692465442:0;gad
+: 1692465443:0;gpsh
+: 1692465448:0;cd build-chord
+: 1692465455:0;git merge develop
+: 1692465456:0;s
+: 1692465485:0;./sh-bin/build-deploy-qa.sh
+: 1692476384:0;ks
+: 1692476387:0;l
+: 1692476393:0;cd Andrew-An
+: 1692476399:0;cd Andrew-Anna
+: 1692476401:0;l
+: 1692476408:0;cat 01-lesson.txt
+: 1692476428:0;vim 02-lesson.txt
+: 1692477611:0;git add .
+: 1692477612:0;s
+: 1692477618:0;git commit -m 'added lesson 2'
+: 1692477620:0;gpsh
+: 1692477627:0;l
+: 1692477646:0;tmux
+: 1692477650:0;l
+: 1692477664:0;less 02-lesson.txt
+: 1692477668:0;l
+: 1692477684:0;vim 02-lesson.txt
+: 1692477697:0;gad
+: 1692477698:0;gpsh
+: 1692477701:0;l
+: 1692477710:0;less 02-lesson.txt
+: 1692477720:0;vimx create-daily-journal.sh
+: 1692477738:0;mkdir journals
+: 1692477743:0;vim 02-lesson.txt
+: 1692477761:0;s
+: 1692477763:0;gad
+: 1692477770:0;mkdir journals
+: 1692477778:0;echo $(date)
+: 1692477783:0;tchat
+: 1692477785:0;vim ~/.chat/prompt.txt
+: 1692477785:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692477786:0;ta
+: 1692477848:0;echo $(date +%B-%d-%Y\
+)
+: 1692477860:0;vim create-daily-journal.sh
+: 1692477878:0;ls journals
+: 1692477884:0;vim create-daily-journal.sh
+: 1692477896:0;s
+: 1692477898:0;./create-daily-journal.sh
+: 1692477902:0;tree journals
+: 1692477913:0;l
+: 1692477921:0;rm journals/August-19-2023
+: 1692477933:0;l
+: 1692477934:0;s
+: 1692477936:0;gad
+: 1692477957:0;vim 02-lesson.txt
+: 1692478124:0;vimtutor
+: 1692479072:0;s
+: 1692479073:0;gad
+: 1692479074:0;gpsh
+: 1692479224:0;cd
+: 1692479228:0;cd andrew-and-kannisa-study
+: 1692479229:0;l
+: 1692479235:0;vim things-to-bring-up.txt
+: 1692479241:0;s
+: 1692479242:0;gad
+: 1692479243:0;gpsh
+: 1692480239:0;l
+: 1692480249:0;cd ../Andrew-Anna
+: 1692480250:0;l
+: 1692480253:0;less 02-lesson.txt
+: 1692480490:0;l
+: 1692480497:0;cd Andrew-Anna
+: 1692480498:0;l
+: 1692480500:0;vim 02-lesson.txt
+: 1692480539:0;vimtutor
+: 1692480695:0;l
+: 1692480697:0;ls
+: 1692480701:0;vim 02-lesson.txt
+: 1692480765:0;cd Andrew-Anna
+: 1692480766:0;l
+: 1692480770:0;vim 02-lesson.txt
+: 1692480847:0;cd Andrew-Anna
+: 1692480849:0;ls
+: 1692480853:0;./create-daily-journal.sh
+: 1692480862:0;vim journals/August-19-2023
+: 1692480890:0;git status
+: 1692480896:0;git add .
+: 1692480899:0;git status
+: 1692480905:0;git commit
+: 1692480921:0;git status
+: 1692480924:0;git push
+: 1692481349:0;l
+: 1692481354:0;rm journals/August-19-2023
+: 1692481355:0;s
+: 1692481356:0;gad
+: 1692481357:0;gpsh
+: 1692487184:0;tdbu
+: 1692487185:0;vim .
+: 1692487185:0;cd src
+: 1692487185:0;npm run start:dev
+: 1692487185:0;vim .
+: 1692487197:0;ta
+: 1692487220:0;git checkout master
+: 1692487228:0;git merge restructure-ekb-updater
+: 1692487238:0;gb
+: 1692487248:0;git merge restructure-ekb-updateer
+: 1692487250:0;s
+: 1692487253:0;git push
+: 1692487273:0;l
+: 1692487304:0;vim ncbi
+: 1692487389:0;npm run start:dev
+: 1692487539:0;npm start
+: 1692487545:0;npm run start:dev
+: 1692487574:0;npm start
+: 1692487920:0;gch -b parse-all-summary-files
+: 1692489045:0;npm run start:dev
+: 1692489387:0;l
+: 1692489394:0;vi ncbi-raw-gene-data
+: 1692489562:0;npm run start:dev
+: 1692490767:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692491556:0;vi ncbi-raw-gene-data
+: 1692492182:0;tl
+: 1692492182:0;s
+: 1692492184:0;ta
+: 1692492189:0;ks
+: 1692496417:0;l
+: 1692497002:0;cd Andrew-Anna
+: 1692497003:0;l
+: 1692497006:0;vim 02-lesson.txt
+: 1692499621:0;l
+: 1692499633:0;vim create-daily-journal.sh
+: 1692499658:0;tree journals
+: 1692499662:0;./create-daily-journal.sh
+: 1692499664:0;tree journals
+: 1692499721:0;rm journals/August-19-2023
+: 1692499723:0;l
+: 1692499730:0;ls
+: 1692499733:0;ls -l
+: 1692499777:0;tree journals
+: 1692499779:0;tree .
+: 1692499785:0;./create-daily-journal.sh
+: 1692499787:0;tree journals
+: 1692499794:0;tree .
+: 1692499847:0;cd
+: 1692499849:0;pwd
+: 1692499864:0;which zsh
+: 1692499876:0;/bin/zsh
+: 1692499882:0;which bash
+: 1692499885:0;/bin/bash
+: 1692499912:0;exit
+: 1692499929:0;/bin/zsh
+: 1692499933:0;l
+: 1692499936:0;ls
+: 1692499952:0;/bin/bash
+: 1692500157:0;cd Andrew-Anna
+: 1692500159:0;ls
+: 1692500162:0;tree .
+: 1692500178:0;l
+: 1692500183:0;rm journals/August-19-2023 
+: 1692500185:0;l
+: 1692500189:0;touch foo.txt
+: 1692500193:0;touch hello.txt
+: 1692500195:0;ls
+: 1692500197:0;l
+: 1692500235:0;touch hello-kitty.txt
+: 1692500236:0;ls
+: 1692500237:0;l
+: 1692500274:0;vim hello-world.txt
+: 1692500286:0;l
+: 1692500294:0;cat hello-world.txt
+: 1692500300:0;vim hello-world.txt
+: 1692500386:0;touch hello-kitty2.txt
+: 1692500387:0;ls
+: 1692500396:0;vim hello-kitty2.txt
+: 1692500402:0;s
+: 1692500406:0;git status
+: 1692500454:0;git add foo.txt
+: 1692500456:0;git status
+: 1692500465:0;git add hello.txt
+: 1692500467:0;git status
+: 1692500470:0;git add .
+: 1692500473:0;git status
+: 1692500480:0;git commit 
+: 1692500492:0;git push
+: 1692500635:0;rm hello*
+: 1692500637:0;ls
+: 1692500644:0;rm foo.txt
+: 1692500649:0;rm journals
+: 1692500650:0;s
+: 1692500655:0;ls
+: 1692500656:0;l
+: 1692500666:0;git add .
+: 1692500669:0;git status
+: 1692500679:0;git commit -m 'deleted files'
+: 1692500685:0;git log
+: 1692500700:0;git push
+: 1692500848:0;vimtutor
+: 1692501333:0;brew
+: 1692501352:0;l
+: 1692501361:0;ls
+: 1692501412:0;pwd
+: 1692501447:0;ls
+: 1692501465:0;cd
+: 1692501469:0;ls
+: 1692501475:0;cd Downloads
+: 1692501477:0;ls
+: 1692501492:0;cd
+: 1692501496:0;cd Desktop
+: 1692501498:0;ls
+: 1692501518:0;rm Screen\ Recording\ 2023-08-19\ at\ 3.33.00\ PM.mov
+: 1692501526:0;ls
+: 1692501588:0;cd
+: 1692501595:0;cd Andrew-Anna
+: 1692501597:0;l
+: 1692501604:0;touch hello-kitty.txt
+: 1692501617:0;s
+: 1692501627:0;git add .
+: 1692501628:0;gpsh
+: 1692501635:0;git status
+: 1692501642:0;rm hello-kitty.txt
+: 1692501678:0;cd
+: 1692501684:0;cd Andrew-Anna
+: 1692501690:0;cd 
+: 1692501694:0;ls
+: 1692501851:0;cd Andrew-Anna
+: 1692501852:0;ls
+: 1692502239:0;twa
+: 1692502240:0;tmux split-window
+: 1692502240:0;tmux select-layout main-horizontal
+: 1692502241:0;npm start
+: 1692502241:0;start_java
+: 1692502242:0;tmux split-window
+: 1692502242:0;tmux select-layout even-horizontal
+: 1692502243:0;vim tests
+: 1692502291:0;vim .
+: 1692502361:0;npm run SUMMARY
+: 1692502449:0;npx playwright codegen https://example.com
+: 1692502507:0;npm run SUMMARY
+: 1692502587:0;tl
+: 1692502731:0;ls
+: 1692502745:0;git log
+: 1692579227:0;tl
+: 1692579228:0;twa
+: 1692579229:0;tmux split-window
+: 1692579229:0;tmux select-layout main-horizontal
+: 1692579230:0;npm start
+: 1692579231:0;start_java
+: 1692579231:0;tmux split-window
+: 1692579231:0;tmux select-layout even-horizontal
+: 1692579232:0;vim tests
+: 1692579239:0;l
+: 1692579248:0;npm run SUMMARY
+: 1692579463:0;l
+: 1692579571:0;vim .
+: 1692579745:0;npm run PATHWAYS
+: 1692581507:0;l
+: 1692581507:0;s
+: 1692581511:0;cd ../..
+: 1692581554:0;s
+: 1692581556:0;gad
+: 1692581557:0;gpsh
+: 1692581595:0;ta
+: 1692581597:0;l
+: 1692581598:0;s
+: 1692581605:0;gad
+: 1692581609:0;ks
+: 1692623637:0;twa
+: 1692623638:0;tmux split-window
+: 1692623638:0;tmux select-layout main-horizontal
+: 1692623639:0;npm start
+: 1692623639:0;start_java
+: 1692623640:0;tmux split-window
+: 1692623640:0;tmux select-layout even-horizontal
+: 1692623641:0;vim tests
+: 1692623671:0;npm run SUMMARY
+: 1692623928:0;vim .
+: 1692623933:0;vim hi
+: 1692624076:0;l
+: 1692624079:0;vim .
+: 1692625558:0;l
+: 1692625559:0;s
+: 1692625562:0;ks
+: 1692628419:0;twa
+: 1692628419:0;tmux split-window
+: 1692628420:0;tmux select-layout main-horizontal
+: 1692628421:0;npm start
+: 1692628421:0;start_java
+: 1692628421:0;tmux split-window
+: 1692628421:0;tmux select-layout even-horizontal
+: 1692628423:0;vim tests
+: 1692628429:0;l
+: 1692628430:0;vim .
+: 1692628433:0;ks
+: 1692628434:0;tdbu
+: 1692628435:0;cd src
+: 1692628435:0;vim .
+: 1692628435:0;npm run start:dev
+: 1692628435:0;cd src
+: 1692628435:0;npm run start:dev
+: 1692628435:0;vim .
+: 1692628435:0;ta
+: 1692628473:0;npm run start:dev
+: 1692628828:0;tchat
+: 1692628830:0;vim ~/.chat/prompt.txt
+: 1692628831:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692628832:0;ta
+: 1692631330:0;l
+: 1692631340:0;cd nest-download-parse-ekb
+: 1692631340:0;l
+: 1692631353:0;cd ncbi-raw-gene-data
+: 1692631354:0;l
+: 1692631360:0;vi Homo_sapiens.gene_info
+: 1692636206:0;l
+: 1692636370:0;vi ncbi-parsed-gene-data
+: 1692647111:0;l
+: 1692647114:0;vi Rattus_norvegicus.gene_info
+: 1692647140:0;vi Mus_musculus.gene_info
+: 1692647358:0;l
+: 1692647390:0;pwd
+: 1692647410:0;vi ncbi-parsed-gene-data
+: 1692648983:0;jk
+: 1692649038:0;big
+: 1692649041:0;small
+: 1692649046:0;l
+: 1692649051:0;vim .
+: 1692649491:0;l
+: 1692649503:0;vi ncbi-raw-gene-data
+: 1692649526:0;l
+: 1692649530:0;vi ncbi-parsed-gene-data
+: 1692649847:0;npm run start:debug
+: 1692649859:0;s
+: 1692649861:0;gad
+: 1692649862:0;gpsh
+: 1692649881:0;l
+: 1692649953:0;vim .
+: 1692650392:0;s
+: 1692650395:0;cd ..
+: 1692650396:0;gad
+: 1692650396:0;gpsh
+: 1692650403:0;l
+: 1692650416:0;git rm ncbi-parsed-gene-data/
+: 1692650425:0;git rm -r ncbi*
+: 1692650434:0;s
+: 1692650444:0;echo ncbi-raw-gene-data >> .gitignore
+: 1692650453:0;echo ncbi-parsed-gene-data >> .gitignore
+: 1692650454:0;s
+: 1692650455:0;gad
+: 1692650456:0;gpsh
+: 1692650658:0;npm run start:dev
+: 1692650682:0;gs
+: 1692650688:0;l
+: 1692650689:0;s
+: 1692650690:0;gad
+: 1692650690:0;gpsh
+: 1692650715:0;s
+: 1692650825:0;gad
+: 1692650826:0;gpsh
+: 1692651888:0;l
+: 1692651899:0;vi ncbi-parsed-gene-data
+: 1692657380:0;s
+: 1692657384:0;gad
+: 1692657385:0;gpsh
+: 1692657387:0;abtasks
+: 1692657760:0;l
+: 1692657766:0;cd ncbi
+: 1692657767:0;l
+: 1692657770:0;vim parse-ncbi
+: 1692657812:0;l
+: 1692657864:0;vi ncbi-raw-gene-data
+: 1692659397:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692660202:0;l
+: 1692660218:0;vi ncbi-parsed-gene-data
+: 1692660584:0;s
+: 1692660587:0;gad
+: 1692660588:0;gpsh
+: 1692661378:0;s
+: 1692661380:0;gad
+: 1692661384:0;gpsh
+: 1692662297:0;l
+: 1692662298:0;s
+: 1692662299:0;gad
+: 1692662300:0;gpsh
+: 1692662366:0;l
+: 1692662369:0;vim parse-ncbi
+: 1692662872:0;l
+: 1692665730:0;vi ncbi-raw-gene-data
+: 1692665925:0;node ~/ai-chat-cli/dist/chat-app.js
+: 1692666437:0;s
+: 1692666439:0;gad
+: 1692666443:0;s
+: 1692666444:0;gpsh
+: 1692666719:0;l
+: 1692666754:0;vim .
+: 1692667540:0;s
+: 1692667541:0;gad
+: 1692667542:0;gpsh
+: 1692667562:0;s
+: 1692667644:0;ls
+: 1692667651:0;l
+: 1692667652:0;s
+: 1692667653:0;gad
+: 1692667654:0;gpsh
+: 1692667658:0;s

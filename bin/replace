@@ -11,7 +11,7 @@ replace_with=$2
 
 # replace the word in all the files in the current directory and subdirectories
 #sed -i -r "s/${word_to_replace}/${replace_with}/g" $(find . -type f -name "*")
-find ./ -type f -exec gsed -i 's/'"$word_to_replace"'/'"$replace_with"'/g' {} \;
+find . -type f -exec gsed -i 's/'"$word_to_replace"'/'"$replace_with"'/g' {} \;
 echo 's/'"$word_to_replace"'/'"$replace_with"'/g'
 echo "Word replaced successfully!"
 

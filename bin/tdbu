@@ -3,6 +3,6 @@ cd ~/ekb-updater-andrew-stephen
 tmux new-session -d -s download-parse-ekb-root
 cd ~/ekb-updater-andrew-stephen/nest-download-parse-ekb
 tna
-cd ~/ekb-updater-andrew-stephen/deployment-handler
-tna
+# cd ~/ekb-updater-andrew-stephen/deployment-handler
+# tna
 

@@ -1,3 +1,10 @@
+"=====================================
+" CUSTOM COC
+"=====================================
+" set runtimepath^=/Users/andrewmiller/coc-node-neovim/foobar
+
+" let g:coc_node_args = ['--nolazy', '--inspect-brk=6045']
+
 " =====================================
 "             COC
 " =====================================

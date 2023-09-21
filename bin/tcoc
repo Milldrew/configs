@@ -1,0 +1,8 @@
+#tcoc
+cd ~/coc-node-neovim
+tmux new-session -d -s coc-node-neovim-root
+tmux send-keys -t coc-node-neovim-root "tmux split-window -h" Enter
+tmux send-keys -t coc-node-neovim-root:1.1 "clear" Enter
+sleep 1
+tmux send-keys -t coc-node-neovim-root:1.2 "clear" Enter
+

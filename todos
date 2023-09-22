@@ -5,5 +5,17 @@ PLANS OF ACTION
 3. Start Milldrew Soft YouTube Channel and start streaming Milldrew Soft Projects
   • New Milldrew Soft Projects
     -- node.js plugins for neovim.
-        integrate chokidar with neovim.
+        neovim-onsave
+          Leverage Neovim events
+           - User should be able to hook command line commands to the execution of a filetype or a filename.
+              Example 1. All files with the extension .sh might execute themselves on the write event.
+              Example 2. When I save a specific file I might want to run a specific test, via shell script or command.
+        neovim-chat-gpt
+          Buffer opens and starts a connection with chatgpt-open ai connection details are printed at the top of buffer.
+          Command prompt is at the bottom of the buffer.
 
+          When the user saves the buffer the command prompt is sent to open ai 
+          The latest response is appended to the response history above the command prompt.
+
+
+          

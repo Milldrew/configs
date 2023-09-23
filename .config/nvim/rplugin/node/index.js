@@ -7,5 +7,5 @@ module.exports = (plugin) => {
     plugin.nvim.setLine("A line, for your troubles");
   }
   plugin.registerCommand("SetMyLine", [plugin.nvim.buffer, setLine]);
-  plugin.registerAutocmd("BufWritePre", onBufWrite, { pattern: "*" });
+  // plugin.registerAutocmd("BufWritePre", onBufWrite, { pattern: "*" });
 };

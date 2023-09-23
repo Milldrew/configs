@@ -2,9 +2,9 @@
 PLANS OF ACTION
 ───────────────
 1. Finish applicaiton for Cyber Warfare Engineer.
-   - SS Card
-2. Look at cost of BYU Software Engineering Degree, and Node.js JSNAD JSNSD Rrecertificaiton
-3. Start Milldrew Soft YouTube Channel and start streaming Milldrew Soft Projects
+   - SS Card (in progress)
+2. Look at cost of BYU Software Engineering Degree, and Node.js JSNAD JSNSD Rrecertificaiton (in progress)
+3. Start Milldrew Soft YouTube Channel and start streaming Milldrew Soft Projects ( later once there is something to stream about)
   • New Milldrew Soft Projects
     -- node.js plugins for neovim.
         neovim-onsave

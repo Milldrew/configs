@@ -5,12 +5,9 @@ call plug#begin()
   Plug 'milldrew/shortcuts'
   Plug 'milldrew/user_env_manager_notes_exercises'
   Plug 'milldrew/vim-ngx'
-  Plug 'neovim/nvim-lspconfig'
   Plug 'tpope/vim-abolish'
   Plug 'tpope/vim-commentary'
   Plug 'tpope/vim-surround'
   Plug 'tpope/vim-fugitive'
-  Plug '~/neovim-node-ai/'
+  Plug '~/neovim-node-ai'
 call plug#end()
-
-

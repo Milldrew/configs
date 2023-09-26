@@ -1,0 +1,4 @@
+#tvai
+cd ~/neovim-node-ai
+tmux new-session -d -s neovim-ai
+

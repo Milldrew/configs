@@ -5628,3 +5628,5 @@ coc-node-neovim
 neovim-node-ai
 nestjs-nvim-chat
 coc.nvim
+.config/nvim/rplugin/node/milldrew-chat
+poc

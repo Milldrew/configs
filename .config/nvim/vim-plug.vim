@@ -9,5 +9,5 @@ call plug#begin()
   Plug 'tpope/vim-commentary'
   Plug 'tpope/vim-surround'
   Plug 'tpope/vim-fugitive'
-  Plug '~/neovim-node-ai'
+  Plug '~/nestjs-nvim-chat'
 call plug#end()

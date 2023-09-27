@@ -1,0 +1,6 @@
+#trnvim
+cd ~/nestjs-nvim-chat/
+tmux new-session -d -s trnvim
+tna
+
+

@@ -22,3 +22,14 @@ PLANS OF ACTION
 4. Check out new neovim tooling and see what is worth taking on 
 5. Extend aws free teir using a command line interface to implement free services.
     - create a lambda function that automatically cancels services when they get close to a certain usage threshold
+
+
+RPLUGIN TODOS
+─────────────
+1. Create a new workflow where the server/loggers are running in one session while all the text 
+   editing is going on in another session.
+   - The vim plugin should execute the javascript code 
+   - The vim plugin 
+2. Create a proof of conecept where the vim plugin connects to an uncompiled javascript file
+3. 
+

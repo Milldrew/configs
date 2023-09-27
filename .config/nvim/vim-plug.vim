@@ -9,5 +9,8 @@ call plug#begin()
   Plug 'tpope/vim-commentary'
   Plug 'tpope/vim-surround'
   Plug 'tpope/vim-fugitive'
-  Plug '~/nestjs-nvim-chat'
+  Plug 'nvim-lua/plenary.nvim'
+  Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.1' }
 call plug#end()
+" MUST SOURCE THIS FILE TO GET PLUGINS TO WORK WITH PLUGIN COMMANDS, WONT WORK
+" JUST FROM SAVING THE FILE

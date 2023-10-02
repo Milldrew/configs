@@ -11,6 +11,13 @@ call plug#begin()
   Plug 'tpope/vim-fugitive'
   Plug 'nvim-lua/plenary.nvim'
   Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.1' }
+  Plug 'MunifTanjim/nui.nvim'
+  Plug 'jackMort/ChatGPT.nvim'
 call plug#end()
 " MUST SOURCE THIS FILE TO GET PLUGINS TO WORK WITH PLUGIN COMMANDS, WONT WORK
 " JUST FROM SAVING THE FILE
+
+lua <<EOF
+-- chat gpt
+require('chatgpt').setup()
+EOF

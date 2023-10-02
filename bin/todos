@@ -1,2 +1,3 @@
 #replace shebang with this comment
-nvim ~/todos.txt
+nvim ~/private-configs/todos.txt
+

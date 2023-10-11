@@ -1,35 +1,41 @@
 #tflag flagship app open up
 FEATURE=$1
-cd ~/voter-registration-flagship-app/
+cd ~/flagship-app/
 tmux new-session -d -s flagship-app
-cd ~/voter-registration-flagship-app/angular-workspace
+cd ~/flagship-app/angular-workspace
 taw
 
 # if feature is = profile, open up profile
 if [ "$FEATURE" = "profile" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/profile
+    cd ~/flagship-app/angular-workspace/projects/profile
     tal
 fi
 
 # if feature is home, open up home
 if [ "$FEATURE" = "home" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/home
+    cd ~/flagship-app/angular-workspace/projects/home
     tal
 fi
 # if feature help open up help
 if [ "$FEATURE" = "help" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/help
+    cd ~/flagship-app/angular-workspace/projects/help
     tal
 fi
 # if feature is settings open up settings
 if [ "$FEATURE" = "settings" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/settings
+    cd ~/flagship-app/angular-workspace/projects/settings
     tal
 fi
 
 # if feature is ballot-initiatives
 if [ "$FEATURE" = "bi" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/ballot-initiatives
+    cd ~/flagship-app/angular-workspace/projects/ballot-initiatives
+    tal
+fi
+
+# if feature is social
+if [ "$FEATURE" = "social" ]; then
+    cd ~/flagship-app/angular-workspace/projects/social
     tal
 fi
 

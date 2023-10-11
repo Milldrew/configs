@@ -31,5 +31,5 @@ tmux send-keys -t $CURRENT_DIR:3.1 Enter
 tmux send-keys -t $CURRENT_DIR:3.1 'vim README.txt' Enter
 tmux select-window -t 2
 tmux select-pane -t 1
-tmux a -t $CURRENT_DIR;
+#tmux a -t $CURRENT_DIR;
 

@@ -123,4 +123,4 @@ export SDKMAN_DIR="$HOME/.sdkman"
 # Load Angular CLI autocompletion.
 # source <(ng completion script)
 
-source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+# source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh

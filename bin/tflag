@@ -39,4 +39,10 @@ if [ "$FEATURE" = "social" ]; then
     tal
 fi
 
+# if feature is navigation
+if [ "$FEATURE" = "navigation" ]; then
+    cd ~/flagship-app/angular-workspace/projects/navigation
+    tal
+fi
+
 

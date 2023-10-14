@@ -1,7 +1,7 @@
 #tflag flagship app open up
 FEATURE_1=$1
 FEATURE_2=$2
-Feature_3=$3
+FEATURE_3=$3
 
 cd ~/flagship-app/
 tmux new-session -d -s flagship-app

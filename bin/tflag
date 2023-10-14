@@ -1,6 +1,7 @@
 #tflag flagship app open up
 FEATURE_1=$1
 FEATURE_2=$2
+Feature_3=$3
 
 cd ~/flagship-app/
 tmux new-session -d -s flagship-app
@@ -8,41 +9,41 @@ cd ~/flagship-app/angular-workspace
 taw
 
 # if feature is = profile, open up profile
-if [ "$FEATURE_1" = "profile" ] || [ "$FEATURE_2" = "profile" ]; then
+if [ "$FEATURE_1" = "profile" ] || [ "$FEATURE_2" = "profile" ] || [ "$FEATURE_3" = "profile" ]; then
     cd ~/flagship-app/angular-workspace/projects/profile
     tal
 fi
 
 # if feature1 is home, open up home or if feature2 is null open up home
-if [ "$FEATURE_1" = "home" ] || [ "$FEATURE_2" = "home" ]; then
+if [ "$FEATURE_1" = "home" ] || [ "$FEATURE_2" = "home" ] || [ "$FEATURE_3" = "home" ]; then
     cd ~/flagship-app/angular-workspace/projects/home
     tal
 fi
 # if feature help open up help
-if [ "$FEATURE_1" = "help" ] || [ "$FEATURE_2" = "help" ]; then
+if [ "$FEATURE_1" = "help" ] || [ "$FEATURE_2" = "help" ] || [ "$FEATURE_3" = "help" ]; then
     cd ~/flagship-app/angular-workspace/projects/help
     tal
 fi
 # if feature is settings open up settings
-if [ "$FEATURE_1" = "settings" ] || [ "$FEATURE_2" = "settings" ]; then
+if [ "$FEATURE_1" = "settings" ] || [ "$FEATURE_2" = "settings" ] || [ "$FEATURE_3" = "settings" ]; then
     cd ~/flagship-app/angular-workspace/projects/settings
     tal
 fi
 
 # if feature is ballot-initiatives
-if [ "$FEATURE_1" = "bi" ] || [ "$FEATURE_2" = "bi" ]; then
+if [ "$FEATURE_1" = "bi" ] || [ "$FEATURE_2" = "bi" ] || [ "$FEATURE_3" = "bi" ]; then
     cd ~/flagship-app/angular-workspace/projects/ballot-initiatives
     tal
 fi
 
 # if feature is social
-if [ "$FEATURE_1" = "social"  ] || [ "$FEATURE_2" = "social" ]; then
+if [ "$FEATURE_1" = "social"  ] || [ "$FEATURE_2" = "social" ] || [ "$FEATURE_3" = "social" ]; then
     cd ~/flagship-app/angular-workspace/projects/social
     tal
 fi
 
 # if feature is navigation
-if [ "$FEATURE_1" = "navigation" ] || [ "$FEATURE_2" = "navigation" ]; then
+if [ "$FEATURE_1" = "navigation" ] || [ "$FEATURE_2" = "navigation" ] || [ "$FEATURE_3" = "navigation" ]; then
     cd ~/flagship-app/angular-workspace/projects/navigation
     tal
 fi

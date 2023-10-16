@@ -40,13 +40,7 @@
         "--ngProbeLocations",
         "/Users/andrewmiller/.nvm/versions/node/v18.16.1/lib/node_modules/@angular/language-server/bin"
       ],
-      "filetypes": [
-        "ts",
-        "typescript",
-        "html",
-        "typescriptreact",
-        "typescript.tsx"
-      ],
+      "filetypes": ["ts", "typescript", "html"],
       "trace.server.verbosity": "verbose"
     }
   }

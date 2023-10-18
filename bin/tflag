@@ -54,5 +54,10 @@ if [ "$FEATURE_1" = "parse" ] || [ "$FEATURE_2" = "parse" ] || [ "$FEATURE_3" = 
     tna
 fi
 
+# if feature is rest
+if [ "$FEATURE_1" = "rest" ] || [ "$FEATURE_2" = "rest" ] || [ "$FEATURE_3" = "rest" ]; then
+    cd ~/flagship-app/nest-rest-api
+    tna
+fi
 
 tmux attach-session

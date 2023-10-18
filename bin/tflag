@@ -48,5 +48,11 @@ if [ "$FEATURE_1" = "navigation" ] || [ "$FEATURE_2" = "navigation" ] || [ "$FEA
     tal
 fi
 
+# if feature is parse
+if [ "$FEATURE_1" = "parse" ] || [ "$FEATURE_2" = "parse" ] || [ "$FEATURE_3" = "parse" ]; then
+    cd ~/flagship-app/nestjs-voter-data-cli
+    tna
+fi
+
 
 tmux attach-session

@@ -25,5 +25,4 @@ tmux select-layout main-horizontal
 tmux new-window -n tasks -c 
 tmux select-window -t 2
 tmux select-pane -t 1
-tmux a -t $CURRENT_DIR;
 

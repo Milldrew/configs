@@ -1,36 +1,63 @@
 #tflag flagship app open up
-FEATURE=$1
-cd ~/voter-registration-flagship-app/
+FEATURE_1=$1
+FEATURE_2=$2
+FEATURE_3=$3
+
+cd ~/flagship-app/
 tmux new-session -d -s flagship-app
-cd ~/voter-registration-flagship-app/angular-workspace
+cd ~/flagship-app/angular-workspace
 taw
 
 # if feature is = profile, open up profile
-if [ "$FEATURE" = "profile" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/profile
+if [ "$FEATURE_1" = "profile" ] || [ "$FEATURE_2" = "profile" ] || [ "$FEATURE_3" = "profile" ]; then
+    cd ~/flagship-app/angular-workspace/projects/profile
     tal
 fi
 
-# if feature is home, open up home
-if [ "$FEATURE" = "home" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/home
+# if feature1 is home, open up home or if feature2 is null open up home
+if [ "$FEATURE_1" = "home" ] || [ "$FEATURE_2" = "home" ] || [ "$FEATURE_3" = "home" ]; then
+    cd ~/flagship-app/angular-workspace/projects/home
     tal
 fi
 # if feature help open up help
-if [ "$FEATURE" = "help" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/help
+if [ "$FEATURE_1" = "help" ] || [ "$FEATURE_2" = "help" ] || [ "$FEATURE_3" = "help" ]; then
+    cd ~/flagship-app/angular-workspace/projects/help
     tal
 fi
 # if feature is settings open up settings
-if [ "$FEATURE" = "settings" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/settings
+if [ "$FEATURE_1" = "settings" ] || [ "$FEATURE_2" = "settings" ] || [ "$FEATURE_3" = "settings" ]; then
+    cd ~/flagship-app/angular-workspace/projects/settings
     tal
 fi
 
 # if feature is ballot-initiatives
-if [ "$FEATURE" = "bi" ]; then
-    cd ~/voter-registration-flagship-app/angular-workspace/projects/ballot-initiatives
+if [ "$FEATURE_1" = "bi" ] || [ "$FEATURE_2" = "bi" ] || [ "$FEATURE_3" = "bi" ]; then
+    cd ~/flagship-app/angular-workspace/projects/ballot-initiatives
     tal
 fi
 
+# if feature is social
+if [ "$FEATURE_1" = "social"  ] || [ "$FEATURE_2" = "social" ] || [ "$FEATURE_3" = "social" ]; then
+    cd ~/flagship-app/angular-workspace/projects/social
+    tal
+fi
 
+# if feature is navigation
+if [ "$FEATURE_1" = "navigation" ] || [ "$FEATURE_2" = "navigation" ] || [ "$FEATURE_3" = "navigation" ]; then
+    cd ~/flagship-app/angular-workspace/projects/navigation
+    tal
+fi
+
+# if feature is parse
+if [ "$FEATURE_1" = "parse" ] || [ "$FEATURE_2" = "parse" ] || [ "$FEATURE_3" = "parse" ]; then
+    cd ~/flagship-app/nestjs-voter-data-cli
+    tna
+fi
+
+# if feature is rest
+if [ "$FEATURE_1" = "rest" ] || [ "$FEATURE_2" = "rest" ] || [ "$FEATURE_3" = "rest" ]; then
+    cd ~/flagship-app/nest-rest-api
+    tna
+fi
+
+tmux attach-session

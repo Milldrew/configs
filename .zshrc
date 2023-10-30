@@ -72,8 +72,8 @@ export ZSH="$HOME/.oh-my-zsh"
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git
-   zsh-autosuggestions
- )
+  zsh-autosuggestions
+)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -104,10 +104,10 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 #prompt_context(){}
 echo zshrc sourced
-for private_variables in ~/private-configs/variables/*; do source $private_variables; done
+for private_variables in ~/pconfigs/variables/*; do source $private_variables; done
 for variable_file in ~/.config/environment-variables/*; do source $variable_file; done
 for alias_file in ~/.config/aliases/*; do source $alias_file; done
-for private_aliases in ~/private-configs/aliases/*; do source $private_aliases; done
+for private_aliases in ~/pconfigs/aliases/*; do source $private_aliases; done
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -123,4 +123,4 @@ export SDKMAN_DIR="$HOME/.sdkman"
 # Load Angular CLI autocompletion.
 # source <(ng completion script)
 
-# source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh
+ #source $(brew --prefix)/share/zsh-autosuggestions/zsh-autosuggestions.zsh

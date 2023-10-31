@@ -1,6 +1,9 @@
 {
   "tsserver.trace.server": "verbose",
-  "pairs.disableLanguages": ["text", "txt"],
+  "pairs.disableLanguages": [
+    "text",
+    "txt"
+  ],
   "coc.preferences.formatOnSave": true,
   "eslint.autoFixOnSave": true,
   "coc.preferences.formatOnSaveFiletypes": [
@@ -22,13 +25,24 @@
   "languageserver": {
     "graphql": {
       "command": "graphql-lsp",
-      "args": ["server", "-m", "stream"],
-      "filetypes": ["graphql"]
+      "args": [
+        "server",
+        "-m",
+        "stream"
+      ],
+      "filetypes": [
+        "graphql"
+      ]
     },
     "terraform": {
       "command": "terraform-ls",
-      "args": ["serve"],
-      "filetypes": ["terraform", "tf"],
+      "args": [
+        "serve"
+      ],
+      "filetypes": [
+        "terraform",
+        "tf"
+      ],
       "initializationOptions": {}
     },
     "angular": {
@@ -36,11 +50,15 @@
       "args": [
         "--stdio",
         "--tsProbeLocations",
-        "/Users/andrewmiller/.nvm/versions/node/v18.16.1/lib/node_modules/typescript/lib",
+        "/Users/andrew/.nvm/versions/node/v20.9.0/lib/node_modules/typescript/lib",
         "--ngProbeLocations",
-        "/Users/andrewmiller/.nvm/versions/node/v18.16.1/lib/node_modules/@angular/language-server/bin"
+        "/Users/andrew/.nvm/versions/node/v20.9.0/lib/node_modules/@angular/language-server/bin"
       ],
-      "filetypes": ["ts", "typescript", "html"],
+      "filetypes": [
+        "ts",
+        "typescript",
+        "html"
+      ],
       "trace.server.verbosity": "verbose"
     }
   }

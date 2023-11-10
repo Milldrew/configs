@@ -50,9 +50,9 @@
       "args": [
         "--stdio",
         "--tsProbeLocations",
-        "/Users/andrew/.nvm/versions/node/v20.9.0/lib/node_modules/typescript/lib",
+        "/Users/andrew/.nvm/versions/node/v16.20.2/lib/node_modules/typescript/lib",
         "--ngProbeLocations",
-        "/Users/andrew/.nvm/versions/node/v20.9.0/lib/node_modules/@angular/language-server/bin"
+        "/Users/andrew/.nvm/versions/node/v16.20.2/lib/node_modules/@angular/language-server/bin"
       ],
       "filetypes": [
         "ts",

@@ -1,1 +1,2 @@
-alias k="minikube kubectl --"
+#alias k="minikube kubectl --"
+alias k="kubectl"

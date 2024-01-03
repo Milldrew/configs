@@ -1,0 +1,5 @@
+#tpc
+cd ~/potato-chip/angular-workspace
+taw
+cd ~/potato-chip/angular-workspace/electron-workspace/nest-workspace/
+tna
